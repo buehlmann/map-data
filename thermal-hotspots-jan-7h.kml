@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2"  xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2"    
      xmlns:atom="http://www.w3.org/2005/Atom">
     <Document>
-        <name>Hotspots Jan_07</name>
+        <name>Thermals January +07</name>
         
                         <atom:author>             
                 <atom:name>
@@ -144,14 +144,14 @@
         
                 
         <Folder>
-            <name>Waypoints</name>
+            <name></name>
             <description>A list of waypoints</description>
             <visibility>1</visibility>
             <open>0</open>
                                                                                 
             
             <Placemark>
-                <name>T65</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -173,7 +173,7 @@
                                                                         
             
             <Placemark>
-                <name>T59</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -195,7 +195,7 @@
                                                                         
             
             <Placemark>
-                <name>T56</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -217,7 +217,7 @@
                                                                         
             
             <Placemark>
-                <name>T56-1</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -239,7 +239,7 @@
                                                                         
             
             <Placemark>
-                <name>T55</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -261,7 +261,7 @@
                                                                         
             
             <Placemark>
-                <name>T54</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -283,7 +283,7 @@
                                                                         
             
             <Placemark>
-                <name>T54-1</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -305,7 +305,7 @@
                                                                         
             
             <Placemark>
-                <name>T53</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -327,7 +327,7 @@
                                                                         
             
             <Placemark>
-                <name>T52</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -349,7 +349,7 @@
                                                                         
             
             <Placemark>
-                <name>T50</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -371,7 +371,7 @@
                                                                         
             
             <Placemark>
-                <name>T49</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -393,7 +393,7 @@
                                                                         
             
             <Placemark>
-                <name>T47</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -415,7 +415,7 @@
                                                                         
             
             <Placemark>
-                <name>T46</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -437,7 +437,7 @@
                                                                         
             
             <Placemark>
-                <name>T46-1</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -459,7 +459,7 @@
                                                                         
             
             <Placemark>
-                <name>T45</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -481,7 +481,7 @@
                                                                         
             
             <Placemark>
-                <name>T44</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -503,7 +503,7 @@
                                                                         
             
             <Placemark>
-                <name>T44-1</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -525,7 +525,7 @@
                                                                         
             
             <Placemark>
-                <name>T43</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -547,7 +547,7 @@
                                                                         
             
             <Placemark>
-                <name>T43-1</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -569,7 +569,7 @@
                                                                         
             
             <Placemark>
-                <name>T43-2</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -591,7 +591,7 @@
                                                                         
             
             <Placemark>
-                <name>T42</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -613,7 +613,7 @@
                                                                         
             
             <Placemark>
-                <name>T41</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -635,7 +635,7 @@
                                                                         
             
             <Placemark>
-                <name>T41-1</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -657,7 +657,7 @@
                                                                         
             
             <Placemark>
-                <name>T41-2</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -679,7 +679,7 @@
                                                                         
             
             <Placemark>
-                <name>T40</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -701,7 +701,7 @@
                                                                         
             
             <Placemark>
-                <name>T40-1</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -723,7 +723,7 @@
                                                                         
             
             <Placemark>
-                <name>T40-2</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -745,7 +745,7 @@
                                                                         
             
             <Placemark>
-                <name>T40-3</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -767,7 +767,7 @@
                                                                         
             
             <Placemark>
-                <name>T39</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -789,7 +789,7 @@
                                                                         
             
             <Placemark>
-                <name>T38</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -811,7 +811,7 @@
                                                                         
             
             <Placemark>
-                <name>T38-1</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -833,7 +833,7 @@
                                                                         
             
             <Placemark>
-                <name>T38-2</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -855,7 +855,7 @@
                                                                         
             
             <Placemark>
-                <name>T38-3</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -877,7 +877,7 @@
                                                                         
             
             <Placemark>
-                <name>T38-4</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -899,7 +899,7 @@
                                                                         
             
             <Placemark>
-                <name>T37</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -921,7 +921,7 @@
                                                                         
             
             <Placemark>
-                <name>T37-1</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -943,7 +943,7 @@
                                                                         
             
             <Placemark>
-                <name>T37-2</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -965,7 +965,7 @@
                                                                         
             
             <Placemark>
-                <name>T37-3</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -987,7 +987,7 @@
                                                                         
             
             <Placemark>
-                <name>T36</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1009,7 +1009,7 @@
                                                                         
             
             <Placemark>
-                <name>T36-1</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1031,7 +1031,7 @@
                                                                         
             
             <Placemark>
-                <name>T36-2</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1053,7 +1053,7 @@
                                                                         
             
             <Placemark>
-                <name>T35</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1075,7 +1075,7 @@
                                                                         
             
             <Placemark>
-                <name>T35-1</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1097,7 +1097,7 @@
                                                                         
             
             <Placemark>
-                <name>T35-2</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1119,7 +1119,7 @@
                                                                         
             
             <Placemark>
-                <name>T34</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1141,7 +1141,7 @@
                                                                         
             
             <Placemark>
-                <name>T34-1</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1163,7 +1163,7 @@
                                                                         
             
             <Placemark>
-                <name>T34-2</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1185,7 +1185,7 @@
                                                                         
             
             <Placemark>
-                <name>T34-3</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1207,7 +1207,7 @@
                                                                         
             
             <Placemark>
-                <name>T34-4</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1229,7 +1229,7 @@
                                                                         
             
             <Placemark>
-                <name>T34-5</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1251,7 +1251,7 @@
                                                                         
             
             <Placemark>
-                <name>T33</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1273,7 +1273,7 @@
                                                                         
             
             <Placemark>
-                <name>T32</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1295,7 +1295,7 @@
                                                                         
             
             <Placemark>
-                <name>T32-1</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1317,7 +1317,7 @@
                                                                         
             
             <Placemark>
-                <name>T31</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1339,7 +1339,7 @@
                                                                         
             
             <Placemark>
-                <name>T31-1</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1361,7 +1361,7 @@
                                                                         
             
             <Placemark>
-                <name>T31-2</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1383,7 +1383,7 @@
                                                                         
             
             <Placemark>
-                <name>T31-3</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1405,7 +1405,7 @@
                                                                         
             
             <Placemark>
-                <name>T31-4</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1427,7 +1427,7 @@
                                                                         
             
             <Placemark>
-                <name>T30</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1449,7 +1449,7 @@
                                                                         
             
             <Placemark>
-                <name>T30-1</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1471,7 +1471,7 @@
                                                                         
             
             <Placemark>
-                <name>T30-2</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1493,7 +1493,7 @@
                                                                         
             
             <Placemark>
-                <name>T30-3</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1515,7 +1515,7 @@
                                                                         
             
             <Placemark>
-                <name>T29</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1537,7 +1537,7 @@
                                                                         
             
             <Placemark>
-                <name>T29-1</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1559,7 +1559,7 @@
                                                                         
             
             <Placemark>
-                <name>T29-2</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1581,7 +1581,7 @@
                                                                         
             
             <Placemark>
-                <name>T29-3</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1603,7 +1603,7 @@
                                                                         
             
             <Placemark>
-                <name>T29-4</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1625,7 +1625,7 @@
                                                                         
             
             <Placemark>
-                <name>T28</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1647,7 +1647,7 @@
                                                                         
             
             <Placemark>
-                <name>T28-1</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1669,7 +1669,7 @@
                                                                         
             
             <Placemark>
-                <name>T28-2</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1691,7 +1691,7 @@
                                                                         
             
             <Placemark>
-                <name>T28-3</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1713,7 +1713,7 @@
                                                                         
             
             <Placemark>
-                <name>T27</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1735,7 +1735,7 @@
                                                                         
             
             <Placemark>
-                <name>T27-1</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1757,7 +1757,7 @@
                                                                         
             
             <Placemark>
-                <name>T27-2</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1779,7 +1779,7 @@
                                                                         
             
             <Placemark>
-                <name>T27-3</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1801,7 +1801,7 @@
                                                                         
             
             <Placemark>
-                <name>T27-4</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1823,7 +1823,7 @@
                                                                         
             
             <Placemark>
-                <name>T27-5</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1845,7 +1845,7 @@
                                                                         
             
             <Placemark>
-                <name>T27-6</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1867,7 +1867,7 @@
                                                                         
             
             <Placemark>
-                <name>T27-7</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1889,7 +1889,7 @@
                                                                         
             
             <Placemark>
-                <name>T27-8</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1911,7 +1911,7 @@
                                                                         
             
             <Placemark>
-                <name>T27-9</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1933,7 +1933,7 @@
                                                                         
             
             <Placemark>
-                <name>T26</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1955,7 +1955,7 @@
                                                                         
             
             <Placemark>
-                <name>T26-1</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1977,7 +1977,7 @@
                                                                         
             
             <Placemark>
-                <name>T26-2</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -1999,7 +1999,7 @@
                                                                         
             
             <Placemark>
-                <name>T25</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -2021,7 +2021,7 @@
                                                                         
             
             <Placemark>
-                <name>T25-1</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -2043,7 +2043,7 @@
                                                                         
             
             <Placemark>
-                <name>T25-2</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 
@@ -2065,7 +2065,7 @@
                                                                         
             
             <Placemark>
-                <name>T25-3</name>                      
+                <name></name>                      
                 <visibility>1</visibility>            
                 <open>0</open>                        
                                                 

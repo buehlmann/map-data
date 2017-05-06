@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document id="root_doc">
-<Schema name="CH_Landeplaetze" id="CH_Landeplaetze">
+<Schema name="Landeplaetze" id="Landeplaetze">
 	<SimpleField name="timestamp" type="string"></SimpleField>
 	<SimpleField name="begin" type="string"></SimpleField>
 	<SimpleField name="end" type="string"></SimpleField>
@@ -12,7 +12,7 @@
 	<SimpleField name="drawOrder" type="int"></SimpleField>
 	<SimpleField name="icon" type="string"></SimpleField>
 </Schema>
-<Folder><name>CH_Landeplaetze</name>
+<Folder><name>Landeplaetze</name>
   <Placemark>
 	<name>Adelboden Boden</name>
 	<description>
@@ -45,7 +45,7 @@
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -85,7 +85,7 @@
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -131,7 +131,7 @@ Achtung, Flugvorschriften genau beachten, du bist mitten in der Flugplatzzone!
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -171,7 +171,7 @@ Achtung, Flugvorschriften genau beachten, du bist mitten in der Flugplatzzone!
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -211,7 +211,7 @@ Achtung, Flugvorschriften genau beachten, du bist mitten in der Flugplatzzone!
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -251,7 +251,7 @@ Achtung, Flugvorschriften genau beachten, du bist mitten in der Flugplatzzone!
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -291,7 +291,7 @@ Achtung, Flugvorschriften genau beachten, du bist mitten in der Flugplatzzone!
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -331,7 +331,7 @@ Achtung, Flugvorschriften genau beachten, du bist mitten in der Flugplatzzone!
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -371,7 +371,7 @@ Achtung, Flugvorschriften genau beachten, du bist mitten in der Flugplatzzone!
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -411,7 +411,7 @@ Achtung, Flugvorschriften genau beachten, du bist mitten in der Flugplatzzone!
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -451,7 +451,7 @@ Achtung, Flugvorschriften genau beachten, du bist mitten in der Flugplatzzone!
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -492,7 +492,7 @@ Bei Talwind fliegt man eine Linksvolte, bei Bergwind eine Rechtsvolte. Bitte den
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -535,7 +535,7 @@ Im Sommer kÃ¶nnen nachmittags starke Talwinde.
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -576,7 +576,7 @@ Plus d'infos sur http://www.lagopedes.ch&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -616,7 +616,7 @@ Plus d'infos sur http://www.lagopedes.ch&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -656,7 +656,7 @@ Plus d'infos sur http://www.lagopedes.ch&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -696,7 +696,7 @@ Plus d'infos sur http://www.lagopedes.ch&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -736,7 +736,7 @@ Plus d'infos sur http://www.lagopedes.ch&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -776,7 +776,7 @@ Plus d'infos sur http://www.lagopedes.ch&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -817,7 +817,7 @@ Der Parkplatz liegt etwas nÃ¶rdlich ( Fusspfad folgen).&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -859,7 +859,7 @@ Der Talwind ist hier bedeutend weniger stark als in Brig, daher sinnvolle Altern
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -900,7 +900,7 @@ Vorsicht die beiden WÃ¤lle links und rechts kÃ¶nnen leichte Turbulenzen veru
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -943,7 +943,7 @@ Turbulences par fort vent et bise. Attention aux pylones&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -985,7 +985,7 @@ Vorsicht: Bei Bise kÃ¶nnen Leerotoren entstehen.
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -1035,7 +1035,7 @@ Gefahren
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -1076,7 +1076,7 @@ Vorsicht: Die Bise weht hier Richtung See, nur bei schwacher Bise diesen Landepl
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -1116,7 +1116,7 @@ Vorsicht: Die Bise weht hier Richtung See, nur bei schwacher Bise diesen Landepl
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -1156,7 +1156,7 @@ Vorsicht: Die Bise weht hier Richtung See, nur bei schwacher Bise diesen Landepl
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -1198,7 +1198,7 @@ Achtung: bei starkem Talwinde die Landung ist im Lee der HÃ¤usern. Dann ist es
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -1245,7 +1245,7 @@ Achtung: bei starkem Talwinde die Landung ist im Lee der HÃ¤usern. Dann ist es
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -1287,7 +1287,7 @@ Achtung: Landeplatz nur benutzen wenn abgemÃ¤ht!&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -1329,7 +1329,7 @@ Achtung: Landeplatz nur benutzen wenn abgemÃ¤ht!&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -1371,7 +1371,7 @@ Achtung: Landeplatz nur benutzen wenn abgemÃ¤ht!&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -1413,7 +1413,7 @@ Achtung: Landeplatz nur benutzen wenn abgemÃ¤ht!&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -1453,7 +1453,7 @@ Achtung: Landeplatz nur benutzen wenn abgemÃ¤ht!&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -1493,7 +1493,7 @@ Achtung: Landeplatz nur benutzen wenn abgemÃ¤ht!&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -1533,7 +1533,7 @@ Achtung: Landeplatz nur benutzen wenn abgemÃ¤ht!&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -1573,7 +1573,7 @@ Achtung: Landeplatz nur benutzen wenn abgemÃ¤ht!&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -1616,7 +1616,7 @@ You have to stay away from the Sion TMA : fly in the airspace area G.
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -1656,7 +1656,7 @@ You have to stay away from the Sion TMA : fly in the airspace area G.
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -1696,7 +1696,7 @@ You have to stay away from the Sion TMA : fly in the airspace area G.
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -1736,7 +1736,7 @@ You have to stay away from the Sion TMA : fly in the airspace area G.
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -1776,7 +1776,7 @@ You have to stay away from the Sion TMA : fly in the airspace area G.
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -1817,7 +1817,7 @@ Achtung: Bei Schiessbetrieb nicht erlaubt !! Auf Schiessfahne achten, besonders 
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -1858,7 +1858,7 @@ Vorsicht: Bei Talwind liegt der Landeplatz im Lee!!!&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -1898,7 +1898,7 @@ Vorsicht: Bei Talwind liegt der Landeplatz im Lee!!!&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -1939,7 +1939,7 @@ Achtung: Hochspannungsleitung&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -1980,7 +1980,7 @@ Auf diesem Landeplatz sollte gemÃ¤ss Aussage von lokalen Piloten nicht mehr ge
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -2020,7 +2020,7 @@ Auf diesem Landeplatz sollte gemÃ¤ss Aussage von lokalen Piloten nicht mehr ge
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -2060,7 +2060,7 @@ Auf diesem Landeplatz sollte gemÃ¤ss Aussage von lokalen Piloten nicht mehr ge
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -2100,7 +2100,7 @@ Auf diesem Landeplatz sollte gemÃ¤ss Aussage von lokalen Piloten nicht mehr ge
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -2141,7 +2141,7 @@ Siehe auch: http://www.gkg.ch/index.php?option=com_content&amp;view=article&amp;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -2183,7 +2183,7 @@ Vorsicht: Bei stÃ¤rkerem Talwind kÃ¶nnen empfindliche Turbulenzen auftreten!
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -2224,7 +2224,7 @@ Vorsicht: Bei stÃ¤rkerem Talwind kÃ¶nnen empfindliche Turbulenzen auftreten!
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -2265,7 +2265,7 @@ Vorsicht: Bei starkem Talwind ist mit Turbulenzen zu rechnen.&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -2307,7 +2307,7 @@ Im Winter das Feld ist auch fÃ¼r Langlaufen. Nicht in der NÃ¤he zu den HÃ¤
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -2347,7 +2347,7 @@ Im Winter das Feld ist auch fÃ¼r Langlaufen. Nicht in der NÃ¤he zu den HÃ¤
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -2391,7 +2391,7 @@ Unbedingt den Landeplatz zuerst anschauen, und immer Luvseitig anfliegen!&lt;/td
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -2432,7 +2432,7 @@ Der Weg zur Talstation ist ebenfalls signalisiert&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -2474,7 +2474,7 @@ Vorsicht: Oft ziemlich turbulent.&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -2525,7 +2525,7 @@ Vorsicht: Oft ziemlich turbulent.&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -2565,7 +2565,7 @@ Vorsicht: Oft ziemlich turbulent.&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -2607,7 +2607,7 @@ Vorsicht: Nachmittags oft sehr starker Talwind!&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -2647,7 +2647,7 @@ Vorsicht: Nachmittags oft sehr starker Talwind!&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -2689,7 +2689,7 @@ Der bessere TIPP: Aus der Luft sieht man mehrere grosse Wiesen, welche wenn gem�
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -2733,7 +2733,7 @@ Fluggebietsbetreuung: www.gc-spitzmeilen.ch Jahreskarte 2013 : 25.- Tageskarte 5
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -2773,7 +2773,7 @@ Fluggebietsbetreuung: www.gc-spitzmeilen.ch Jahreskarte 2013 : 25.- Tageskarte 5
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -2813,7 +2813,7 @@ Fluggebietsbetreuung: www.gc-spitzmeilen.ch Jahreskarte 2013 : 25.- Tageskarte 5
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -2853,7 +2853,7 @@ Fluggebietsbetreuung: www.gc-spitzmeilen.ch Jahreskarte 2013 : 25.- Tageskarte 5
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -2895,7 +2895,7 @@ Luftseilbahn ganzjÃ¤hrig in Betrieb. Im Sommer oft starker Talwind. Stromleitu
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -2935,7 +2935,7 @@ Luftseilbahn ganzjÃ¤hrig in Betrieb. Im Sommer oft starker Talwind. Stromleitu
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -2986,7 +2986,7 @@ Luftseilbahn ganzjÃ¤hrig in Betrieb. Im Sommer oft starker Talwind. Stromleitu
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -3029,7 +3029,7 @@ BenÃ¼tzen Sie bitte, wenn immer mÃ¶glich, gemÃ¤hte oder geweidete FlÃ¤ch
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -3069,7 +3069,7 @@ BenÃ¼tzen Sie bitte, wenn immer mÃ¶glich, gemÃ¤hte oder geweidete FlÃ¤ch
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -3110,7 +3110,7 @@ Vorsicht: Leitung nordÃ¶stlich der Bahn beachten!!&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -3151,7 +3151,7 @@ Vorsicht: Leitung am Wladrand sÃ¼dlich des Landeplatzes beachten.&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -3195,7 +3195,7 @@ Flugverbot bei Flabschiessbetrieb&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -3242,7 +3242,7 @@ Bei durchdringendem SÃ¼dwind (FÃ¶h) ist der Landeplatz Grund vorzuziehen, Bo
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -3287,7 +3287,7 @@ GrundsÃ¤tzlich bei allen normalen Wetterlagen ideal zum Landen. Teilweise zÃ�
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -3328,7 +3328,7 @@ NÃ¤chste Postautohaltestelle in Grono nach 10 Min. Fussmarsch erreichbar.&lt;/
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -3368,7 +3368,7 @@ NÃ¤chste Postautohaltestelle in Grono nach 10 Min. Fussmarsch erreichbar.&lt;/
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -3409,7 +3409,7 @@ Vorsicht: Auf anfliegende Flugzeuge achten !&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -3449,7 +3449,7 @@ Vorsicht: Auf anfliegende Flugzeuge achten !&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -3489,7 +3489,7 @@ Vorsicht: Auf anfliegende Flugzeuge achten !&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -3541,7 +3541,7 @@ Centre sportif max 150m/sol.&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -3581,7 +3581,7 @@ Centre sportif max 150m/sol.&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -3622,7 +3622,7 @@ Achtung: Diesen Landeplatz besonders bei Turbulenten VerhÃ¤ltnissen anfliegen,
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -3663,7 +3663,7 @@ Zum Landen den westlichen Teil benutzen.&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -3703,7 +3703,7 @@ Zum Landen den westlichen Teil benutzen.&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -3743,7 +3743,7 @@ Zum Landen den westlichen Teil benutzen.&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -3787,7 +3787,7 @@ Landung nur auf dem Wiese benachbarten der Strasse Kussnacht-Weggis! Nicht auf d
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -3827,7 +3827,7 @@ Landung nur auf dem Wiese benachbarten der Strasse Kussnacht-Weggis! Nicht auf d
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -3867,7 +3867,7 @@ Landung nur auf dem Wiese benachbarten der Strasse Kussnacht-Weggis! Nicht auf d
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -3910,7 +3910,7 @@ Bei der Post rechts zu der Sporthalle Dossen ca. 200 Meter. Der Landeplatz ist d
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -3955,7 +3955,7 @@ Er ist in der CTR Zone Alpnach-Buochs, bitte spezielle Bestimmungen beachten!
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -3995,7 +3995,7 @@ Er ist in der CTR Zone Alpnach-Buochs, bitte spezielle Bestimmungen beachten!
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -4037,7 +4037,7 @@ Er ist in der CTR Zone Alpnach-Buochs, bitte spezielle Bestimmungen beachten!
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -4077,7 +4077,7 @@ Er ist in der CTR Zone Alpnach-Buochs, bitte spezielle Bestimmungen beachten!
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -4118,7 +4118,7 @@ Vorsicht: Bei der Landevolte die Hochspannungsleitung unterhalb des Landeplatzes
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -4160,7 +4160,7 @@ Bei der Talsstation steht jeweils ob der Platz benutzt werden darf oder nicht ni
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -4200,7 +4200,7 @@ Bei der Talsstation steht jeweils ob der Platz benutzt werden darf oder nicht ni
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -4240,7 +4240,7 @@ Bei der Talsstation steht jeweils ob der Platz benutzt werden darf oder nicht ni
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -4280,7 +4280,7 @@ Bei der Talsstation steht jeweils ob der Platz benutzt werden darf oder nicht ni
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -4320,7 +4320,7 @@ Bei der Talsstation steht jeweils ob der Platz benutzt werden darf oder nicht ni
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -4366,7 +4366,7 @@ FÃ¼r FlÃ¼ge nach Lauterbrunnen Dorf. oft turbulent
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -4407,7 +4407,7 @@ Achtung: Offiziell ist die Landung hier verboten. Der Bauer, welcher die Wiese b
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -4452,7 +4452,7 @@ Terrain en pente lÃ©gÃ¨rement descendante. Il est prÃ©fÃ©rable de bien d
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -4493,7 +4493,7 @@ Der Wind kommt sehr oft vom See.&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -4533,7 +4533,7 @@ Der Wind kommt sehr oft vom See.&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -4573,7 +4573,7 @@ Der Wind kommt sehr oft vom See.&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -4614,7 +4614,7 @@ Vorsicht: Kabel der Bergbahn.&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -4654,7 +4654,7 @@ Vorsicht: Kabel der Bergbahn.&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -4694,7 +4694,7 @@ Vorsicht: Kabel der Bergbahn.&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -4734,7 +4734,7 @@ Vorsicht: Kabel der Bergbahn.&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -4774,7 +4774,7 @@ Vorsicht: Kabel der Bergbahn.&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -4814,7 +4814,7 @@ Vorsicht: Kabel der Bergbahn.&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -4857,7 +4857,7 @@ Das Fluggebiet ist ausserhalb von Flugzonen, beachte trotzdem die Flug-Infos am 
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -4899,7 +4899,7 @@ etwas knapp werden.&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -4939,7 +4939,7 @@ etwas knapp werden.&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -4987,7 +4987,7 @@ Vorsicht: Bei startker Bise ist der Landeplatz Laui anzufliegen.&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -5036,7 +5036,7 @@ Die 15min Marschzeit zur Bahnstation sind durchaus ertragbar.&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -5084,7 +5084,7 @@ Der Landeplatz liegt gleich neben der Bergbahn und dem Restaurant Sporting. Der 
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -5124,7 +5124,7 @@ Der Landeplatz liegt gleich neben der Bergbahn und dem Restaurant Sporting. Der 
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -5165,7 +5165,7 @@ Infotafel beachten.&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -5206,7 +5206,7 @@ Vorsicht: Nicht zum Eingang der Aareschlucht treiben lassen, keine LandemÃ¶gli
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -5246,7 +5246,7 @@ Vorsicht: Nicht zum Eingang der Aareschlucht treiben lassen, keine LandemÃ¶gli
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -5287,7 +5287,7 @@ Achtung: Es werden laufend neue HÃ¤user auf die Wiese gebaut. Der verfÃ¼gbar
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -5327,7 +5327,7 @@ Achtung: Es werden laufend neue HÃ¤user auf die Wiese gebaut. Der verfÃ¼gbar
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -5367,7 +5367,7 @@ Achtung: Es werden laufend neue HÃ¤user auf die Wiese gebaut. Der verfÃ¼gbar
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -5407,7 +5407,7 @@ Achtung: Es werden laufend neue HÃ¤user auf die Wiese gebaut. Der verfÃ¼gbar
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -5447,7 +5447,7 @@ Achtung: Es werden laufend neue HÃ¤user auf die Wiese gebaut. Der verfÃ¼gbar
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -5487,7 +5487,7 @@ Achtung: Es werden laufend neue HÃ¤user auf die Wiese gebaut. Der verfÃ¼gbar
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -5527,7 +5527,7 @@ Achtung: Es werden laufend neue HÃ¤user auf die Wiese gebaut. Der verfÃ¼gbar
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -5574,7 +5574,7 @@ Die Wiese eignet sich wirklich gut zum Landen. Vor allem weil sie gleich neben d
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -5616,7 +5616,7 @@ Gefahren: Im Sommer teilweise turbulent.&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -5656,7 +5656,7 @@ Gefahren: Im Sommer teilweise turbulent.&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -5696,7 +5696,7 @@ Gefahren: Im Sommer teilweise turbulent.&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -5736,7 +5736,7 @@ Gefahren: Im Sommer teilweise turbulent.&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -5786,7 +5786,7 @@ Gefahren
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -5826,7 +5826,7 @@ Gefahren
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -5866,7 +5866,7 @@ Gefahren
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -5906,7 +5906,7 @@ Gefahren
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -5947,7 +5947,7 @@ Club : RNVL&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -5991,7 +5991,7 @@ allgemein: - Landevolte unbedingt einhalten
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -6033,7 +6033,7 @@ Besonders fÃ¶hnanfÃ¤llig und nachmittags starke Talwinde.&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -6075,7 +6075,7 @@ Bitte nach der Landung das KÃ¤sseli mit 5.- fÃ¼ttern, danke.&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -6115,7 +6115,7 @@ Bitte nach der Landung das KÃ¤sseli mit 5.- fÃ¼ttern, danke.&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -6155,7 +6155,7 @@ Bitte nach der Landung das KÃ¤sseli mit 5.- fÃ¼ttern, danke.&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -6195,7 +6195,7 @@ Bitte nach der Landung das KÃ¤sseli mit 5.- fÃ¼ttern, danke.&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -6237,7 +6237,7 @@ Anmeldung obligatorisch. 0337444025&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -6288,7 +6288,7 @@ Weitere info www.gkg.ch&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -6335,7 +6335,7 @@ Weitere info www.gkg.ch&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -6378,7 +6378,7 @@ Anmeldung obligatorisch. 0337444025&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -6420,7 +6420,7 @@ Im Lido kannst du baden oder das sympatische Strandbeizli besuchen. Bei hohem Gr
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -6460,7 +6460,7 @@ Im Lido kannst du baden oder das sympatische Strandbeizli besuchen. Bei hohem Gr
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -6500,7 +6500,7 @@ Im Lido kannst du baden oder das sympatische Strandbeizli besuchen. Bei hohem Gr
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -6540,7 +6540,7 @@ Im Lido kannst du baden oder das sympatische Strandbeizli besuchen. Bei hohem Gr
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -6580,7 +6580,7 @@ Im Lido kannst du baden oder das sympatische Strandbeizli besuchen. Bei hohem Gr
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -6620,7 +6620,7 @@ Im Lido kannst du baden oder das sympatische Strandbeizli besuchen. Bei hohem Gr
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -6669,7 +6669,7 @@ Vorsicht: Nicht in die Talenge treiben lassen, gerade bei starker Bise nicht ung
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -6709,7 +6709,7 @@ Vorsicht: Nicht in die Talenge treiben lassen, gerade bei starker Bise nicht ung
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -6749,7 +6749,7 @@ Vorsicht: Nicht in die Talenge treiben lassen, gerade bei starker Bise nicht ung
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -6790,7 +6790,7 @@ Der Landeplatz ist schmal und lang. Es ist zwischen der Strasse und der Bahnlini
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -6830,7 +6830,7 @@ Der Landeplatz ist schmal und lang. Es ist zwischen der Strasse und der Bahnlini
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -6870,7 +6870,7 @@ Der Landeplatz ist schmal und lang. Es ist zwischen der Strasse und der Bahnlini
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -6913,7 +6913,7 @@ WindsÃ¤cken.&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -6954,7 +6954,7 @@ http://www.paragliding365.com/index-p-image_details_8229_flightarea_144.html&lt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -6994,7 +6994,7 @@ http://www.paragliding365.com/index-p-image_details_8229_flightarea_144.html&lt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -7034,7 +7034,7 @@ http://www.paragliding365.com/index-p-image_details_8229_flightarea_144.html&lt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -7074,7 +7074,7 @@ http://www.paragliding365.com/index-p-image_details_8229_flightarea_144.html&lt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -7118,7 +7118,7 @@ Bergrestaurant am Landeplatz&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -7158,7 +7158,7 @@ Bergrestaurant am Landeplatz&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -7201,7 +7201,7 @@ Der Landeplatz liegt in der CTR Zone Buochs-Alpnach, darum gelten besondere Flug
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -7246,7 +7246,7 @@ GrundsÃ¤tzlich bei allen normalen Wetterlagen gut zum Landen. Teilweise zÃ¼g
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -7288,7 +7288,7 @@ Im Sommer oft starker Talwind.&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -7328,7 +7328,7 @@ Im Sommer oft starker Talwind.&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -7368,7 +7368,7 @@ Im Sommer oft starker Talwind.&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -7410,7 +7410,7 @@ Ecole: www.paradelta.ch&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -7450,7 +7450,7 @@ Ecole: www.paradelta.ch&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -7490,7 +7490,7 @@ Ecole: www.paradelta.ch&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -7530,7 +7530,7 @@ Ecole: www.paradelta.ch&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -7570,7 +7570,7 @@ Ecole: www.paradelta.ch&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -7610,7 +7610,7 @@ Ecole: www.paradelta.ch&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -7650,7 +7650,7 @@ Ecole: www.paradelta.ch&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -7690,7 +7690,7 @@ Ecole: www.paradelta.ch&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -7734,7 +7734,7 @@ Info Ã¼ber www.lagopedes.ch&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -7776,7 +7776,7 @@ Cet atterrissage est autorisÃ© qu'aux ayants-droits. Attention Ã  la rÃ©se
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -7816,7 +7816,7 @@ Cet atterrissage est autorisÃ© qu'aux ayants-droits. Attention Ã  la rÃ©se
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -7856,7 +7856,7 @@ Cet atterrissage est autorisÃ© qu'aux ayants-droits. Attention Ã  la rÃ©se
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -7900,7 +7900,7 @@ Fluggebietsbetreuung: www.gc-spitzmeilen.ch Jahreskarte 2013 : 25.- Tageskarte 5
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -7941,7 +7941,7 @@ Achtung: CTR Bad Ragaz beachten&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -7981,7 +7981,7 @@ Achtung: CTR Bad Ragaz beachten&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -8021,7 +8021,7 @@ Achtung: CTR Bad Ragaz beachten&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -8061,7 +8061,7 @@ Achtung: CTR Bad Ragaz beachten&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -8117,7 +8117,7 @@ Vorsicht: Bei starker Bise oder Thermik oft starke Turbulenzen.&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -8158,7 +8158,7 @@ Vorsicht: Leitung Ã¶stlich des Landeplatzes beachten.&lt;/td&gt;
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -8210,7 +8210,7 @@ Die HÃ¶he soll nach MÃ¶glichkeit ausserhalb des Luftraums der Modellfluggrup
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -8256,7 +8256,7 @@ Bitte direkt beim Bauernhof zusammenlegen, nicht auf der Wiese
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -8297,7 +8297,7 @@ Vis Ã  vis der Flugschule am bergseitigen Ende des grossen Feldes. Zu beachten
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -8337,7 +8337,7 @@ Vis Ã  vis der Flugschule am bergseitigen Ende des grossen Feldes. Zu beachten
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -8378,7 +8378,7 @@ Vorsicht bei stÃ¤rkerem Talwind. Die Viamalaschlucht wirkt als DÃ¼se. Auswei
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -8418,7 +8418,7 @@ Vorsicht bei stÃ¤rkerem Talwind. Die Viamalaschlucht wirkt als DÃ¼se. Auswei
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
@@ -8464,7 +8464,7 @@ FÃ¼r StreckenflÃ¼ge die man vorzeitig abbrechen muss, oft windig und turbule
 &lt;/table&gt;
 
 </description>
-	<ExtendedData><SchemaData schemaUrl="#CH_Landeplaetze">
+	<ExtendedData><SchemaData schemaUrl="#Landeplaetze">
 		<SimpleData name="altitudeMode">relativeToGround</SimpleData>
 		<SimpleData name="tessellate">-1</SimpleData>
 		<SimpleData name="extrude">1</SimpleData>
