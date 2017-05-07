@@ -14,7 +14,7 @@
     </Schema>
     <Style id="landing-site">
       <IconStyle>
-        <scale>0.75</scale>
+        <scale>0.60</scale>
         <Icon>
           <href>https://api3.geo.admin.ch/color/0,128,0/circle-24@2x.png</href>
           <gx:w>48</gx:w>
