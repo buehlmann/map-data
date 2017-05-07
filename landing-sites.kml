@@ -28,7 +28,7 @@
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;7.55974035,46.47965441&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Grosse Wiese, rechts neben der Strasse welche zur Engstligenbahn fÃ¼hrt.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Grosse Wiese, rechts neben der Strasse welche zur Engstligenbahn führt.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -108,10 +108,10 @@
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;8.273196,46.95164098&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Komfortable, flache  Wiese. Achte auf den Standort des Windsackes, je nach weidendem Vieh wird er im Areal versetzt. Bei hÃ¶herem Grasstand bitte den Schirm in StallnÃ¤he falten.
-Standort Richtung BrÃ¼nig, Ausfahrt Alpnach nach rechts Alpnachstad. Links vor der Autogarage ist die grosse Landewiese.
+&lt;td colspan='4' align='left'&gt;Komfortable, flache  Wiese. Achte auf den Standort des Windsackes, je nach weidendem Vieh wird er im Areal versetzt. Bei höherem Grasstand bitte den Schirm in Stallnähe falten.
+Standort Richtung Brünig, Ausfahrt Alpnach nach rechts Alpnachstad. Links vor der Autogarage ist die grosse Landewiese.
 Bemerkungen
-Alpnachstad kann man auch von Luzern mit dem Schiff auf dem VierwaldstÃ¤ttersee erreichen. Der Zug hÃ¤lt unmittelbar bei der Talstation zum Pilatus. Grosse ParkplÃ¤tze sind auf dem Areal der Pilatusbahnen vorhanden.
+Alpnachstad kann man auch von Luzern mit dem Schiff auf dem Vierwaldstättersee erreichen. Der Zug hält unmittelbar bei der Talstation zum Pilatus. Grosse Parkplätze sind auf dem Areal der Pilatusbahnen vorhanden.
 Bitte keine Autos zum Landeplatz nehmen oder gar dort parkieren!
 Achtung, Flugvorschriften genau beachten, du bist mitten in der Flugplatzzone!
 &lt;/td&gt;
@@ -154,7 +154,7 @@ Achtung, Flugvorschriften genau beachten, du bist mitten in der Flugplatzzone!
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;7.52564469,46.33080803&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Mittelgrosse hÃ¼gelige Wiese sÃ¼dlich der Gondelbahn Talstation&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Mittelgrosse hügelige Wiese südlich der Gondelbahn Talstation&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -194,7 +194,7 @@ Achtung, Flugvorschriften genau beachten, du bist mitten in der Flugplatzzone!
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;8.59132547,46.63246234&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Grosser, ebener Platz bei der Talstation der Gemsstockbahn (Windsack). Im Winter teilweise prÃ¤pariert (Vorsicht Schlittelbahn neben Restaurant). Im Sommer am Nachmittag sehr starker Talwind (30 bis 40km/h), allerdings kann im Notfall Ã¼berall bis Hospental gelandet werden. Im Winter windstill.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Grosser, ebener Platz bei der Talstation der Gemsstockbahn (Windsack). Im Winter teilweise präpariert (Vorsicht Schlittelbahn neben Restaurant). Im Sommer am Nachmittag sehr starker Talwind (30 bis 40km/h), allerdings kann im Notfall überall bis Hospental gelandet werden. Im Winter windstill.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -220,7 +220,7 @@ Achtung, Flugvorschriften genau beachten, du bist mitten in der Flugplatzzone!
       <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>8.59132547,46.63246234,150</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>Arosa BÃ¤nkli</name>
+	<name>Arosa Bänkli</name>
 	<description>
 &lt;table cellpadding=0 cellspacing=0 width=500&gt;
 &lt;tr bgcolor='#D7E1EE'&gt;
@@ -234,7 +234,7 @@ Achtung, Flugvorschriften genau beachten, du bist mitten in der Flugplatzzone!
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;9.65049475,46.77809696&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;HÃ¼gelige Wiese unterhalb der Strasse zur CarmÃ¤nna HÃ¼tte&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Hügelige Wiese unterhalb der Strasse zur Carmänna Hütte&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -260,7 +260,7 @@ Achtung, Flugvorschriften genau beachten, du bist mitten in der Flugplatzzone!
       <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>9.65049475,46.77809696,150</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>Arosa Mittler HÃ¼tte</name>
+	<name>Arosa Mittler Hütte</name>
 	<description>
 &lt;table cellpadding=0 cellspacing=0 width=500&gt;
 &lt;tr bgcolor='#D7E1EE'&gt;
@@ -274,7 +274,7 @@ Achtung, Flugvorschriften genau beachten, du bist mitten in der Flugplatzzone!
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;9.65991644,46.78421338&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;HÃ¼geliger Landeplatz bei der Sattelalp&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Hügeliger Landeplatz bei der Sattelalp&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -300,7 +300,7 @@ Achtung, Flugvorschriften genau beachten, du bist mitten in der Flugplatzzone!
       <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>9.65991644,46.78421338,150</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>Arosa PrÃ¤tschli</name>
+	<name>Arosa Prätschli</name>
 	<description>
 &lt;table cellpadding=0 cellspacing=0 width=500&gt;
 &lt;tr bgcolor='#D7E1EE'&gt;
@@ -314,7 +314,7 @@ Achtung, Flugvorschriften genau beachten, du bist mitten in der Flugplatzzone!
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;9.67463293,46.79157538&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Grosse Wiese oberhalb der Strasse nach PrÃ¤tsch&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Grosse Wiese oberhalb der Strasse nach Prätsch&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -380,7 +380,7 @@ Achtung, Flugvorschriften genau beachten, du bist mitten in der Flugplatzzone!
       <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>8.78295861,46.15462353,150</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>BÃ¶tzingenmoos</name>
+	<name>Bötzingenmoos</name>
 	<description>
 &lt;table cellpadding=0 cellspacing=0 width=500&gt;
 &lt;tr bgcolor='#D7E1EE'&gt;
@@ -394,7 +394,7 @@ Achtung, Flugvorschriften genau beachten, du bist mitten in der Flugplatzzone!
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;7.29883946,47.16462772&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Grosse Wiese Ã¶stlich der Industriezone.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Grosse Wiese östlich der Industriezone.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -420,7 +420,7 @@ Achtung, Flugvorschriften genau beachten, du bist mitten in der Flugplatzzone!
       <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>7.29883946,47.16462772,150</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>BÃ¼lisau</name>
+	<name>Bülisau</name>
 	<description>
 &lt;table cellpadding=0 cellspacing=0 width=500&gt;
 &lt;tr bgcolor='#D7E1EE'&gt;
@@ -434,7 +434,7 @@ Achtung, Flugvorschriften genau beachten, du bist mitten in der Flugplatzzone!
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;9.45871919,47.29657173&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Grosse Wiese nordÃ¶stlich der ersten SeilbahnstÃ¼tze, direkt am einzelnen Bauernhaus. Leichte Hanglandung. FÃ¶hngefÃ¤hrdet! Rechtsvolte. &lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Grosse Wiese nordöstlich der ersten Seilbahnstütze, direkt am einzelnen Bauernhaus. Leichte Hanglandung. Föhngefährdet! Rechtsvolte. &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -474,8 +474,8 @@ Achtung, Flugvorschriften genau beachten, du bist mitten in der Flugplatzzone!
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;7.6837124,46.65334011&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Der Landeplatz liegt Ã¶stlich der Kander unterhalb der Strasse, langezogene, Wiese am Hang. In die Landezone eingeflogen werden (Ã¼berqueren der Kander) darf unterhalb einer HÃ¶he von 900m. Der Luftraum Ã¼ber 900m gehÃ¶rt den Motorfliegern!
-Bei Talwind fliegt man eine Linksvolte, bei Bergwind eine Rechtsvolte. Bitte den Faltplatz in der gemÃ¤hten Wiese oder am Wegrand benutzen. Vom Landeplatz dem Fussweg entlang der Kander bis zum Bahnhof folgen ca. 20 min.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Der Landeplatz liegt östlich der Kander unterhalb der Strasse, langezogene, Wiese am Hang. In die Landezone eingeflogen werden (überqueren der Kander) darf unterhalb einer Höhe von 900m. Der Luftraum über 900m gehört den Motorfliegern!
+Bei Talwind fliegt man eine Linksvolte, bei Bergwind eine Rechtsvolte. Bitte den Faltplatz in der gemähten Wiese oder am Wegrand benutzen. Vom Landeplatz dem Fussweg entlang der Kander bis zum Bahnhof folgen ca. 20 min.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -515,9 +515,9 @@ Bei Talwind fliegt man eine Linksvolte, bei Bergwind eine Rechtsvolte. Bitte den
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;7.8586,46.3071&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Gleitschirm und Delta. Der Platz befindet sich nÃ¶rdlich der SBB-Linie, parallel zur Rohne. Postautoverkehr bis zum Bahnhof. 100 m nÃ¶rdlich Starkstromleitung 20â€“30 m hoch, Ã¶stlich 5â€“6 m hohe Stromleitung angrenzend. Landevolte nÃ¶rdlich der Rhone. (Windsack vorhanden)
+&lt;td colspan='4' align='left'&gt;Gleitschirm und Delta. Der Platz befindet sich nördlich der SBB-Linie, parallel zur Rohne. Postautoverkehr bis zum Bahnhof. 100 m nördlich Starkstromleitung 20â€“30 m hoch, östlich 5â€“6 m hohe Stromleitung angrenzend. Landevolte nördlich der Rhone. (Windsack vorhanden)
 
-Im Sommer kÃ¶nnen nachmittags starke Talwinde.
+Im Sommer können nachmittags starke Talwinde.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
@@ -599,7 +599,7 @@ Plus d'infos sur http://www.lagopedes.ch&lt;/td&gt;
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;6.51028606,46.77639814&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Wiese bei einem kleinen HÃ¼gel mit einer Baumgruppe.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Wiese bei einem kleinen Hügel mit einer Baumgruppe.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -639,7 +639,7 @@ Plus d'infos sur http://www.lagopedes.ch&lt;/td&gt;
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;8.46618906,46.96581608&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Grosse leicht abfallende Wiese hinter dem SchÃ¼tzenhaus.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Grosse leicht abfallende Wiese hinter dem Schützenhaus.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -679,7 +679,7 @@ Plus d'infos sur http://www.lagopedes.ch&lt;/td&gt;
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;9.00988973,46.18993227&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Nur Winterlandeplatz. Estreckt sich sÃ¼dlich von Bellinzona am Ufer des Ticinos.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Nur Winterlandeplatz. Estreckt sich südlich von Bellinzona am Ufer des Ticinos.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -800,7 +800,7 @@ Plus d'infos sur http://www.lagopedes.ch&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td colspan='4' align='left'&gt;Grosser  Landeplatz bei Bironico.  Bei starkem Talwind ist dieser Landeplatz besser geeignet! (Landeplatz Riviera meiden!) 
-Der Parkplatz liegt etwas nÃ¶rdlich ( Fusspfad folgen).&lt;/td&gt;
+Der Parkplatz liegt etwas nördlich ( Fusspfad folgen).&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -840,9 +840,9 @@ Der Parkplatz liegt etwas nÃ¶rdlich ( Fusspfad folgen).&lt;/td&gt;
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;8.0172,46.3343&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Landeplatz befindet sich 200m Ã¶stlich des grossen FabrikgebÃ¤udes sÃ¼dlich der Rhone. Deltas kÃ¶nnen auch auf Drivingranch landen (leichte Hanglandung). Ortsbus fÃ¤hrt viertelstÃ¼ndlich ab der anderen Flussseite Richtung Brig Bahnhof. 
+&lt;td colspan='4' align='left'&gt;Landeplatz befindet sich 200m östlich des grossen Fabrikgebäudes südlich der Rhone. Deltas können auch auf Drivingranch landen (leichte Hanglandung). Ortsbus fährt viertelstündlich ab der anderen Flussseite Richtung Brig Bahnhof. 
 
-Der Talwind ist hier bedeutend weniger stark als in Brig, daher sinnvolle Alternative nach StreckenflÃ¼gen.&lt;/td&gt;
+Der Talwind ist hier bedeutend weniger stark als in Brig, daher sinnvolle Alternative nach Streckenflügen.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -882,8 +882,8 @@ Der Talwind ist hier bedeutend weniger stark als in Brig, daher sinnvolle Altern
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;8.19351084,46.43659406&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Der Landeplatz liegt direkt auf dem Trasse das die Strasse Ã¼berquert.
-Vorsicht die beiden WÃ¤lle links und rechts kÃ¶nnen leichte Turbulenzen verursachen.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Der Landeplatz liegt direkt auf dem Trasse das die Strasse überquert.
+Vorsicht die beiden Wälle links und rechts können leichte Turbulenzen verursachen.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -923,7 +923,7 @@ Vorsicht die beiden WÃ¤lle links und rechts kÃ¶nnen leichte Turbulenzen veru
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;6.89271196,46.46736947&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Kleiner abfallender Landeplatz in der NÃ¤he des Bahnhofs Blonay. Gefahren: Telefonleitung im nÃ¶rdlichen Bereich des Landplatzes , die Oberleitung der Bahn und die Antennen der umliegenden HÃ¤user beachten!!
+&lt;td colspan='4' align='left'&gt;Kleiner abfallender Landeplatz in der Nähe des Bahnhofs Blonay. Gefahren: Telefonleitung im nördlichen Bereich des Landplatzes , die Oberleitung der Bahn und die Antennen der umliegenden Häuser beachten!!
 
 Terrain dans la boucle du chemin de fer. 
 Turbulences par fort vent et bise. Attention aux pylones&lt;/td&gt;
@@ -967,7 +967,7 @@ Turbulences par fort vent et bise. Attention aux pylones&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td colspan='4' align='left'&gt;Grosser Landeplatz, etwa 1km ausserhalb von Blumenstein.
-Vorsicht: Bei Bise kÃ¶nnen Leerotoren entstehen.
+Vorsicht: Bei Bise können Leerotoren entstehen.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
@@ -994,7 +994,7 @@ Vorsicht: Bei Bise kÃ¶nnen Leerotoren entstehen.
       <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>7.5186329,46.72847214,150</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>BrÃ¼gg</name>
+	<name>Brügg</name>
 	<description>
 &lt;table cellpadding=0 cellspacing=0 width=500&gt;
 &lt;tr bgcolor='#D7E1EE'&gt;
@@ -1010,7 +1010,7 @@ Vorsicht: Bei Bise kÃ¶nnen Leerotoren entstehen.
 &lt;tr&gt;
 &lt;td colspan='4' align='left'&gt;Bemerkungen
 - Nicht im hohen Gras zusammenlegen
-- Keine AbfÃ¤lle liegen lassen
+- Keine Abfälle liegen lassen
 - Nicht mit dem Auto zum Lande
   platz fahren!
 
@@ -1018,7 +1018,7 @@ Gefahren
 - Im Sommer herrscht am Nachmittag starker Talwind
 - Viele Transportseile (Hinderniskarte beachten)
 - Nicht beachten der Hinweise haben das Schliessen des LP
-- Zur Folge!! Der Bauer stellt den LP ohne Entgelt zur VerfÃ¼gung.&lt;/td&gt;
+- Zur Folge!! Der Bauer stellt den LP ohne Entgelt zur Verfügung.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -1058,7 +1058,7 @@ Gefahren
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;8.04970604,46.74075387&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Grosse Wiese am sÃ¼dÃ¶stlichen Ende des Brienzersees.
+&lt;td colspan='4' align='left'&gt;Grosse Wiese am südöstlichen Ende des Brienzersees.
 Vorsicht: Die Bise weht hier Richtung See, nur bei schwacher Bise diesen Landeplatz verwenden.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
@@ -1139,7 +1139,7 @@ Vorsicht: Die Bise weht hier Richtung See, nur bei schwacher Bise diesen Landepl
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;7.9929503,46.31104408&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Fussballfeld am sÃ¼dlichen Stadtrand von Brig.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Fussballfeld am südlichen Stadtrand von Brig.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -1179,9 +1179,9 @@ Vorsicht: Die Bise weht hier Richtung See, nur bei schwacher Bise diesen Landepl
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;8.595397,46.998559&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Der Landeplatz ist in einem Feld 400 SW aus dem Luftseilbahn. Es ist ein grosses Feld unmittelbar Ã¶stlich des Fluss.
+&lt;td colspan='4' align='left'&gt;Der Landeplatz ist in einem Feld 400 SW aus dem Luftseilbahn. Es ist ein grosses Feld unmittelbar östlich des Fluss.
 
-Achtung: bei starkem Talwinde die Landung ist im Lee der HÃ¤usern. Dann ist es besser zu landen 100m von den HÃ¤usern.&lt;/td&gt;
+Achtung: bei starkem Talwinde die Landung ist im Lee der Häusern. Dann ist es besser zu landen 100m von den Häusern.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -1270,7 +1270,7 @@ Achtung: bei starkem Talwinde die Landung ist im Lee der HÃ¤usern. Dann ist es
 &lt;tr&gt;
 &lt;td colspan='4' align='left'&gt;Kein offizieller Landeplatz.
 Grosse Wiese ausgangs Bumbach.
-Achtung: Landeplatz nur benutzen wenn abgemÃ¤ht!&lt;/td&gt;
+Achtung: Landeplatz nur benutzen wenn abgemäht!&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -1312,7 +1312,7 @@ Achtung: Landeplatz nur benutzen wenn abgemÃ¤ht!&lt;/td&gt;
 &lt;tr&gt;
 &lt;td colspan='4' align='left'&gt;Kein offizieller Landeplatz.
 Grosse Wiese neben dem Bauernhaus.
-Achtung: Landeplatz nur benutzen wenn abgemÃ¤ht!&lt;/td&gt;
+Achtung: Landeplatz nur benutzen wenn abgemäht!&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -1354,7 +1354,7 @@ Achtung: Landeplatz nur benutzen wenn abgemÃ¤ht!&lt;/td&gt;
 &lt;tr&gt;
 &lt;td colspan='4' align='left'&gt;Kein offizieller Landeplatz.
 Grosse Wiese im Dorfzentrum.
-Achtung: Landeplatz nur benutzen wenn abgemÃ¤ht!&lt;/td&gt;
+Achtung: Landeplatz nur benutzen wenn abgemäht!&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -1396,7 +1396,7 @@ Achtung: Landeplatz nur benutzen wenn abgemÃ¤ht!&lt;/td&gt;
 &lt;tr&gt;
 &lt;td colspan='4' align='left'&gt;Kein offizieller Landeplatz.
 Grosse Wiese im Dorfzentrum.
-Achtung: Landeplatz nur benutzen wenn abgemÃ¤ht!&lt;/td&gt;
+Achtung: Landeplatz nur benutzen wenn abgemäht!&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -1516,7 +1516,7 @@ Achtung: Landeplatz nur benutzen wenn abgemÃ¤ht!&lt;/td&gt;
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;8.97503455,45.90250363&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Landeplatz liegt mitten in Capolago direkt neben der Sportanlage auf einem kleinen Fussballfeld. Anflug sollte gut eingeteilt werden, denn der Landeplatz is nicht sehr gross und teilweise umzÃ¤unt. Eine kurze Besichtigung ist vorgÃ¤ngig ratsam. &lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Landeplatz liegt mitten in Capolago direkt neben der Sportanlage auf einem kleinen Fussballfeld. Anflug sollte gut eingeteilt werden, denn der Landeplatz is nicht sehr gross und teilweise umzäunt. Eine kurze Besichtigung ist vorgängig ratsam. &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -1679,7 +1679,7 @@ You have to stay away from the Sion TMA : fly in the airspace area G.
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;7.17035369,46.61793513&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Nur benutzen wenn das Gras gemÃ¤ht ist. Sonst auf den Hauptlandeplatz beim Hotel Cailler landen. Mittelgrosse Wiese sÃ¼dÃ¶stlich der Talstation.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Nur benutzen wenn das Gras gemäht ist. Sonst auf den Hauptlandeplatz beim Hotel Cailler landen. Mittelgrosse Wiese südöstlich der Talstation.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -1759,7 +1759,7 @@ You have to stay away from the Sion TMA : fly in the airspace area G.
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;7.342316508293,47.236576710712&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Choisir un champ fauchÃ©. / HÃ¼gelige Wiese sÃ¼dlich von Court.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Choisir un champ fauchÃ©. / Hügelige Wiese südlich von Court.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -1799,7 +1799,7 @@ You have to stay away from the Sion TMA : fly in the airspace area G.
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;8.39835407,46.92007522&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Grosse Wiese sÃ¼dlich der Talstation beim SchÃ¼tzenhaus.
+&lt;td colspan='4' align='left'&gt;Grosse Wiese südlich der Talstation beim Schützenhaus.
 Achtung: Bei Schiessbetrieb nicht erlaubt !! Auf Schiessfahne achten, besonders am Abend und an den Wochenenden.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
@@ -1881,7 +1881,7 @@ Vorsicht: Bei Talwind liegt der Landeplatz im Lee!!!&lt;/td&gt;
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;8.39055717,46.92463823&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Grosse Wiese Ã¶stlich der Talstation, unterhalb der Kirche.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Grosse Wiese östlich der Talstation, unterhalb der Kirche.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -1921,7 +1921,7 @@ Vorsicht: Bei Talwind liegt der Landeplatz im Lee!!!&lt;/td&gt;
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;9.82194882,46.78949578&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Grosse Wiese am Ã¶stlichen Ufer des Landwassers, sÃ¼dlich der Talstation der Jakobshornbahn.
+&lt;td colspan='4' align='left'&gt;Grosse Wiese am östlichen Ufer des Landwassers, südlich der Talstation der Jakobshornbahn.
 Achtung: Hochspannungsleitung&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
@@ -1962,8 +1962,8 @@ Achtung: Hochspannungsleitung&lt;/td&gt;
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;9.84731283,46.81461259&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Grosse Wiese am sÃ¼dlichen Ende des Sees.
-Auf diesem Landeplatz sollte gemÃ¤ss Aussage von lokalen Piloten nicht mehr gelandet werden.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Grosse Wiese am südlichen Ende des Sees.
+Auf diesem Landeplatz sollte gemäss Aussage von lokalen Piloten nicht mehr gelandet werden.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -1989,7 +1989,7 @@ Auf diesem Landeplatz sollte gemÃ¤ss Aussage von lokalen Piloten nicht mehr ge
       <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>9.84731283,46.81461259,150</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>Davos SeehÃ¶hi</name>
+	<name>Davos Seehöhi</name>
 	<description>
 &lt;table cellpadding=0 cellspacing=0 width=500&gt;
 &lt;tr bgcolor='#D7E1EE'&gt;
@@ -2003,7 +2003,7 @@ Auf diesem Landeplatz sollte gemÃ¤ss Aussage von lokalen Piloten nicht mehr ge
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;9.8387398,46.81344308&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Grosse Wiese auf der AnhÃ¶he sÃ¼dwestlich des Sees&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Grosse Wiese auf der Anhöhe südwestlich des Sees&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -2043,7 +2043,7 @@ Auf diesem Landeplatz sollte gemÃ¤ss Aussage von lokalen Piloten nicht mehr ge
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;8.84251418,46.69776864&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Der Landeplatz liegt oberhalb des Sportzentrums in der NÃ¤he vom Hotel Sax. Mit dem Delta auch mÃ¶glich, jedoch tagsÃ¼ber mit Talwind schwierig (der Landeplatz ist leicht abschÃ¼ssig). Bei schwierigen WindverhÃ¤ltnissen ist es besser mit dem Delta  in Salaplauna, oberhalb der Lukmanierstrasse zu landen.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Der Landeplatz liegt oberhalb des Sportzentrums in der Nähe vom Hotel Sax. Mit dem Delta auch möglich, jedoch tagsüber mit Talwind schwierig (der Landeplatz ist leicht abschüssig). Bei schwierigen Windverhältnissen ist es besser mit dem Delta  in Salaplauna, oberhalb der Lukmanierstrasse zu landen.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -2083,7 +2083,7 @@ Auf diesem Landeplatz sollte gemÃ¤ss Aussage von lokalen Piloten nicht mehr ge
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;9.433263015708,46.629178839797&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Riesige Wiese unterhalb Donat. Bitte auf den gemÃ¤hten FlÃ¤chen landen.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Riesige Wiese unterhalb Donat. Bitte auf den gemähten Flächen landen.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -2123,7 +2123,7 @@ Auf diesem Landeplatz sollte gemÃ¤ss Aussage von lokalen Piloten nicht mehr ge
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;9.163063287342,46.912838904172&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Auf der Wiese zwischen Parkplatz und Bach oder auf leerem Parkplatz landen. Wegen dem schlecht sichtbaren Heukabel bei Bergwind den Queranflug vor dem HÃ¼ttchen durchfÃ¼hren.
+&lt;td colspan='4' align='left'&gt;Auf der Wiese zwischen Parkplatz und Bach oder auf leerem Parkplatz landen. Wegen dem schlecht sichtbaren Heukabel bei Bergwind den Queranflug vor dem Hüttchen durchführen.
 Siehe auch: http://www.gkg.ch/index.php?option=com_content&amp;view=article&amp;id=68&amp;Itemid=84&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
@@ -2165,8 +2165,8 @@ Siehe auch: http://www.gkg.ch/index.php?option=com_content&amp;view=article&amp;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td colspan='4' align='left'&gt;Grosse leicht abfallende Wiese, wenige Meter neben der Talstation, bitte Infotafel am Landeplatz oder an der Talstation beachten.
-Diesen Landeplatz nur bei Westwind (Talwind) anfliegen. Immer eine Rechtsvolte fliegen, der Abauraum befindet sich Ã¼ber der Kirche. Nicht hinter die Scheune fliegen Lee !
-Vorsicht: Bei stÃ¤rkerem Talwind kÃ¶nnen empfindliche Turbulenzen auftreten!&lt;/td&gt;
+Diesen Landeplatz nur bei Westwind (Talwind) anfliegen. Immer eine Rechtsvolte fliegen, der Abauraum befindet sich über der Kirche. Nicht hinter die Scheune fliegen Lee !
+Vorsicht: Bei stärkerem Talwind können empfindliche Turbulenzen auftreten!&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -2192,7 +2192,7 @@ Vorsicht: Bei stÃ¤rkerem Talwind kÃ¶nnen empfindliche Turbulenzen auftreten!
       <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>8.52028045,46.95554877,150</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>Emmetten SchlÃ¼ssel</name>
+	<name>Emmetten Schlüssel</name>
 	<description>
 &lt;table cellpadding=0 cellspacing=0 width=500&gt;
 &lt;tr bgcolor='#D7E1EE'&gt;
@@ -2206,7 +2206,7 @@ Vorsicht: Bei stÃ¤rkerem Talwind kÃ¶nnen empfindliche Turbulenzen auftreten!
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;8.51648282,46.95748271&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Der Landeplatz liegt direkt neben dem Restaurant SchlÃ¼ssel, bitte Infotafel an der Talstation beachten. Der Landeplatz SchlÃ¼ssel wird vorwiegend fÃ¼r die Schulung benÃ¼tzt. Mit der nÃ¶tigen RÃ¼cksicht auf FlugschÃ¼ler ist eine BenÃ¼tzung durch brevetierte Piloten jederzeit mÃ¶glich resp. sogar empfohlen, da beim Landeplatz Gruob bei stÃ¤rkerem Talwind empfindliche Turbulenzen auftreten kÃ¶nnen.
+&lt;td colspan='4' align='left'&gt;Der Landeplatz liegt direkt neben dem Restaurant Schlüssel, bitte Infotafel an der Talstation beachten. Der Landeplatz Schlüssel wird vorwiegend für die Schulung benützt. Mit der nötigen Rücksicht auf Flugschüler ist eine Benützung durch brevetierte Piloten jederzeit möglich resp. sogar empfohlen, da beim Landeplatz Gruob bei stärkerem Talwind empfindliche Turbulenzen auftreten können.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
@@ -2288,8 +2288,8 @@ Vorsicht: Bei starkem Talwind ist mit Turbulenzen zu rechnen.&lt;/td&gt;
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;8.4151303768157,46.81685343481&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Der Landeplatz ist ein sehr grosses Wiese sÃ¼dlich der Seilbahn Brunni. Es gibt immer einen Windsack. 
-Im Winter das Feld ist auch fÃ¼r Langlaufen. Nicht in der NÃ¤he zu den HÃ¤usern oder die Scheune fliegen (Lee).
+&lt;td colspan='4' align='left'&gt;Der Landeplatz ist ein sehr grosses Wiese südlich der Seilbahn Brunni. Es gibt immer einen Windsack. 
+Im Winter das Feld ist auch für Langlaufen. Nicht in der Nähe zu den Häusern oder die Scheune fliegen (Lee).
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
@@ -2370,10 +2370,10 @@ Im Winter das Feld ist auch fÃ¼r Langlaufen. Nicht in der NÃ¤he zu den HÃ¤
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;8.37669869,46.88292155&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Grosser jedoch von Leitungen und Holzerseilen umgebener Landeplatz nÃ¶rdlich der Seilbahnstation. Beim Bauernhaus, wo es auch GetrÃ¤nke, GlacÃ© und Sandwiches gibt. Zu beachten ist der Talwind, der ziemlich zÃ¼gig werden kann!
-Der Landeplatz dient oft zur Schulung und regelmÃ¤ssig fÃ¼r PrÃ¼fungen. Um einen sicheren Flugbetrieb zu gewÃ¤hrleisten immer eine Linksvolte fliegen.
-Die AbbaurÃ¤ume befinden sich Ã¼ber der grossen Scheune (bei Talwind) und in der SÃ¼dÃ¶stlichen Ecke (bei Bergwind).
-Vorsicht: Bei starkem Talwind, auf der SÃ¼dseite sind Notlandungen fast unmÃ¶glich, BÃ¼sch und Kabel!
+&lt;td colspan='4' align='left'&gt;Grosser jedoch von Leitungen und Holzerseilen umgebener Landeplatz nördlich der Seilbahnstation. Beim Bauernhaus, wo es auch Getränke, GlacÃ© und Sandwiches gibt. Zu beachten ist der Talwind, der ziemlich zügig werden kann!
+Der Landeplatz dient oft zur Schulung und regelmässig für Prüfungen. Um einen sicheren Flugbetrieb zu gewährleisten immer eine Linksvolte fliegen.
+Die Abbauräume befinden sich über der grossen Scheune (bei Talwind) und in der Südöstlichen Ecke (bei Bergwind).
+Vorsicht: Bei starkem Talwind, auf der Südseite sind Notlandungen fast unmöglich, Büsch und Kabel!
 Unbedingt den Landeplatz zuerst anschauen, und immer Luvseitig anfliegen!&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
@@ -2414,7 +2414,7 @@ Unbedingt den Landeplatz zuerst anschauen, und immer Luvseitig anfliegen!&lt;/td
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;9.66193293,46.98696488&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Der Landeplatz liegt ca. 200 m nordÃ¶stlich der Talstation und ist mit einem Windsack signalisiert. 
+&lt;td colspan='4' align='left'&gt;Der Landeplatz liegt ca. 200 m nordöstlich der Talstation und ist mit einem Windsack signalisiert. 
 Der Weg zur Talstation ist ebenfalls signalisiert&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
@@ -2455,7 +2455,7 @@ Der Weg zur Talstation ist ebenfalls signalisiert&lt;/td&gt;
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;8.13707285,46.40893285&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Der Landeplatz liegt in der nÃ¤he Eggishornbahn.
+&lt;td colspan='4' align='left'&gt;Der Landeplatz liegt in der nähe Eggishornbahn.
 Zwischen Bahnlinie und Campingplatz.
 Vorsicht: Oft ziemlich turbulent.&lt;/td&gt;
 &lt;/tr&gt;
@@ -2497,7 +2497,7 @@ Vorsicht: Oft ziemlich turbulent.&lt;/td&gt;
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;8.145080208778,46.420608407587&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Der Landeplatz ist eine grosse flache Wiese. Er liegt direkt vor dem Flying Center Oberwallis. Bei Talwind wird eine Rechtsvolte geflogen, bei Berwind eine Linksvolte. Je nach WindstÃ¤rke kann es etwas turbulent sein, ist aber sicher besser als der Landeplatz Fiesch.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Der Landeplatz ist eine grosse flache Wiese. Er liegt direkt vor dem Flying Center Oberwallis. Bei Talwind wird eine Rechtsvolte geflogen, bei Berwind eine Linksvolte. Je nach Windstärke kann es etwas turbulent sein, ist aber sicher besser als der Landeplatz Fiesch.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -2574,7 +2574,7 @@ Vorsicht: Oft ziemlich turbulent.&lt;/td&gt;
       <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>7.5031714,46.54356945,150</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>FlÃ¼elen</name>
+	<name>Flüelen</name>
 	<description>
 &lt;table cellpadding=0 cellspacing=0 width=500&gt;
 &lt;tr bgcolor='#D7E1EE'&gt;
@@ -2630,7 +2630,7 @@ Vorsicht: Nachmittags oft sehr starker Talwind!&lt;/td&gt;
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;9.27077686,46.84749048&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Leicht abfallende, grosse Alpwiese; ca. 200m neben der Mittelstation des Sessellift Flims-Naraus. Nur auf gemÃ¤htem StÃ¼ck landen (Windsack).&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Leicht abfallende, grosse Alpwiese; ca. 200m neben der Mittelstation des Sessellift Flims-Naraus. Nur auf gemähtem Stück landen (Windsack).&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -2670,9 +2670,9 @@ Vorsicht: Nachmittags oft sehr starker Talwind!&lt;/td&gt;
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;9.281665,46.836104&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Leicht abfallend und im Sommer thermische AblÃ¶sungen.
-Von der Seilbahn fÃ¼hrt ein mit rot-weissen PflÃ¶cken markierter Pfad zur 200 m entfernten Landewiese. Die leicht abfallende Wiese ist auf der einen Seite durch die Seilbahn und den Wald begrenzt, auf der anderen - was man von der Bahn aus nicht sieht -ebenfalls deutlich abfallend. Drum praktisch IMMER mit Linksvolte anfliegen: Abbauraum Ã¼ber den HÃ¤usern neben der Kirche und dann tief anfliegen.
-Der bessere TIPP: Aus der Luft sieht man mehrere grosse Wiesen, welche wenn gemÃ¤ht, bedeutend bessere LandemÃ¶glichkeiten bieten: Unter der Hauptstrasse oder oberhalb der kleinen Kirche etc.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Leicht abfallend und im Sommer thermische Ablösungen.
+Von der Seilbahn führt ein mit rot-weissen Pflöcken markierter Pfad zur 200 m entfernten Landewiese. Die leicht abfallende Wiese ist auf der einen Seite durch die Seilbahn und den Wald begrenzt, auf der anderen - was man von der Bahn aus nicht sieht -ebenfalls deutlich abfallend. Drum praktisch IMMER mit Linksvolte anfliegen: Abbauraum über den Häusern neben der Kirche und dann tief anfliegen.
+Der bessere TIPP: Aus der Luft sieht man mehrere grosse Wiesen, welche wenn gemäht, bedeutend bessere Landemöglichkeiten bieten: Unter der Hauptstrasse oder oberhalb der kleinen Kirche etc.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -2714,7 +2714,7 @@ Der bessere TIPP: Aus der Luft sieht man mehrere grosse Wiesen, welche wenn gem�
 &lt;tr&gt;
 &lt;td colspan='4' align='left'&gt;Grosse Wiese Ausgangs von Flums.
 
-Achtung:Starkstromleitung im nordÃ¶stlichen Teil des Landeplatzes
+Achtung:Starkstromleitung im nordöstlichen Teil des Landeplatzes
 
 Fluggebietsbetreuung: www.gc-spitzmeilen.ch Jahreskarte 2013 : 25.- Tageskarte 5.- Infos beim Fluggebietsleiter: Tel.: 079 427 99 77 Email: flugdienst@gc-spitzmeilen.ch &lt;/td&gt;
 &lt;/tr&gt;
@@ -2796,7 +2796,7 @@ Fluggebietsbetreuung: www.gc-spitzmeilen.ch Jahreskarte 2013 : 25.- Tageskarte 5
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;7.65391873,46.58566346&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Grosse Wiese am sÃ¼dwestlichen Ende des Flugfeldes. Achtung starker Talwind.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Grosse Wiese am südwestlichen Ende des Flugfeldes. Achtung starker Talwind.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -2878,7 +2878,7 @@ Fluggebietsbetreuung: www.gc-spitzmeilen.ch Jahreskarte 2013 : 25.- Tageskarte 5
 &lt;tr&gt;
 &lt;td colspan='4' align='left'&gt;4 Minuten zur Luftseilbahn, nicht im hohen Gras Schirm + Delta abbauen!
 
-Luftseilbahn ganzjÃ¤hrig in Betrieb. Im Sommer oft starker Talwind. Stromleitung sÃ¼dlich des Landeplatzes.&lt;/td&gt;
+Luftseilbahn ganzjährig in Betrieb. Im Sommer oft starker Talwind. Stromleitung südlich des Landeplatzes.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -2995,7 +2995,7 @@ Luftseilbahn ganzjÃ¤hrig in Betrieb. Im Sommer oft starker Talwind. Stromleitu
       <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>8.5439595580101,47.051665516372999,150</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>GrÃ¼sch</name>
+	<name>Grüsch</name>
 	<description>
 &lt;table cellpadding=0 cellspacing=0 width=500&gt;
 &lt;tr bgcolor='#D7E1EE'&gt;
@@ -3009,10 +3009,10 @@ Luftseilbahn ganzjÃ¤hrig in Betrieb. Im Sommer oft starker Talwind. Stromleitu
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;9.65640266,46.97883814&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Der Landeplatz liegt am Ostrand des Dorfes GrÃ¼sch, unmittelbar dort wo die Lokalstrasse in die Umfahrungsstrasse einmÃ¼ndet. 
+&lt;td colspan='4' align='left'&gt;Der Landeplatz liegt am Ostrand des Dorfes Grüsch, unmittelbar dort wo die Lokalstrasse in die Umfahrungsstrasse einmündet. 
 Er ist mit einem Windsack signalisiert. 
-Im Sommer muss mit relativ starkem Talwind gerechnet werden. FÃ¼r ausgebildete Piloten und Pilotinnen ist das Landen trotzdem kein Problem, fÃ¼r SchÃ¼ler ist jedoch besondere Vorsicht geboten. 
-BenÃ¼tzen Sie bitte, wenn immer mÃ¶glich, gemÃ¤hte oder geweidete FlÃ¤chen.&lt;/td&gt;
+Im Sommer muss mit relativ starkem Talwind gerechnet werden. Für ausgebildete Piloten und Pilotinnen ist das Landen trotzdem kein Problem, für Schüler ist jedoch besondere Vorsicht geboten. 
+Benützen Sie bitte, wenn immer möglich, gemähte oder geweidete Flächen.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -3052,7 +3052,7 @@ BenÃ¼tzen Sie bitte, wenn immer mÃ¶glich, gemÃ¤hte oder geweidete FlÃ¤ch
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;9.45596721,47.17654637&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Grosse Wiese sÃ¼d-Ã¶stlich von Grabs.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Grosse Wiese süd-östlich von Grabs.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -3093,7 +3093,7 @@ BenÃ¼tzen Sie bitte, wenn immer mÃ¶glich, gemÃ¤hte oder geweidete FlÃ¤ch
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td colspan='4' align='left'&gt;Halboffizieler Landeplatz, nicht im hohen Gras landen.
-Vorsicht: Leitung nordÃ¶stlich der Bahn beachten!!&lt;/td&gt;
+Vorsicht: Leitung nordöstlich der Bahn beachten!!&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -3133,8 +3133,8 @@ Vorsicht: Leitung nordÃ¶stlich der Bahn beachten!!&lt;/td&gt;
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;8.36769792,46.85555731&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Grosse Wiese sÃ¼dÃ¶stlich der Seilbahnstation. Falls der Windsack auf der Wiese steht darf gelandet werden sonst nicht!
-Vorsicht: Leitung am Wladrand sÃ¼dlich des Landeplatzes beachten.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Grosse Wiese südöstlich der Seilbahnstation. Falls der Windsack auf der Wiese steht darf gelandet werden sonst nicht!
+Vorsicht: Leitung am Wladrand südlich des Landeplatzes beachten.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -3176,7 +3176,7 @@ Vorsicht: Leitung am Wladrand sÃ¼dlich des Landeplatzes beachten.&lt;/td&gt;
 &lt;tr&gt;
 &lt;td colspan='4' align='left'&gt;Grosse Wiese ca. 1km vom Dorfrand
 Achtung:
-Schiesstand nordÃ¶stlich.
+Schiesstand nordöstlich.
 Flugplatzzone Epagny nordlich von Gruyeres
 Flugverbot bei Flabschiessbetrieb&lt;/td&gt;
 &lt;/tr&gt;
@@ -3218,13 +3218,13 @@ Flugverbot bei Flabschiessbetrieb&lt;/td&gt;
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;8.0438701,46.6287875&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Der Landeplatz Bodmi ist nahe des Dorfzentrumes. 200m oberhalb der Firstbahn hinter dem Hotel Bodmi in einer leichten Mulde. Er ist mit einem Windsack markiert. Infolge Hanglage herrschen hier thermische Winde die auch schnell wechseln kÃ¶nnen. Generell wird mit einer Linksvolte angeflogen, abgebaut wird sÃ¼dwestlich vom Landeplatz, an der Ostseite des Landeplatzes befindet sich der Faltplatz. Ab hier gelangt man in 5 min Fussmarsch an die Firstbahn oder 10 min an die Pfingsteggbahn. Im Winter ist der Landeplatz 50 Meter tiefer in der unteren FlÃ¤che. Offizielle und gebÃ¼hrenpflichtige ParkplÃ¤tze befinden sich bei der Pfingsteggbahn, hinter dem Sunstar Hotel oder 50m hinter dem Hotel Bodmi an der Hauptstrasse. Beim Restaurant Bodmi auf der Terrasse befindet sich der Flieger Stammtisch des lokalen Klubs Jungfrau TÃ¤chi. Von diesem Tisch aus kann man die Gleitschirm in der Luft und bei der Landung wunderbar beobachten.
-Betreiber und Weisungsberechtigter ist der lokale Klub Jungfrau TÃ¤chi.
+&lt;td colspan='4' align='left'&gt;Der Landeplatz Bodmi ist nahe des Dorfzentrumes. 200m oberhalb der Firstbahn hinter dem Hotel Bodmi in einer leichten Mulde. Er ist mit einem Windsack markiert. Infolge Hanglage herrschen hier thermische Winde die auch schnell wechseln können. Generell wird mit einer Linksvolte angeflogen, abgebaut wird südwestlich vom Landeplatz, an der Ostseite des Landeplatzes befindet sich der Faltplatz. Ab hier gelangt man in 5 min Fussmarsch an die Firstbahn oder 10 min an die Pfingsteggbahn. Im Winter ist der Landeplatz 50 Meter tiefer in der unteren Fläche. Offizielle und gebührenpflichtige Parkplätze befinden sich bei der Pfingsteggbahn, hinter dem Sunstar Hotel oder 50m hinter dem Hotel Bodmi an der Hauptstrasse. Beim Restaurant Bodmi auf der Terrasse befindet sich der Flieger Stammtisch des lokalen Klubs Jungfrau Tächi. Von diesem Tisch aus kann man die Gleitschirm in der Luft und bei der Landung wunderbar beobachten.
+Betreiber und Weisungsberechtigter ist der lokale Klub Jungfrau Tächi.
 
 
 Eignung
 
-Bei durchdringendem SÃ¼dwind (FÃ¶h) ist der Landeplatz Grund vorzuziehen, Bodmi nur fÃ¼r sehr routinierte Piloten geeignet. 
+Bei durchdringendem Südwind (Föh) ist der Landeplatz Grund vorzuziehen, Bodmi nur für sehr routinierte Piloten geeignet. 
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
@@ -3265,11 +3265,11 @@ Bei durchdringendem SÃ¼dwind (FÃ¶h) ist der Landeplatz Grund vorzuziehen, Bo
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;8.0294136,46.62031736&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Der Landeplatz Grund im Talboden ist der offizielle Landeplatz von Grindelwald. Es wurden hier bereits viele nationale und internationale WettkÃ¤mpfe ausgetragen. Der Landeplatz ist 300m sÃ¼dÃ¶stlich der Talstation Grund. Er ist mit zwei Infotafeln sowie einem Windsack markiert. Bei morgendlichem Bergwind wird eine Rechtsvolte geflogen, Abbauraum Ã¼ber der Hauptstrasse und leicht Ã¶stlich (luvseitig) vom Windsack. Bei Talwind wird die Linksvolte geflogen, abgebaut wird westlich vom Windsack und Ã¼ber der Hauptstrasse. Bei Bisenlage und guter Thermik im Tal, kann der Talwind am Landeplatz etwas zunehmen, dabei sollte nicht hinter die Querstrasse Ã¶stlich des Landeplatzes geflogen werden. Am Landeplatz parallel zur Hauptstrasse ist der Faltplatz. Offizielle und gebÃ¼hrenpflichtige ParkplÃ¤tze befinden sich 50m westlich vom Landeplatz. Beim Landeplatz darf nicht parkiert werden! Ab Landeplatz gelang man in 15min Fussmarsch zur Firstbahn, Pfingsteggbahn oder MÃ¤nnlichenbahn, oder beim Bahnhof Grund mit dem Zug ins Zentrum oder dem Postauto zur First- oder Pfingsteggbahn. Betreiber und Weisungsberechtigter ist der lokale Klub Jungfrau TÃ¤chi.
+&lt;td colspan='4' align='left'&gt;Der Landeplatz Grund im Talboden ist der offizielle Landeplatz von Grindelwald. Es wurden hier bereits viele nationale und internationale Wettkämpfe ausgetragen. Der Landeplatz ist 300m südöstlich der Talstation Grund. Er ist mit zwei Infotafeln sowie einem Windsack markiert. Bei morgendlichem Bergwind wird eine Rechtsvolte geflogen, Abbauraum über der Hauptstrasse und leicht östlich (luvseitig) vom Windsack. Bei Talwind wird die Linksvolte geflogen, abgebaut wird westlich vom Windsack und über der Hauptstrasse. Bei Bisenlage und guter Thermik im Tal, kann der Talwind am Landeplatz etwas zunehmen, dabei sollte nicht hinter die Querstrasse östlich des Landeplatzes geflogen werden. Am Landeplatz parallel zur Hauptstrasse ist der Faltplatz. Offizielle und gebührenpflichtige Parkplätze befinden sich 50m westlich vom Landeplatz. Beim Landeplatz darf nicht parkiert werden! Ab Landeplatz gelang man in 15min Fussmarsch zur Firstbahn, Pfingsteggbahn oder Männlichenbahn, oder beim Bahnhof Grund mit dem Zug ins Zentrum oder dem Postauto zur First- oder Pfingsteggbahn. Betreiber und Weisungsberechtigter ist der lokale Klub Jungfrau Tächi.
 
 Eignung
 
-GrundsÃ¤tzlich bei allen normalen Wetterlagen ideal zum Landen. Teilweise zÃ¼giger Talwind am Nachmittag. Auch fÃ¼r AnfÃ¤nger und grosse Gruppen geeignet. Ideal zum Landen von sÃ¤mtlichen StartplÃ¤tzen rund um Grindelwald. 
+Grundsätzlich bei allen normalen Wetterlagen ideal zum Landen. Teilweise zügiger Talwind am Nachmittag. Auch für Anfänger und grosse Gruppen geeignet. Ideal zum Landen von sämtlichen Startplätzen rund um Grindelwald. 
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
@@ -3310,8 +3310,8 @@ GrundsÃ¤tzlich bei allen normalen Wetterlagen ideal zum Landen. Teilweise zÃ�
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;9.15595996,46.24539161&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Die Wiese beim Schiessstand (Stand di tiro) dient als Landeplatz. Einfach. WÃ¤hrend des Schiessbetriebes sind keine Landungen mÃ¶glich. Rot-weisser Windsack bedeutet Schiessbetrieb!!
-NÃ¤chste Postautohaltestelle in Grono nach 10 Min. Fussmarsch erreichbar.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Die Wiese beim Schiessstand (Stand di tiro) dient als Landeplatz. Einfach. Während des Schiessbetriebes sind keine Landungen möglich. Rot-weisser Windsack bedeutet Schiessbetrieb!!
+Nächste Postautohaltestelle in Grono nach 10 Min. Fussmarsch erreichbar.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -3391,7 +3391,7 @@ NÃ¤chste Postautohaltestelle in Grono nach 10 Min. Fussmarsch erreichbar.&lt;/
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;7.29081976,46.4868193&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Hanglandung sÃ¼dÃ¶stlich des Schulhauses.
+&lt;td colspan='4' align='left'&gt;Hanglandung südöstlich des Schulhauses.
 Vorsicht: Auf anfliegende Flugzeuge achten !&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
@@ -3432,7 +3432,7 @@ Vorsicht: Auf anfliegende Flugzeuge achten !&lt;/td&gt;
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;7.31299834,46.47020407&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Leicht abfallende Wiese Ã¶stlich der Talstation Wasserngrat.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Leicht abfallende Wiese östlich der Talstation Wasserngrat.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -3605,7 +3605,7 @@ Centre sportif max 150m/sol.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td colspan='4' align='left'&gt;Grosser Deltalandeplatz westlich der Hauptstrasse.
-Achtung: Diesen Landeplatz besonders bei Turbulenten VerhÃ¤ltnissen anfliegen, biette sehr viel Platz und keine Hindernisse&lt;/td&gt;
+Achtung: Diesen Landeplatz besonders bei Turbulenten Verhältnissen anfliegen, biette sehr viel Platz und keine Hindernisse&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -3686,7 +3686,7 @@ Zum Landen den westlichen Teil benutzen.&lt;/td&gt;
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;9.328971,47.31952776&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Gelandet wird direkt neben der Talstation, Ã¶stlich der Bahnseile.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Gelandet wird direkt neben der Talstation, östlich der Bahnseile.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -3712,7 +3712,7 @@ Zum Landen den westlichen Teil benutzen.&lt;/td&gt;
       <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>9.328971,47.31952776,150</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>KÃ¼ssnacht Ebnet</name>
+	<name>Küssnacht Ebnet</name>
 	<description>
 &lt;table cellpadding=0 cellspacing=0 width=500&gt;
 &lt;tr bgcolor='#D7E1EE'&gt;
@@ -3752,7 +3752,7 @@ Zum Landen den westlichen Teil benutzen.&lt;/td&gt;
       <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>8.447265,47.087609,150</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>KÃ¼ssnacht Eichholtern</name>
+	<name>Küssnacht Eichholtern</name>
 	<description>
 &lt;table cellpadding=0 cellspacing=0 width=500&gt;
 &lt;tr bgcolor='#D7E1EE'&gt;
@@ -3766,11 +3766,11 @@ Zum Landen den westlichen Teil benutzen.&lt;/td&gt;
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;8.43521962,47.06729247&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Grosse Wiese ausgangs KÃ¼ssnacht unterhalb der Hauptstrasse.
+&lt;td colspan='4' align='left'&gt;Grosse Wiese ausgangs Küssnacht unterhalb der Hauptstrasse.
 
-Keine ParkplÃ¤tze in der Umgebung des Landeplatzes!
+Keine Parkplätze in der Umgebung des Landeplatzes!
 
-Landung nur auf dem Wiese benachbarten der Strasse Kussnacht-Weggis! Nicht auf den Feldern in der NÃ¤he des See zu landen.&lt;/td&gt;
+Landung nur auf dem Wiese benachbarten der Strasse Kussnacht-Weggis! Nicht auf den Feldern in der Nähe des See zu landen.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -3796,7 +3796,7 @@ Landung nur auf dem Wiese benachbarten der Strasse Kussnacht-Weggis! Nicht auf d
       <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>8.43521962,47.06729247,150</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>Kandersteg BÃ¼tschels</name>
+	<name>Kandersteg Bütschels</name>
 	<description>
 &lt;table cellpadding=0 cellspacing=0 width=500&gt;
 &lt;tr bgcolor='#D7E1EE'&gt;
@@ -3810,7 +3810,7 @@ Landung nur auf dem Wiese benachbarten der Strasse Kussnacht-Weggis! Nicht auf d
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;7.66313696,46.48980617&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Grosse Wiese nordÃ¶stlich der Talstation Allmenalp. Bei Talwind leichte Turbulenzen mÃ¶glich. &lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Grosse Wiese nordöstlich der Talstation Allmenalp. Bei Talwind leichte Turbulenzen möglich. &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -3850,7 +3850,7 @@ Landung nur auf dem Wiese benachbarten der Strasse Kussnacht-Weggis! Nicht auf d
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;7.68223196,46.49879848&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Grosse Wiese nordÃ¶stlich der Talsstation Oeschinen.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Grosse Wiese nordöstlich der Talsstation Oeschinen.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -3890,9 +3890,9 @@ Landung nur auf dem Wiese benachbarten der Strasse Kussnacht-Weggis! Nicht auf d
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;8.27265599,46.89991936&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Grosser Sportplatz mit VerlÃ¤ngerungsmÃ¶glichkeit nach SÃ¼den. Bei Bise nicht zu nahe an die grossen SchulgebÃ¤ude fliegen, Rotorengefahr! 
+&lt;td colspan='4' align='left'&gt;Grosser Sportplatz mit Verlängerungsmöglichkeit nach Süden. Bei Bise nicht zu nahe an die grossen Schulgebäude fliegen, Rotorengefahr! 
 Anfahrt:
-Bei der Post rechts zu der Sporthalle Dossen ca. 200 Meter. Der Landeplatz ist der grosse Sportplatz direkt bei der Sporthalle. Hier sind ParkmÃ¶glichkeiten. Ab Sarnen wird Kerns auch mit dem Postauto erreicht, Fussmarsch zum Landeplatz 2 Minuten.
+Bei der Post rechts zu der Sporthalle Dossen ca. 200 Meter. Der Landeplatz ist der grosse Sportplatz direkt bei der Sporthalle. Hier sind Parkmöglichkeiten. Ab Sarnen wird Kerns auch mit dem Postauto erreicht, Fussmarsch zum Landeplatz 2 Minuten.
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
@@ -3933,10 +3933,10 @@ Bei der Post rechts zu der Sporthalle Dossen ca. 200 Meter. Der Landeplatz ist d
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;8.28654554,46.90683407&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Das Ried, nahe dem Bezirk Sand, ist eine sehr grosse, flache Wiese. Der Platz eignet sich sehr gut fÃ¼r Deltalandungen.
+&lt;td colspan='4' align='left'&gt;Das Ried, nahe dem Bezirk Sand, ist eine sehr grosse, flache Wiese. Der Platz eignet sich sehr gut für Deltalandungen.
 Kein Parkplatz beim Landeplatz, nur Umschlagplatz!
-Sand ist ein kleiner Teilbezirk von Kerns. Beim Restaurant Sand sind ParkplÃ¤tze vorhanden. Der Fussmarsch zum Landeplatz dauert 5 Minuten, also auf keinen Fall beim Landeplatz parkieren!
-Der Platz wird vor allem fÃ¼r Flugschulen ab Ruedlen benÃ¼tzt.
+Sand ist ein kleiner Teilbezirk von Kerns. Beim Restaurant Sand sind Parkplätze vorhanden. Der Fussmarsch zum Landeplatz dauert 5 Minuten, also auf keinen Fall beim Landeplatz parkieren!
+Der Platz wird vor allem für Flugschulen ab Ruedlen benützt.
 Er ist in der CTR Zone Alpnach-Buochs, bitte spezielle Bestimmungen beachten!
 &lt;/td&gt;
 &lt;/tr&gt;
@@ -3978,7 +3978,7 @@ Er ist in der CTR Zone Alpnach-Buochs, bitte spezielle Bestimmungen beachten!
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;7.7269762,46.58415252&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Grosse Wiese etwas sÃ¼dÃ¶stlich des Sesselliftes&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Grosse Wiese etwas südöstlich des Sesselliftes&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -4018,7 +4018,7 @@ Er ist in der CTR Zone Alpnach-Buochs, bitte spezielle Bestimmungen beachten!
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;9.890994429588,46.864442159864&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Der Landeplatz befindet sich direkt hinter dem Doggilochsee und ist mit einem SHV-Windsack markiert. Wir bitten alle Piloten, mÃ¶glichst nahe am Fussweg zwischen diesem Windsack und dem See zu landen, und den Schirm auf der markierten FlÃ¤che zu falten. Bei Talwind fliegen wir eine Rechtsvolte, bei Bergwind eine Linksvolte. Der Landeplatz hat keine direkte Zufahrt, bitte die private Strasse und PP NICHT benutzen! Achtung vor Turbulenzen!
+&lt;td colspan='4' align='left'&gt;Der Landeplatz befindet sich direkt hinter dem Doggilochsee und ist mit einem SHV-Windsack markiert. Wir bitten alle Piloten, möglichst nahe am Fussweg zwischen diesem Windsack und dem See zu landen, und den Schirm auf der markierten Fläche zu falten. Bei Talwind fliegen wir eine Rechtsvolte, bei Bergwind eine Linksvolte. Der Landeplatz hat keine direkte Zufahrt, bitte die private Strasse und PP NICHT benutzen! Achtung vor Turbulenzen!
 
 &lt;/td&gt;
 &lt;/tr&gt;
@@ -4060,7 +4060,7 @@ Er ist in der CTR Zone Alpnach-Buochs, bitte spezielle Bestimmungen beachten!
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;9.888435602188,46.865949602968&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Der Winter Landeplatz befindet sich direkt nÃ¶rdlich dem Doggilochsee. Der Landeplatz hat keine direkte Zufahrt, bitte die private Strasse und PP NICHT benutzen!&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Der Winter Landeplatz befindet sich direkt nördlich dem Doggilochsee. Der Landeplatz hat keine direkte Zufahrt, bitte die private Strasse und PP NICHT benutzen!&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -4086,7 +4086,7 @@ Er ist in der CTR Zone Alpnach-Buochs, bitte spezielle Bestimmungen beachten!
       <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>9.888435602188,46.865949602968001,150</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>KrÃ¤bel</name>
+	<name>Kräbel</name>
 	<description>
 &lt;table cellpadding=0 cellspacing=0 width=500&gt;
 &lt;tr bgcolor='#D7E1EE'&gt;
@@ -4100,7 +4100,7 @@ Er ist in der CTR Zone Alpnach-Buochs, bitte spezielle Bestimmungen beachten!
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;8.53600629,47.03848642&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Der Landeplatz liegt unterhalb der Seilbahnstation, etwas sÃ¼dÃ¶stlich.
+&lt;td colspan='4' align='left'&gt;Der Landeplatz liegt unterhalb der Seilbahnstation, etwas südöstlich.
 Vorsicht: Bei der Landevolte die Hochspannungsleitung unterhalb des Landeplatzes beachten! Bei starken Talwinde es ist Gefahr einer Leeturbulenzen am Landeplatz&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
@@ -4141,8 +4141,8 @@ Vorsicht: Bei der Landevolte die Hochspannungsleitung unterhalb des Landeplatzes
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;8.2779789,47.03076779&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Grosse Wiese mit einigen BÃ¤umen dazwischen.
-Bosonderes: Nur benutzen wenn die Wiese gemÃ¤ht ist!!!
+&lt;td colspan='4' align='left'&gt;Grosse Wiese mit einigen Bäumen dazwischen.
+Bosonderes: Nur benutzen wenn die Wiese gemäht ist!!!
 Bei der Talsstation steht jeweils ob der Platz benutzt werden darf oder nicht nicht.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
@@ -4303,7 +4303,7 @@ Bei der Talsstation steht jeweils ob der Platz benutzt werden darf oder nicht ni
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;8.57215715,47.03678574&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Alternative Landeplatz fÃ¼r FlÃ¼ge von Scheidegg oder Rigi Kulm. Der Landeplatz liegt beim Restaurant.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Alternative Landeplatz für Flüge von Scheidegg oder Rigi Kulm. Der Landeplatz liegt beim Restaurant.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -4343,12 +4343,12 @@ Bei der Talsstation steht jeweils ob der Platz benutzt werden darf oder nicht ni
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;7.90821,46.58826&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Der Landeplatz Weid beim Staubbach ist etwas oberhalb des Camping Jungfrau mit leichter Hanglage. Er ist mit einem Windsack und Infotafel markiert. Infolge Hanglage herrschen hier thermische Winde die auch schnell wechseln kÃ¶nnen. Paragliding Jungfrau Gmbh betreibt und unterhÃ¤lt als Nutzungsberechtigter  den Gleitschirmlandeplatz â€žWeid am Staubbachâ€œ in Lauterbrunnen. FÃ¼r private Zwecke (Solopiloten/innen, Biplacepiloten fÃ¼r PassagierflÃ¼ge) ohne Entgelt, fÃ¼r gewerbliche Zwecke nach RÃ¼cksprache mit Paragliding Jungfrau Gmbh.
-Der Landeplatz im Talboden nÃ¶rdlich vom Heliport ist nicht offiziell aber geduldet. Das Ãœberfliegen des Heli Hanggares ist strikte Verboten. Er liegt mitten im Tal, etwa 1 km sÃ¼dlich des Dorfzentrums. Achtung: fÃ¼r die Landung in Lauterbrunnen ist das Anmelden beim Heliport obligatorisch. Telefon Air Glacier Lauterbrunnen 0338560560. 
+&lt;td colspan='4' align='left'&gt;Der Landeplatz Weid beim Staubbach ist etwas oberhalb des Camping Jungfrau mit leichter Hanglage. Er ist mit einem Windsack und Infotafel markiert. Infolge Hanglage herrschen hier thermische Winde die auch schnell wechseln können. Paragliding Jungfrau Gmbh betreibt und unterhält als Nutzungsberechtigter  den Gleitschirmlandeplatz â€žWeid am Staubbachâ€œ in Lauterbrunnen. Für private Zwecke (Solopiloten/innen, Biplacepiloten für Passagierflüge) ohne Entgelt, für gewerbliche Zwecke nach Rücksprache mit Paragliding Jungfrau Gmbh.
+Der Landeplatz im Talboden nördlich vom Heliport ist nicht offiziell aber geduldet. Das Ãœberfliegen des Heli Hanggares ist strikte Verboten. Er liegt mitten im Tal, etwa 1 km südlich des Dorfzentrums. Achtung: für die Landung in Lauterbrunnen ist das Anmelden beim Heliport obligatorisch. Telefon Air Glacier Lauterbrunnen 0338560560. 
 
 Eignung
 
-FÃ¼r FlÃ¼ge nach Lauterbrunnen Dorf. oft turbulent
+Für Flüge nach Lauterbrunnen Dorf. oft turbulent
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
@@ -4389,8 +4389,8 @@ FÃ¼r FlÃ¼ge nach Lauterbrunnen Dorf. oft turbulent
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;8.11461252,46.38594928&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Grosse Wiese sÃ¼dwestlich des Dorfes zwischen der Bahnlinie und der Hauptstrasse.
-Achtung: Offiziell ist die Landung hier verboten. Der Bauer, welcher die Wiese beim Bahnhof gepachtet hat, mag keine Gleitschirme und bietet nach der Landung zwei Optionen an: Entweder CHF 20 Schadenersatz oder eine Anzeige wegen SachbeschÃ¤digung (KrÃ¤uterknickung). Der Bauer akzeptiert weder Kreditkarten noch Reka Cheques und beharrt auf Barzahlung.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Grosse Wiese südwestlich des Dorfes zwischen der Bahnlinie und der Hauptstrasse.
+Achtung: Offiziell ist die Landung hier verboten. Der Bauer, welcher die Wiese beim Bahnhof gepachtet hat, mag keine Gleitschirme und bietet nach der Landung zwei Optionen an: Entweder CHF 20 Schadenersatz oder eine Anzeige wegen Sachbeschädigung (Kräuterknickung). Der Bauer akzeptiert weder Kreditkarten noch Reka Cheques und beharrt auf Barzahlung.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -4475,7 +4475,7 @@ Terrain en pente lÃ©gÃ¨rement descendante. Il est prÃ©fÃ©rable de bien d
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;6.76377688,46.90294704&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Nur auf gemÃ¤hten Wiesen landen!
+&lt;td colspan='4' align='left'&gt;Nur auf gemähten Wiesen landen!
 Der Wind kommt sehr oft vom See.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
@@ -4556,7 +4556,7 @@ Der Wind kommt sehr oft vom See.&lt;/td&gt;
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;7.442542,46.45498093&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;LandeplÃ¤tze im Umkreis des Tennisplatzes. Bitte nur gemÃ¤hte Wiesen verwenden.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Landeplätze im Umkreis des Tennisplatzes. Bitte nur gemähte Wiesen verwenden.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -4677,7 +4677,7 @@ Vorsicht: Kabel der Bergbahn.&lt;/td&gt;
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;7.63361684,46.38284842&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Mittelgrosse Wiese am nordÃ¶stlichen Dorfrand zwischen der Strasse und dem Skilift&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Mittelgrosse Wiese am nordöstlichen Dorfrand zwischen der Strasse und dem Skilift&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -4717,7 +4717,7 @@ Vorsicht: Kabel der Bergbahn.&lt;/td&gt;
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;9.00925317,46.93177037&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Grosse Wiese nordÃ¶stlich der Talstation.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Grosse Wiese nordöstlich der Talstation.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -4757,7 +4757,7 @@ Vorsicht: Kabel der Bergbahn.&lt;/td&gt;
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;8.80044178,46.15486388&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Landeplatz im Maggia Delta. Bei Hochwasser nicht mÃ¶glich.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Landeplatz im Maggia Delta. Bei Hochwasser nicht möglich.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -4797,7 +4797,7 @@ Vorsicht: Kabel der Bergbahn.&lt;/td&gt;
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;8.7919401,46.1618037&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Landeplatz direkt neben einer Schule. Von dornigen StrÃ¤uchern umgeben.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Landeplatz direkt neben einer Schule. Von dornigen Sträuchern umgeben.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -4838,7 +4838,7 @@ Vorsicht: Kabel der Bergbahn.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td colspan='4' align='left'&gt;Beim Parkplatz und hinterhalb der Flug-Infotafel ist die Landewiese.
-In der Regel blÃ¤st der Wind von der Seeseite. Die vorgelagerten BÃ¤ume sind beim Landen zu beachten (Rotoren). Achte auf den Windsack, je nach Stand der Kulturen wird der Landeplatz unten am See benutzt. Das Gebiet von Lungern-SchÃ¶nbÃ¼el kann das ganze Jahr beflogen werden, vor allem die WinterflÃ¼ge sind ein Genuss.
+In der Regel bläst der Wind von der Seeseite. Die vorgelagerten Bäume sind beim Landen zu beachten (Rotoren). Achte auf den Windsack, je nach Stand der Kulturen wird der Landeplatz unten am See benutzt. Das Gebiet von Lungern-Schönbüel kann das ganze Jahr beflogen werden, vor allem die Winterflüge sind ein Genuss.
 Das Fluggebiet ist ausserhalb von Flugzonen, beachte trotzdem die Flug-Infos am Landeplatz.
 &lt;/td&gt;
 &lt;/tr&gt;
@@ -4880,8 +4880,8 @@ Das Fluggebiet ist ausserhalb von Flugzonen, beachte trotzdem die Flug-Infos am 
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;8.30168647,47.0323911&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Grosse RasenplÃ¤tze im Sport und AusstellungsgelÃ¤nde.
-Achtung: WÃ¤hrend Ausstellungen oder anderen Veranstalltungen kann der Platz
+&lt;td colspan='4' align='left'&gt;Grosse Rasenplätze im Sport und Ausstellungsgelände.
+Achtung: Während Ausstellungen oder anderen Veranstalltungen kann der Platz
 etwas knapp werden.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
@@ -5107,7 +5107,7 @@ Der Landeplatz liegt gleich neben der Bergbahn und dem Restaurant Sporting. Der 
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;9.1679787,46.96637318&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Grosse Wiese nÃ¶rdlich des Dorfes.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Grosse Wiese nördlich des Dorfes.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -5147,7 +5147,7 @@ Der Landeplatz liegt gleich neben der Bergbahn und dem Restaurant Sporting. Der 
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;7.63367974,47.30531388&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Grosse Wiese am Ã¶stlichen Dorfrand.
+&lt;td colspan='4' align='left'&gt;Grosse Wiese am östlichen Dorfrand.
 Infotafel beachten.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
@@ -5189,7 +5189,7 @@ Infotafel beachten.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td colspan='4' align='left'&gt;Der Landeplatz liegt zwischen der Talsstation der Luftseilbahn und dem Eingang der Aareschlucht.
-Vorsicht: Nicht zum Eingang der Aareschlucht treiben lassen, keine LandemÃ¶glichkeit mehr.&lt;/td&gt;
+Vorsicht: Nicht zum Eingang der Aareschlucht treiben lassen, keine Landemöglichkeit mehr.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -5229,7 +5229,7 @@ Vorsicht: Nicht zum Eingang der Aareschlucht treiben lassen, keine LandemÃ¶gli
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;8.98162913,45.87812155&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Die Navette fÃ¤hrt in den Sommermonaten um 17.30 zum Startplatz Cavaiano hoch.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Die Navette fährt in den Sommermonaten um 17.30 zum Startplatz Cavaiano hoch.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -5269,8 +5269,8 @@ Vorsicht: Nicht zum Eingang der Aareschlucht treiben lassen, keine LandemÃ¶gli
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;8.85463614,46.0232921&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Landeplatz direkt neben der Talstation zum Mt. Lema. Nur fÃ¼r erfahrene Piloten!Nur bei gemÃ¤hter Wiese dort landen. VorgÃ¤ngig besichtigen!! Auf Leitungen und Bahn aufpassen. Vom Wald direkt unterhalb des Landeplatzes kommen teilweise starke thermische AblÃ¶sungen. An thermischen Tagen zur eigenen Sicherheit auf den Landeplatz bei Sessa ausweichen!
-Achtung: Es werden laufend neue HÃ¤user auf die Wiese gebaut. Der verfÃ¼gbare Platz wird immer kleiner. Alternativ kann auf einer Wiese am Hang, Ã¶stlich von Miglieglia, gleich unterhalb des Dorfes gelandet werden. Anspruchsvoll, Windsack vorhanden.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Landeplatz direkt neben der Talstation zum Mt. Lema. Nur für erfahrene Piloten!Nur bei gemähter Wiese dort landen. Vorgängig besichtigen!! Auf Leitungen und Bahn aufpassen. Vom Wald direkt unterhalb des Landeplatzes kommen teilweise starke thermische Ablösungen. An thermischen Tagen zur eigenen Sicherheit auf den Landeplatz bei Sessa ausweichen!
+Achtung: Es werden laufend neue Häuser auf die Wiese gebaut. Der verfügbare Platz wird immer kleiner. Alternativ kann auf einer Wiese am Hang, östlich von Miglieglia, gleich unterhalb des Dorfes gelandet werden. Anspruchsvoll, Windsack vorhanden.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -5350,7 +5350,7 @@ Achtung: Es werden laufend neue HÃ¤user auf die Wiese gebaut. Der verfÃ¼gbar
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;7.22666879,46.07291966&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Kleiner Landeplatz mit BÃ¤umen bei der Kapelle&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Kleiner Landeplatz mit Bäumen bei der Kapelle&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -5390,7 +5390,7 @@ Achtung: Es werden laufend neue HÃ¤user auf die Wiese gebaut. Der verfÃ¼gbar
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;6.96069506,46.26236516&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Grosse WiesenÃ¶rdlich der Eishalle&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Grosse Wiesenördlich der Eishalle&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -5550,12 +5550,12 @@ Achtung: Es werden laufend neue HÃ¤user auf die Wiese gebaut. Der verfÃ¼gbar
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;8.63622303,46.98890541&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Grosse Wiese sÃ¼dwestlich der Talstation.
+&lt;td colspan='4' align='left'&gt;Grosse Wiese südwestlich der Talstation.
 
 *** Achtung ***
 Dies ist kein offizieller Landeplatz. 
-Diese Wiese ist nicht als Landeplatz freigegeben. Es ist auch kein Windsack vorhanden. Wenn man aber den EigentÃ¼mer im Restaurant neben der Wiese anstÃ¤ndig um Erlaubnis bittet, entsprechend in einem gemÃ¤hten Teil der Wiese landet und beim Falten des Schirms Vorsicht walten lÃ¤sst, kommt einem der Landbesitzer hÃ¶flich entgegen.
-Am besten konsumiert Ihr vor dem Flug bei Ihm etwas und fragt Ihn hÃ¶flich um Erlaubnis. Mir gegenÃ¼ber war er sehr nett und zuvorkommend.
+Diese Wiese ist nicht als Landeplatz freigegeben. Es ist auch kein Windsack vorhanden. Wenn man aber den Eigentümer im Restaurant neben der Wiese anständig um Erlaubnis bittet, entsprechend in einem gemähten Teil der Wiese landet und beim Falten des Schirms Vorsicht walten lässt, kommt einem der Landbesitzer höflich entgegen.
+Am besten konsumiert Ihr vor dem Flug bei Ihm etwas und fragt Ihn höflich um Erlaubnis. Mir gegenüber war er sehr nett und zuvorkommend.
 Die Wiese eignet sich wirklich gut zum Landen. Vor allem weil sie gleich neben dem Parkplatz der Gondelbahn liegt.
 &lt;/td&gt;
 &lt;/tr&gt;
@@ -5625,7 +5625,7 @@ Gefahren: Im Sommer teilweise turbulent.&lt;/td&gt;
       <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>9.25411202,46.82582869,150</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>NÃ¤fels</name>
+	<name>Näfels</name>
 	<description>
 &lt;table cellpadding=0 cellspacing=0 width=500&gt;
 &lt;tr bgcolor='#D7E1EE'&gt;
@@ -5719,7 +5719,7 @@ Gefahren: Im Sommer teilweise turbulent.&lt;/td&gt;
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;8.51390252,47.15024346&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Grosse Wiese westlich der Talstation Zugerberg (SchÃ¶negg) und nordÃ¶stlich der Oberwil Bahnhof.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Grosse Wiese westlich der Talstation Zugerberg (Schönegg) und nordöstlich der Oberwil Bahnhof.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -5760,8 +5760,8 @@ Gefahren: Im Sommer teilweise turbulent.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td colspan='4' align='left'&gt;Bemerkungen
-- Landen nur wenn Windsack hÃ¤ngt
-- Keine AbfÃ¤lle liegen lassen
+- Landen nur wenn Windsack hängt
+- Keine Abfälle liegen lassen
 - Nicht mit dem Auto zum Lande
   platz fahren!
 
@@ -5769,7 +5769,7 @@ Gefahren
 - Im Sommer herrscht am Nachmittag starker Talwind
 - Viele Transportseile (Hinderniskarte beachten)
 - Nicht beachten der Hinweise haben das Schliessen des LP
-- Zur Folge!! Der Bauer stellt den LP ohne Entgelt zur VerfÃ¼gung.&lt;/td&gt;
+- Zur Folge!! Der Bauer stellt den LP ohne Entgelt zur Verfügung.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -5809,7 +5809,7 @@ Gefahren
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;9.56203522,46.76042901&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Grosse Wiese Ã¶stlich des Dorfzentrums&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Grosse Wiese östlich des Dorfzentrums&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -5970,11 +5970,11 @@ Club : RNVL&lt;/td&gt;
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;8.66993438,47.01252339&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Mittelgrosse leicht abfallende Wiese sÃ¼dlich der Luftseilbahn.
-Besonderes: Der Landeplatz ist mit farbigen Scheiben markiert. Nicht mit den Fahrzeugen zum Landeplatz fahren. Abbauraum: - Ãœber freien Feld westlich des Landeplatzes (Linkskreise) Gegenanflug: - 100m unterhalb des Landeplatzes. Queranflug: - Richtung Rotenfluh Endanflug: - NÃ¶rdliche Begrenzung, Perfidenstrasse!
-Faltplatz: - sÃ¼dlich des Windsackes, Ã¶stlich des Flurweges!! 
+&lt;td colspan='4' align='left'&gt;Mittelgrosse leicht abfallende Wiese südlich der Luftseilbahn.
+Besonderes: Der Landeplatz ist mit farbigen Scheiben markiert. Nicht mit den Fahrzeugen zum Landeplatz fahren. Abbauraum: - Ãœber freien Feld westlich des Landeplatzes (Linkskreise) Gegenanflug: - 100m unterhalb des Landeplatzes. Queranflug: - Richtung Rotenfluh Endanflug: - Nördliche Begrenzung, Perfidenstrasse!
+Faltplatz: - südlich des Windsackes, östlich des Flurweges!! 
 allgemein: - Landevolte unbedingt einhalten 
-- beachten Sie die SperrflÃ¤chen und die Lage des Faltplatzes.&lt;/td&gt;
+- beachten Sie die Sperrflächen und die Lage des Faltplatzes.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -6014,9 +6014,9 @@ allgemein: - Landevolte unbedingt einhalten
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;8.0104,46.314&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Grosser Landeplatz westlich des Dorfes Ried-Brig. Schirme und Delta am Wegrand zusammenlegen! halbstÃ¼ndlich fÃ¤hrt ein Bus Richtung Brig Bahnhof. 
+&lt;td colspan='4' align='left'&gt;Grosser Landeplatz westlich des Dorfes Ried-Brig. Schirme und Delta am Wegrand zusammenlegen! halbstündlich fährt ein Bus Richtung Brig Bahnhof. 
 
-Besonders fÃ¶hnanfÃ¤llig und nachmittags starke Talwinde.&lt;/td&gt;
+Besonders föhnanfällig und nachmittags starke Talwinde.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -6056,9 +6056,9 @@ Besonders fÃ¶hnanfÃ¤llig und nachmittags starke Talwinde.&lt;/td&gt;
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;8.5062450170516,47.325541420669&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;ParkplÃ¤tze: Bitte stellt euer Auto so ab, dass der Bauer auch mit grossen Maschinen noch vorbeikommt. Nicht auf dem Feldweg hinter der Hecke parkieren.
+&lt;td colspan='4' align='left'&gt;Parkplätze: Bitte stellt euer Auto so ab, dass der Bauer auch mit grossen Maschinen noch vorbeikommt. Nicht auf dem Feldweg hinter der Hecke parkieren.
 
-Bitte nach der Landung das KÃ¤sseli mit 5.- fÃ¼ttern, danke.&lt;/td&gt;
+Bitte nach der Landung das Kässeli mit 5.- füttern, danke.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -6138,7 +6138,7 @@ Bitte nach der Landung das KÃ¤sseli mit 5.- fÃ¼ttern, danke.&lt;/td&gt;
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;8.92009253,46.12726584&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Landeplatz direkt neben bzw. auf dem Parkplatz der Talstation. Wegen des teilweise starken Talwindes, sollte man sich nicht zu weit mit dem Wind nach hinten tragen lassen &gt;&gt; Keine NotlandemÃ¶glichkeiten mehr vorhanden!  &lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Landeplatz direkt neben bzw. auf dem Parkplatz der Talstation. Wegen des teilweise starken Talwindes, sollte man sich nicht zu weit mit dem Wind nach hinten tragen lassen &gt;&gt; Keine Notlandemöglichkeiten mehr vorhanden!  &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -6218,8 +6218,8 @@ Bitte nach der Landung das KÃ¤sseli mit 5.- fÃ¼ttern, danke.&lt;/td&gt;
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;7.20811669,46.48758118&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Wiese Ã¶stlich der Kirche.
-Achtung: Schiesstand sÃ¼dwestlich des Landeplatzes
+&lt;td colspan='4' align='left'&gt;Wiese östlich der Kirche.
+Achtung: Schiesstand südwestlich des Landeplatzes
 Anmeldung obligatorisch. 0337444025&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
@@ -6261,16 +6261,16 @@ Anmeldung obligatorisch. 0337444025&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td colspan='4' align='left'&gt;Wichtig:
-Pro Flugtag muss eine TagesgebÃ¼hr von Fr. 5.- in die Kasse im Bus bezahlt werden. Darin inbegriffen Starten, Landen, Parkieren.
-Oder kaufe eine Jahresflugkarte fÃ¼r Fr. 40.-. Die Karte kann in den Flugschulen und beim Busfahrer gekauft werden.
-Die Karte gilt auch fÃ¼r das Fluggebiet Kerenzerberg und Fronalpstock. 
-Es ist nicht selbstverstÃ¤ndlich, dass hier geflogen werden darf. Darum
-haltet euch an die Regeln und sagt es Piloten die durch Fehlverhalten das Fluggebiet gefÃ¤hrden
+Pro Flugtag muss eine Tagesgebühr von Fr. 5.- in die Kasse im Bus bezahlt werden. Darin inbegriffen Starten, Landen, Parkieren.
+Oder kaufe eine Jahresflugkarte für Fr. 40.-. Die Karte kann in den Flugschulen und beim Busfahrer gekauft werden.
+Die Karte gilt auch für das Fluggebiet Kerenzerberg und Fronalpstock. 
+Es ist nicht selbstverständlich, dass hier geflogen werden darf. Darum
+haltet euch an die Regeln und sagt es Piloten die durch Fehlverhalten das Fluggebiet gefährden
 
 Startverbot: 
-Im Juni und September gilt fÃ¼r ca. 3 Wochen ein Startverbot wÃ¤hren der Weidezeit.
+Im Juni und September gilt für ca. 3 Wochen ein Startverbot währen der Weidezeit.
 An Karfreitag, Ostersonntag und Pfingstsonntag gilt ebenfalls ein Startverbot.
-Keine alternativen StartplÃ¤tze, der geltende Zonenplan der Gemeinde SchÃ¤nis verbietet das Starten in der Kernzone.
+Keine alternativen Startplätze, der geltende Zonenplan der Gemeinde Schänis verbietet das Starten in der Kernzone.
 Weitere info www.gkg.ch&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
@@ -6297,7 +6297,7 @@ Weitere info www.gkg.ch&lt;/td&gt;
       <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>9.04771837,47.18339305,150</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>SÃ¶renberg</name>
+	<name>Sörenberg</name>
 	<description>
 &lt;table cellpadding=0 cellspacing=0 width=500&gt;
 &lt;tr bgcolor='#D7E1EE'&gt;
@@ -6318,7 +6318,7 @@ Weitere info www.gkg.ch&lt;/td&gt;
 &lt;table cellpadding=0 cellspacing=0 width=500&gt;
 &lt;tr bgcolor='#D7E1EE'&gt;
 &lt;td width='25%'&gt;Landevolte:&lt;/td&gt;
-&lt;td colspan='3'&gt;&lt;a href='fl_gis_volte_public.php?Lng=8.057379412651&amp;Bng=46.809888343609&amp;Rng=6000&amp;Nr=12&amp;ST=0&amp;LP=1&amp;PP=0&amp;CAM=0&amp;GG=0&amp;VZ=0&amp;SZ=0&amp;HI=0&amp;BB=0' target='_blank'&gt;SÃ¶renberg Linksvolte&lt;/a&gt;&lt;/td&gt;
+&lt;td colspan='3'&gt;&lt;a href='fl_gis_volte_public.php?Lng=8.057379412651&amp;Bng=46.809888343609&amp;Rng=6000&amp;Nr=12&amp;ST=0&amp;LP=1&amp;PP=0&amp;CAM=0&amp;GG=0&amp;VZ=0&amp;SZ=0&amp;HI=0&amp;BB=0' target='_blank'&gt;Sörenberg Linksvolte&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td colspan='4'&gt;&amp;nbsp;&lt;/td&gt;
@@ -6359,7 +6359,7 @@ Weitere info www.gkg.ch&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td colspan='4' align='left'&gt;Grosse Wiese neben dem Windsack des Flugplatzes. 
-Achtung: Westliche HÃ¤lfte des Flugplatzes nicht Ã¼berfliegen.
+Achtung: Westliche Hälfte des Flugplatzes nicht überfliegen.
 Nur im WInter verwenden.
 Anmeldung obligatorisch. 0337444025&lt;/td&gt;
 &lt;/tr&gt;
@@ -6402,7 +6402,7 @@ Anmeldung obligatorisch. 0337444025&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td colspan='4' align='left'&gt;Der Landeplatz liegt beim Lido direkt am Sarnersee. In 10 Minuten Fussmarsch erreichst du den Bahnhof.
-Vorgelagert zur grossen Landewiese ist ein Fussballplatz mit hoher UmzÃ¤unung, sei vorsichtig! Ein Windsack und eine Infotafel am Kandalaber dienen als Orientierungshilfen.
+Vorgelagert zur grossen Landewiese ist ein Fussballplatz mit hoher Umzäunung, sei vorsichtig! Ein Windsack und eine Infotafel am Kandalaber dienen als Orientierungshilfen.
 Im Lido kannst du baden oder das sympatische Strandbeizli besuchen. Bei hohem Grasstand bitte die Schirme ausserhalb der Kulturen falten.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
@@ -6523,7 +6523,7 @@ Im Lido kannst du baden oder das sympatische Strandbeizli besuchen. Bei hohem Gr
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;9.59482996,46.59828364&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Grosse Wiese nÃ¶rdlich der Strasse welche von Savognin hinunter zur Sesselbahn fÃ¼hrt.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Grosse Wiese nördlich der Strasse welche von Savognin hinunter zur Sesselbahn führt.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -6549,7 +6549,7 @@ Im Lido kannst du baden oder das sympatische Strandbeizli besuchen. Bei hohem Gr
       <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>9.59482996,46.59828364,150</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>SchÃ¶nried Horneggli</name>
+	<name>Schönried Horneggli</name>
 	<description>
 &lt;table cellpadding=0 cellspacing=0 width=500&gt;
 &lt;tr bgcolor='#D7E1EE'&gt;
@@ -6563,7 +6563,7 @@ Im Lido kannst du baden oder das sympatische Strandbeizli besuchen. Bei hohem Gr
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;7.29467784,46.50526528&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Grosse Wiese nordÃ¶stlich der Talstation Horneggli.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Grosse Wiese nordöstlich der Talstation Horneggli.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -6589,7 +6589,7 @@ Im Lido kannst du baden oder das sympatische Strandbeizli besuchen. Bei hohem Gr
       <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>7.29467784,46.50526528,150</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>SchÃ¶nried Rellerli</name>
+	<name>Schönried Rellerli</name>
 	<description>
 &lt;table cellpadding=0 cellspacing=0 width=500&gt;
 &lt;tr bgcolor='#D7E1EE'&gt;
@@ -6603,7 +6603,7 @@ Im Lido kannst du baden oder das sympatische Strandbeizli besuchen. Bei hohem Gr
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;7.28881526,46.50525771&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Kleiner Landeplatz Ã¶stlich der Talstation. Der Landeplatz ist umgeben von Strassen und HÃ¤usern.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Kleiner Landeplatz östlich der Talstation. Der Landeplatz ist umgeben von Strassen und Häusern.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -6629,7 +6629,7 @@ Im Lido kannst du baden oder das sympatische Strandbeizli besuchen. Bei hohem Gr
       <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>7.28881526,46.50525771,150</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>SchÃ¼pfheim</name>
+	<name>Schüpfheim</name>
 	<description>
 &lt;table cellpadding=0 cellspacing=0 width=500&gt;
 &lt;tr bgcolor='#D7E1EE'&gt;
@@ -6643,16 +6643,16 @@ Im Lido kannst du baden oder das sympatische Strandbeizli besuchen. Bei hohem Gr
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;8.012173461914,46.928131632133&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Grosse Wiese zwischen der KÃ¤serei und dem Winterdienstareal.
-Der Landeplatz liegt kurz vor der Talenge Richtung SÃ¶renberg.
-Vorsicht: Nicht in die Talenge treiben lassen, gerade bei starker Bise nicht ungefÃ¤hrlich.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Grosse Wiese zwischen der Käserei und dem Winterdienstareal.
+Der Landeplatz liegt kurz vor der Talenge Richtung Sörenberg.
+Vorsicht: Nicht in die Talenge treiben lassen, gerade bei starker Bise nicht ungefährlich.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
 &lt;table cellpadding=0 cellspacing=0 width=500&gt;
 &lt;tr bgcolor='#D7E1EE'&gt;
 &lt;td width='25%'&gt;Landevolte:&lt;/td&gt;
-&lt;td colspan='3'&gt;&lt;a href='fl_gis_volte_public.php?Lng=8.013536024094&amp;Bng=46.928699462719&amp;Rng=6000&amp;Nr=11&amp;ST=0&amp;LP=1&amp;PP=0&amp;CAM=0&amp;GG=0&amp;VZ=0&amp;SZ=0&amp;HI=0&amp;BB=0' target='_blank'&gt;SchÃ¼pfheim Rechtsvolte&lt;/a&gt;&lt;/td&gt;
+&lt;td colspan='3'&gt;&lt;a href='fl_gis_volte_public.php?Lng=8.013536024094&amp;Bng=46.928699462719&amp;Rng=6000&amp;Nr=11&amp;ST=0&amp;LP=1&amp;PP=0&amp;CAM=0&amp;GG=0&amp;VZ=0&amp;SZ=0&amp;HI=0&amp;BB=0' target='_blank'&gt;Schüpfheim Rechtsvolte&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td colspan='4'&gt;&amp;nbsp;&lt;/td&gt;
@@ -6692,7 +6692,7 @@ Vorsicht: Nicht in die Talenge treiben lassen, gerade bei starker Bise nicht ung
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;8.65515906,46.86725579&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Der Landeplatz liegt nÃ¶rdlich der Talstation zwischen dem Dorfrand und einem Tennisplatz. Da der Landeplatz von HÃ¤usern umgeben ist kann es etwas turbulent sein.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Der Landeplatz liegt nördlich der Talstation zwischen dem Dorfrand und einem Tennisplatz. Da der Landeplatz von Häusern umgeben ist kann es etwas turbulent sein.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -6813,7 +6813,7 @@ Der Landeplatz ist schmal und lang. Es ist zwischen der Strasse und der Bahnlini
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;9.22188565,46.78137434&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Grosse Wiese(n) unterhalb der Kantonsstrasse. Nur gemÃ¤hte Stellen benÃ¼tzen. Transport: Postautohaltestelle sÃ¼dÃ¶stlich von Tankstelle; Autostopp. Alternative: 400m sÃ¼dÃ¶stlich beim Fussballplatz am Rheinufer&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Grosse Wiese(n) unterhalb der Kantonsstrasse. Nur gemähte Stellen benützen. Transport: Postautohaltestelle südöstlich von Tankstelle; Autostopp. Alternative: 400m südöstlich beim Fussballplatz am Rheinufer&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -6853,7 +6853,7 @@ Der Landeplatz ist schmal und lang. Es ist zwischen der Strasse und der Bahnlini
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;7.281017303467,46.668625741075&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Einfacher Landeplatz. Mit genÃ¼gend HÃ¶he Ã¼ber den See fliegen.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Einfacher Landeplatz. Mit genügend Höhe über den See fliegen.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -6894,9 +6894,9 @@ Der Landeplatz ist schmal und lang. Es ist zwischen der Strasse und der Bahnlini
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td colspan='4' align='left'&gt;Der Landeplatz befindet sich oberhalb des 
-Bahnhofes, unmittelbar bei einem grossen Parkplatz,und in der NÃ¤he der Gondelbahn Scuol-Motta Naluns. 
-Terrassenartige WiesenflÃ¤chen markiert mit 
-WindsÃ¤cken.&lt;/td&gt;
+Bahnhofes, unmittelbar bei einem grossen Parkplatz,und in der Nähe der Gondelbahn Scuol-Motta Naluns. 
+Terrassenartige Wiesenflächen markiert mit 
+Windsäcken.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -6977,7 +6977,7 @@ http://www.paragliding365.com/index-p-image_details_8229_flightarea_144.html&lt;
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;8.99533649,46.17933697&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Nur fÃ¼r Piloten mit genÃ¼gender Flugpraxis.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Nur für Piloten mit genügender Flugpraxis.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -7017,7 +7017,7 @@ http://www.paragliding365.com/index-p-image_details_8229_flightarea_144.html&lt;
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;8.81017074,46.00119742&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Landeplatz in der NÃ¤he der italienischen Grenze an der Umfahrungsstrasse von Sessa. Windsack vorhanden. Aufgepasst auf das Lee der BÃ¤ume. Mit dem Postauto kann man wieder nach Miglieglia (Talstation Mt. Lema) zurÃ¼ckfahren (umstÃ¤ndlich).&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Landeplatz in der Nähe der italienischen Grenze an der Umfahrungsstrasse von Sessa. Windsack vorhanden. Aufgepasst auf das Lee der Bäume. Mit dem Postauto kann man wieder nach Miglieglia (Talstation Mt. Lema) zurückfahren (umständlich).&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -7057,7 +7057,7 @@ http://www.paragliding365.com/index-p-image_details_8229_flightarea_144.html&lt;
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;7.67313958,46.68547652&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Der Landeplatz ist eine grosse Wiese. Bitte nur dort Landen wo die Wiese gemÃ¤ht ist. Ã–stlich der Strasse Richtung Spiez ist das Landen verboten! Normalerweise wird eine Linksvolte geflogen. Faltplatz in der gemÃ¤hten Wiese oder am Wegrand benutzen.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Der Landeplatz ist eine grosse Wiese. Bitte nur dort Landen wo die Wiese gemäht ist. Ã–stlich der Strasse Richtung Spiez ist das Landen verboten! Normalerweise wird eine Linksvolte geflogen. Faltplatz in der gemähten Wiese oder am Wegrand benutzen.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -7083,7 +7083,7 @@ http://www.paragliding365.com/index-p-image_details_8229_flightarea_144.html&lt;
       <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>7.67313958,46.68547652,150</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>StÃ¶ckalp</name>
+	<name>Stöckalp</name>
 	<description>
 &lt;table cellpadding=0 cellspacing=0 width=500&gt;
 &lt;tr bgcolor='#D7E1EE'&gt;
@@ -7100,7 +7100,7 @@ http://www.paragliding365.com/index-p-image_details_8229_flightarea_144.html&lt;
 &lt;td colspan='4' align='left'&gt;Der Platz ist leicht abfallend und nicht ganz plan . Beachte die Hindernisse Baum, Steinmauer, Stromleitung.
 Ein Windsack ist vorhanden. 
 Im Sommer ist auf dem Landeplatz wegen dem weidenden Vieh besondere Vorsicht geboten.
-Das Fluggebiet liegt ausserhalb einschrÃ¤nkender Flugzonen. An den StartplÃ¤tzen ist jedoch die Flug-Info-Karte Ã¼ber Wildschutzgebiete und Drahtseile gut zu studieren!
+Das Fluggebiet liegt ausserhalb einschränkender Flugzonen. An den Startplätzen ist jedoch die Flug-Info-Karte über Wildschutzgebiete und Drahtseile gut zu studieren!
 Bergrestaurant am Landeplatz&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
@@ -7181,8 +7181,8 @@ Bergrestaurant am Landeplatz&lt;/td&gt;
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;8.35569264,46.95910681&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Die Wiese ist leicht abfallend. Je nach GrashÃ¶he wird der Windsack in seiner Position verschoben. Darauf achten, dass in WindsacknÃ¤he gelandet wird.
-Der Fussmarsch bis zum Landeplatz betrÃ¤gt ca. 15 Minuten.
+&lt;td colspan='4' align='left'&gt;Die Wiese ist leicht abfallend. Je nach Grashöhe wird der Windsack in seiner Position verschoben. Darauf achten, dass in Windsacknähe gelandet wird.
+Der Fussmarsch bis zum Landeplatz beträgt ca. 15 Minuten.
 Der Landeplatz liegt in der CTR Zone Buochs-Alpnach, darum gelten besondere Flugvorschriften zu beachten. 
 &lt;/td&gt;
 &lt;/tr&gt;
@@ -7224,11 +7224,11 @@ Der Landeplatz liegt in der CTR Zone Buochs-Alpnach, darum gelten besondere Flug
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;7.90287213,46.55613408&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Der Landeplatz Stechelberg befindet sich im Talboden, direkt nÃ¶rdlich neben der Schilthornbahn. Am Landeplatz ist ein Windsack sowie eine Infotafel mit Situationsplan betr. Start- und Landeplat. Dieser Landeplatz ist der offizielle Landeplatz im Lauterbrunnental. Es gilt die Kabel der Schilthornbahn, 50m sÃ¼dlich des Landeplatzes und eine Hochspannungsleitung westlich Ã¼ber dem Parkplatz zu beachten. Bei Morgen-Bergwind wird eine Linksvolte geflogen, Abbauraum Ã¼ber der Hauptstrasse und leicht sÃ¼dlich (Luvseitig) vom Landeplatz. Bei Talwind wird eine Rechtsvolte geflogen, abgebaut wird dann nÃ¶rdlich vom Landeplatz Ã¼ber der Hauptstrasse. Bei Bisenlage und guter Thermik kann der Talwind am Landeplatz etwas zunehmen, dabei sollte nicht hinter die Schilthornbahn Station geflogen werden. Am Landeplatz parallel zum Parkplatz ist der Faltplatz. Offizielle und gebÃ¼hrenpflichtige ParkplÃ¤tze hat es direkt hier. Vom Landeplatz sind es 50m Fussmarsch zur Schilthornbahn. Ab16:00 Uhr muss mit Base Jumper an der MÃ¼rrenfluh gerechnet werden.  Betreiber ist die Schilthornbahn.
+&lt;td colspan='4' align='left'&gt;Der Landeplatz Stechelberg befindet sich im Talboden, direkt nördlich neben der Schilthornbahn. Am Landeplatz ist ein Windsack sowie eine Infotafel mit Situationsplan betr. Start- und Landeplat. Dieser Landeplatz ist der offizielle Landeplatz im Lauterbrunnental. Es gilt die Kabel der Schilthornbahn, 50m südlich des Landeplatzes und eine Hochspannungsleitung westlich über dem Parkplatz zu beachten. Bei Morgen-Bergwind wird eine Linksvolte geflogen, Abbauraum über der Hauptstrasse und leicht südlich (Luvseitig) vom Landeplatz. Bei Talwind wird eine Rechtsvolte geflogen, abgebaut wird dann nördlich vom Landeplatz über der Hauptstrasse. Bei Bisenlage und guter Thermik kann der Talwind am Landeplatz etwas zunehmen, dabei sollte nicht hinter die Schilthornbahn Station geflogen werden. Am Landeplatz parallel zum Parkplatz ist der Faltplatz. Offizielle und gebührenpflichtige Parkplätze hat es direkt hier. Vom Landeplatz sind es 50m Fussmarsch zur Schilthornbahn. Ab16:00 Uhr muss mit Base Jumper an der Mürrenfluh gerechnet werden.  Betreiber ist die Schilthornbahn.
 
 Eignung
 
-GrundsÃ¤tzlich bei allen normalen Wetterlagen gut zum Landen. Teilweise zÃ¼giger Talwind am Nachmittag. Auch fÃ¼r AnfÃ¤nger geeignet.  
+Grundsätzlich bei allen normalen Wetterlagen gut zum Landen. Teilweise zügiger Talwind am Nachmittag. Auch für Anfänger geeignet.  
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
@@ -7473,7 +7473,7 @@ Ecole: www.paradelta.ch&lt;/td&gt;
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;7.82421503,46.6810178&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Grosse Wiese beim Schiessstand. LandegebÃ¼hr CHF 2.-&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Grosse Wiese beim Schiessstand. Landegebühr CHF 2.-&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -7513,7 +7513,7 @@ Ecole: www.paradelta.ch&lt;/td&gt;
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;9.306128,47.195195&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Landeplatz in Unterwasser direkt neben der Talstation Iltios Standseilbahn. RÃ¼ckfahrt zur SchwÃ¤galp mit dem Postbus mÃ¶glich. Dauer ca. 45 Minuten.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Landeplatz in Unterwasser direkt neben der Talstation Iltios Standseilbahn. Rückfahrt zur Schwägalp mit dem Postbus möglich. Dauer ca. 45 Minuten.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -7553,7 +7553,7 @@ Ecole: www.paradelta.ch&lt;/td&gt;
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;6.89388805,46.19864297&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Mittelgrosse Wiese am Fluss sÃ¼dlich der Kirche&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Mittelgrosse Wiese am Fluss südlich der Kirche&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -7593,7 +7593,7 @@ Ecole: www.paradelta.ch&lt;/td&gt;
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;6.88941294,46.19277406&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;HÃ¼gelige Wiese mit BÃ¤umen&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Hügelige Wiese mit Bäumen&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -7633,7 +7633,7 @@ Ecole: www.paradelta.ch&lt;/td&gt;
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;9.55353132,46.74393923&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;HÃ¼gelige Wiese am nÃ¶rdlichen Ende des Sees.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Hügelige Wiese am nördlichen Ende des Sees.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -7713,11 +7713,11 @@ Ecole: www.paradelta.ch&lt;/td&gt;
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;7.33695471,46.19226363&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Abfallende grosse Wiese am sÃ¼dwestlichen Dorfrand
+&lt;td colspan='4' align='left'&gt;Abfallende grosse Wiese am südwestlichen Dorfrand
 
-Nicht mehr mÃ¶glich. Den ganzen Ort von Veysonnaz ist in der Neue CTR Sion.
+Nicht mehr möglich. Den ganzen Ort von Veysonnaz ist in der Neue CTR Sion.
 
-Info Ã¼ber www.lagopedes.ch&lt;/td&gt;
+Info über www.lagopedes.ch&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -7799,7 +7799,7 @@ Cet atterrissage est autorisÃ© qu'aux ayants-droits. Attention Ã  la rÃ©se
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;6.89985697,46.31561695&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Wiese beim Fussballplatz nÃ¶rdlich des Dorfes&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Wiese beim Fussballplatz nördlich des Dorfes&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -7839,7 +7839,7 @@ Cet atterrissage est autorisÃ© qu'aux ayants-droits. Attention Ã  la rÃ©se
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;6.89190485,46.33177133&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Grosse Wiese Ã¶stlich der Hauptsrasse nach Vionnaz&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Grosse Wiese östlich der Hauptsrasse nach Vionnaz&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -7964,7 +7964,7 @@ Achtung: CTR Bad Ragaz beachten&lt;/td&gt;
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;9.43014684,47.2882872&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Deltalandeplatz. Grosse Wiese westlich der Strasse und nÃ¶rdlich der Talstation Ebenalpbahn.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Deltalandeplatz. Grosse Wiese westlich der Strasse und nördlich der Talstation Ebenalpbahn.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -8004,7 +8004,7 @@ Achtung: CTR Bad Ragaz beachten&lt;/td&gt;
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;9.42711187,47.28420076&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Grosse Wiese sÃ¼dlich vom Bahnhof Wasserauen und Ã¶stlich vom grossen Parkplatz. Normalerweise Talwind. Den Queranflug nicht sÃ¼dlicher als der Parkplatz machen, denn sonst kommt man in den Bereich der Transportseilbahn.&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Grosse Wiese südlich vom Bahnhof Wasserauen und östlich vom grossen Parkplatz. Normalerweise Talwind. Den Queranflug nicht südlicher als der Parkplatz machen, denn sonst kommt man in den Bereich der Transportseilbahn.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -8141,7 +8141,7 @@ Vorsicht: Bei starker Bise oder Thermik oft starke Turbulenzen.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td colspan='4' align='left'&gt;Grosse Wiese neben der Talstation.
-Vorsicht: Leitung Ã¶stlich des Landeplatzes beachten.&lt;/td&gt;
+Vorsicht: Leitung östlich des Landeplatzes beachten.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -8181,12 +8181,12 @@ Vorsicht: Leitung Ã¶stlich des Landeplatzes beachten.&lt;/td&gt;
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;7.8760600090026,46.675118905969&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Der Landeplatz 50 x 50 m befindet sich nÃ¶rdlich der Piste und ist zugleich Faltplatz. Die Eckpunkte sind weiss markiert. Auf dem Hangar 18, welcher nÃ¶rdlich des Landeplatzes liegt, befindet sich ein Windsack.
-Landungen ausserhalb der bezeichneten Zone, insbesondere beim Tenniscenter, sind nicht mehr zulÃ¤ssig.
-SÃ¼dwestlich des Landeplatzes befindet sich der Luftraum der Modellfluggruppe Interlaken. Vermehrt Flugbetrieb findet jeweils am Mittwoch ab 17:30, Freitag ab 17:30 und am Samstag von 08:00 bis 12:00 und ab 13:30 statt. Zu diesen Zeiten sind Landungen mit entsprechender RÃ¼cksichtsnahme gegenÃ¼ber den Modellflugpiloten durchzufÃ¼hren.
+&lt;td colspan='4' align='left'&gt;Der Landeplatz 50 x 50 m befindet sich nördlich der Piste und ist zugleich Faltplatz. Die Eckpunkte sind weiss markiert. Auf dem Hangar 18, welcher nördlich des Landeplatzes liegt, befindet sich ein Windsack.
+Landungen ausserhalb der bezeichneten Zone, insbesondere beim Tenniscenter, sind nicht mehr zulässig.
+Südwestlich des Landeplatzes befindet sich der Luftraum der Modellfluggruppe Interlaken. Vermehrt Flugbetrieb findet jeweils am Mittwoch ab 17:30, Freitag ab 17:30 und am Samstag von 08:00 bis 12:00 und ab 13:30 statt. Zu diesen Zeiten sind Landungen mit entsprechender Rücksichtsnahme gegenüber den Modellflugpiloten durchzuführen.
 
-HÃ¶henabbauraum
-Die HÃ¶he soll nach MÃ¶glichkeit ausserhalb des Luftraums der Modellfluggruppe Interlaken oder im nordÃ¶stlichen Teil des Luftraums der Modellfluggruppe Interlaken abgebaut werden.&lt;/td&gt;
+Höhenabbauraum
+Die Höhe soll nach Möglichkeit ausserhalb des Luftraums der Modellfluggruppe Interlaken oder im nordöstlichen Teil des Luftraums der Modellfluggruppe Interlaken abgebaut werden.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -8280,7 +8280,7 @@ Bitte direkt beim Bauernhof zusammenlegen, nicht auf der Wiese
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td colspan='4' align='left'&gt;Grosser Landeplatz am Waldrand, 10min von der Talstation entfernt.
-Vis Ã  vis der Flugschule am bergseitigen Ende des grossen Feldes. Zu beachten ist auch der Talwind, der ziemlich zÃ¼gig werden kann! Bei Talwind oder WIndstille eine Linksvolte, bei Bergwind eine Rechtsvolte fliegen. Die AbbaurÃ¤ume befinden sich Ã¼ber der alten Scheune und Ã¼ber dem Zaun. Der Faltplatz befindet sich hinter dem BÃ¤chlein, auf keinen Fall auf dem Landeplatz falten.&lt;/td&gt;
+Vis Ã  vis der Flugschule am bergseitigen Ende des grossen Feldes. Zu beachten ist auch der Talwind, der ziemlich zügig werden kann! Bei Talwind oder WIndstille eine Linksvolte, bei Bergwind eine Rechtsvolte fliegen. Die Abbauräume befinden sich über der alten Scheune und über dem Zaun. Der Faltplatz befindet sich hinter dem Bächlein, auf keinen Fall auf dem Landeplatz falten.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -8320,7 +8320,7 @@ Vis Ã  vis der Flugschule am bergseitigen Ende des grossen Feldes. Zu beachten
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;7.74957962,46.02655227&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Der Landeplatz ist nÃ¶rdlich vom Bahnhof auf der Gallerie, dort wo die Geleise wieder verschwinden. Auf dem eigentlichen Landeplatz wurde ein Steinschlag- und Lawinenschutzwall von mehreren Metern HÃ¶he errichtet. Da der Platz aber sehr lang ist, haben sich die VerhÃ¤ltnisse nicht zusÃ¤tzlich erschwert. Auf jeden Fall sollte man aber den Platz vorher anschauen!&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Der Landeplatz ist nördlich vom Bahnhof auf der Gallerie, dort wo die Geleise wieder verschwinden. Auf dem eigentlichen Landeplatz wurde ein Steinschlag- und Lawinenschutzwall von mehreren Metern Höhe errichtet. Da der Platz aber sehr lang ist, haben sich die Verhältnisse nicht zusätzlich erschwert. Auf jeden Fall sollte man aber den Platz vorher anschauen!&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -8361,7 +8361,7 @@ Vis Ã  vis der Flugschule am bergseitigen Ende des grossen Feldes. Zu beachten
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td colspan='4' align='left'&gt;Grosse Wiese zwischen Rhein und Strasse unterhalb Zillis.
-Vorsicht bei stÃ¤rkerem Talwind. Die Viamalaschlucht wirkt als DÃ¼se. Ausweichen auf die grosse Wiese unterhalb Donat hilft.&lt;/td&gt;
+Vorsicht bei stärkerem Talwind. Die Viamalaschlucht wirkt als Düse. Ausweichen auf die grosse Wiese unterhalb Donat hilft.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -8401,7 +8401,7 @@ Vorsicht bei stÃ¤rkerem Talwind. Die Viamalaschlucht wirkt als DÃ¼se. Auswei
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;7.62498143,46.13908194&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Mittelgrosse Wiese nordÃ¶stlich der Luftseilbahn Talstation&lt;/td&gt;
+&lt;td colspan='4' align='left'&gt;Mittelgrosse Wiese nordöstlich der Luftseilbahn Talstation&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
 &lt;br&gt;
@@ -8427,7 +8427,7 @@ Vorsicht bei stÃ¤rkerem Talwind. Die Viamalaschlucht wirkt als DÃ¼se. Auswei
       <Point><altitudeMode>relativeToGround</altitudeMode><coordinates>7.62498143,46.13908194,150</coordinates></Point>
   </Placemark>
   <Placemark>
-	<name>ZweilÃ¼tschinen</name>
+	<name>Zweilütschinen</name>
 	<description>
 &lt;table cellpadding=0 cellspacing=0 width=500&gt;
 &lt;tr bgcolor='#D7E1EE'&gt;
@@ -8441,12 +8441,12 @@ Vorsicht bei stÃ¤rkerem Talwind. Die Viamalaschlucht wirkt als DÃ¼se. Auswei
 &lt;td align='left'&gt;Koordinaten:&lt;/td&gt;&lt;td colspan='3' align='left'&gt;7.90222289,46.63260042&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td colspan='4' align='left'&gt;Der Landeplatz liegt 400m nord-Ã¶stlich des Bahnhofes. Obwohl relativ gross und Hindernis frei darf der Landeplatz nicht unterschÃ¤tzt werden. Oft starker Talwind und turbulent ! Der Landeplatz ist vorallem als â€žAbsaufâ€œ Landeplatz bei StreckenflÃ¼gen nÃ¼tzlich. Er ist mit einem Windsack markiert.
+&lt;td colspan='4' align='left'&gt;Der Landeplatz liegt 400m nord-östlich des Bahnhofes. Obwohl relativ gross und Hindernis frei darf der Landeplatz nicht unterschätzt werden. Oft starker Talwind und turbulent ! Der Landeplatz ist vorallem als â€žAbsaufâ€œ Landeplatz bei Streckenflügen nützlich. Er ist mit einem Windsack markiert.
 
 
 Eignung
 
-FÃ¼r StreckenflÃ¼ge die man vorzeitig abbrechen muss, oft windig und turbulent
+Für Streckenflüge die man vorzeitig abbrechen muss, oft windig und turbulent
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;/table&gt;
