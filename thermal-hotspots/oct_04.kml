@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ns4="urn:oasis:names:tc:ciq:xsdschema:xAL:2.0">
+    <Document>
+        <name>Oct_04</name>
+        <visibility>1</visibility>
+        <open>1</open>
+        <Style id="hotspot-1">
+            <IconStyle>
+                <scale>0.5</scale>
+                <heading>0.0</heading>
+                <Icon>
+                    <href>https://github.com/buehlmann/map-data/raw/master/icons/icon-1.png</href>
+                    <refreshInterval>0.0</refreshInterval>
+                    <viewRefreshTime>0.0</viewRefreshTime>
+                    <viewBoundScale>0.0</viewBoundScale>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="hotspot-2">
+            <IconStyle>
+                <scale>0.5</scale>
+                <heading>0.0</heading>
+                <Icon>
+                    <href>https://github.com/buehlmann/map-data/raw/master/icons/icon-2.png</href>
+                    <refreshInterval>0.0</refreshInterval>
+                    <viewRefreshTime>0.0</viewRefreshTime>
+                    <viewBoundScale>0.0</viewBoundScale>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="hotspot-3">
+            <IconStyle>
+                <scale>0.5</scale>
+                <heading>0.0</heading>
+                <Icon>
+                    <href>https://github.com/buehlmann/map-data/raw/master/icons/icon-3.png</href>
+                    <refreshInterval>0.0</refreshInterval>
+                    <viewRefreshTime>0.0</viewRefreshTime>
+                    <viewBoundScale>0.0</viewBoundScale>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="hotspot-4">
+            <IconStyle>
+                <scale>0.5</scale>
+                <heading>0.0</heading>
+                <Icon>
+                    <href>https://github.com/buehlmann/map-data/raw/master/icons/icon-4.png</href>
+                    <refreshInterval>0.0</refreshInterval>
+                    <viewRefreshTime>0.0</viewRefreshTime>
+                    <viewBoundScale>0.0</viewBoundScale>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Style id="hotspot-5">
+            <IconStyle>
+                <scale>0.5</scale>
+                <heading>0.0</heading>
+                <Icon>
+                    <href>https://github.com/buehlmann/map-data/raw/master/icons/icon-5.png</href>
+                    <refreshInterval>0.0</refreshInterval>
+                    <viewRefreshTime>0.0</viewRefreshTime>
+                    <viewBoundScale>0.0</viewBoundScale>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Folder>
+            <visibility>1</visibility>
+            <open>0</open>
+            <Placemark>
+                <visibility>1</visibility>
+                <open>0</open>
+                <description>&lt;p&gt;Probability: 0.879976212978363&lt;/p&gt;&lt;p&gt;Height: 1559.34338378906&lt;/p&gt;&lt;p&gt;Rank: 100.0&lt;/p&gt;</description>
+                <styleUrl>#hotspot-5</styleUrl>
+                <Point>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>9.41452,47.284351,1559.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <visibility>1</visibility>
+                <open>0</open>
+                <description>&lt;p&gt;Probability: 0.642115712165833&lt;/p&gt;&lt;p&gt;Height: 2076.68872070312&lt;/p&gt;&lt;p&gt;Rank: 96.6666641235352&lt;/p&gt;</description>
+                <styleUrl>#hotspot-4</styleUrl>
+                <Point>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>10.357938,47.279858,2077.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <visibility>1</visibility>
+                <open>0</open>
+                <description>&lt;p&gt;Probability: 0.626786589622498&lt;/p&gt;&lt;p&gt;Height: 1789.60119628906&lt;/p&gt;&lt;p&gt;Rank: 100.0&lt;/p&gt;</description>
+                <styleUrl>#hotspot-4</styleUrl>
+                <Point>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>8.476175,46.162663,1790.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <visibility>1</visibility>
+                <open>0</open>
+                <description>&lt;p&gt;Probability: 0.578516483306885&lt;/p&gt;&lt;p&gt;Height: 1325.52905273438&lt;/p&gt;&lt;p&gt;Rank: 86.6666641235352&lt;/p&gt;</description>
+                <styleUrl>#hotspot-3</styleUrl>
+                <Point>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>9.448757,47.284351,1326.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <visibility>1</visibility>
+                <open>0</open>
+                <description>&lt;p&gt;Probability: 0.521086990833282&lt;/p&gt;&lt;p&gt;Height: 2079.3583984375&lt;/p&gt;&lt;p&gt;Rank: 83.3333358764648&lt;/p&gt;</description>
+                <styleUrl>#hotspot-3</styleUrl>
+                <Point>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>10.086578,47.280754,2079.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <visibility>1</visibility>
+                <open>0</open>
+                <description>&lt;p&gt;Probability: 0.508497536182404&lt;/p&gt;&lt;p&gt;Height: 2201.83764648437&lt;/p&gt;&lt;p&gt;Rank: 90.0&lt;/p&gt;</description>
+                <styleUrl>#hotspot-3</styleUrl>
+                <Point>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>9.826632,47.05682,2202.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <visibility>1</visibility>
+                <open>0</open>
+                <description>&lt;p&gt;Probability: 0.489243477582932&lt;/p&gt;&lt;p&gt;Height: 2030.96215820312&lt;/p&gt;&lt;p&gt;Rank: 80.0&lt;/p&gt;</description>
+                <styleUrl>#hotspot-3</styleUrl>
+                <Point>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>9.839312,47.063114,2031.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <visibility>1</visibility>
+                <open>0</open>
+                <description>&lt;p&gt;Probability: 0.469433456659317&lt;/p&gt;&lt;p&gt;Height: 1869.86828613281&lt;/p&gt;&lt;p&gt;Rank: 92.8571395874023&lt;/p&gt;</description>
+                <styleUrl>#hotspot-3</styleUrl>
+                <Point>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>8.49266,46.16626,1870.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <visibility>1</visibility>
+                <open>0</open>
+                <description>&lt;p&gt;Probability: 0.465924948453903&lt;/p&gt;&lt;p&gt;Height: 1672.29174804688&lt;/p&gt;&lt;p&gt;Rank: 43.3333320617676&lt;/p&gt;</description>
+                <styleUrl>#hotspot-3</styleUrl>
+                <Point>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>10.365546,47.272663,1672.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <visibility>1</visibility>
+                <open>0</open>
+                <description>&lt;p&gt;Probability: 0.437658190727234&lt;/p&gt;&lt;p&gt;Height: 2144.85278320312&lt;/p&gt;&lt;p&gt;Rank: 100.0&lt;/p&gt;</description>
+                <styleUrl>#hotspot-3</styleUrl>
+                <Point>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>8.117321,46.426231,2145.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <visibility>1</visibility>
+                <open>0</open>
+                <description>&lt;p&gt;Probability: 0.419969946146011&lt;/p&gt;&lt;p&gt;Height: 1841.42370605469&lt;/p&gt;&lt;p&gt;Rank: 76.6666641235352&lt;/p&gt;</description>
+                <styleUrl>#hotspot-3</styleUrl>
+                <Point>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>9.391696,47.277157,1841.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <visibility>1</visibility>
+                <open>0</open>
+                <description>&lt;p&gt;Probability: 0.41314971446991&lt;/p&gt;&lt;p&gt;Height: 2446.7978515625&lt;/p&gt;&lt;p&gt;Rank: 73.3333358764648&lt;/p&gt;</description>
+                <styleUrl>#hotspot-3</styleUrl>
+                <Point>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>9.589509,47.053223,2447.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <visibility>1</visibility>
+                <open>0</open>
+                <description>&lt;p&gt;Probability: 0.410003542900085&lt;/p&gt;&lt;p&gt;Height: 2015.48828125&lt;/p&gt;&lt;p&gt;Rank: 60.0&lt;/p&gt;</description>
+                <styleUrl>#hotspot-3</styleUrl>
+                <Point>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>8.113517,46.414539,2015.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <visibility>1</visibility>
+                <open>0</open>
+                <description>&lt;p&gt;Probability: 0.391674757003784&lt;/p&gt;&lt;p&gt;Height: 2147.51171875&lt;/p&gt;&lt;p&gt;Rank: 78.5714263916016&lt;/p&gt;</description>
+                <styleUrl>#hotspot-2</styleUrl>
+                <Point>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>8.483784,46.182453,2148.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <visibility>1</visibility>
+                <open>0</open>
+                <description>&lt;p&gt;Probability: 0.387993514537811&lt;/p&gt;&lt;p&gt;Height: 2631.98291015625&lt;/p&gt;&lt;p&gt;Rank: 85.7142868041992&lt;/p&gt;</description>
+                <styleUrl>#hotspot-2</styleUrl>
+                <Point>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>8.774163,46.708694,2632.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <visibility>1</visibility>
+                <open>0</open>
+                <description>&lt;p&gt;Probability: 0.357752472162247&lt;/p&gt;&lt;p&gt;Height: 1890.89306640625&lt;/p&gt;&lt;p&gt;Rank: 46.6666679382324&lt;/p&gt;</description>
+                <styleUrl>#hotspot-2</styleUrl>
+                <Point>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>9.379015,47.269962,1891.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <visibility>1</visibility>
+                <open>0</open>
+                <description>&lt;p&gt;Probability: 0.349263280630112&lt;/p&gt;&lt;p&gt;Height: 1177.41271972656&lt;/p&gt;&lt;p&gt;Rank: 16.6666660308838&lt;/p&gt;</description>
+                <styleUrl>#hotspot-2</styleUrl>
+                <Point>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>9.424664,47.292446,1177.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <visibility>1</visibility>
+                <open>0</open>
+                <description>&lt;p&gt;Probability: 0.34690535068512&lt;/p&gt;&lt;p&gt;Height: 2463.65380859375&lt;/p&gt;&lt;p&gt;Rank: 70.0&lt;/p&gt;</description>
+                <styleUrl>#hotspot-2</styleUrl>
+                <Point>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>8.255537,46.508991,2464.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <visibility>1</visibility>
+                <open>0</open>
+                <description>&lt;p&gt;Probability: 0.338762223720551&lt;/p&gt;&lt;p&gt;Height: 2087.73974609375&lt;/p&gt;&lt;p&gt;Rank: 90.0&lt;/p&gt;</description>
+                <styleUrl>#hotspot-2</styleUrl>
+                <Point>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>8.093228,46.401943,2088.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <visibility>1</visibility>
+                <open>0</open>
+                <description>&lt;p&gt;Probability: 0.338651478290558&lt;/p&gt;&lt;p&gt;Height: 1541.20385742188&lt;/p&gt;&lt;p&gt;Rank: 33.3333320617676&lt;/p&gt;</description>
+                <styleUrl>#hotspot-2</styleUrl>
+                <Point>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>9.482994,47.285252,1541.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <visibility>1</visibility>
+                <open>0</open>
+                <description>&lt;p&gt;Probability: 0.337654262781143&lt;/p&gt;&lt;p&gt;Height: 2435.8974609375&lt;/p&gt;&lt;p&gt;Rank: 53.3333320617676&lt;/p&gt;</description>
+                <styleUrl>#hotspot-2</styleUrl>
+                <Point>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>9.636426,47.050526,2436.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <visibility>1</visibility>
+                <open>0</open>
+                <description>&lt;p&gt;Probability: 0.337481051683426&lt;/p&gt;&lt;p&gt;Height: 1989.47424316406&lt;/p&gt;&lt;p&gt;Rank: 63.3333320617676&lt;/p&gt;</description>
+                <styleUrl>#hotspot-2</styleUrl>
+                <Point>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>10.333845,47.421051,1989.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <visibility>1</visibility>
+                <open>0</open>
+                <description>&lt;p&gt;Probability: 0.333535104990005&lt;/p&gt;&lt;p&gt;Height: 1908.64416503906&lt;/p&gt;&lt;p&gt;Rank: 57.1428565979004&lt;/p&gt;</description>
+                <styleUrl>#hotspot-2</styleUrl>
+                <Point>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>8.534505,46.161762,1909.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <visibility>1</visibility>
+                <open>0</open>
+                <description>&lt;p&gt;Probability: 0.331601172685623&lt;/p&gt;&lt;p&gt;Height: 2053.42895507812&lt;/p&gt;&lt;p&gt;Rank: 28.5714282989502&lt;/p&gt;</description>
+                <styleUrl>#hotspot-2</styleUrl>
+                <Point>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>8.803328,46.705994,2053.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <visibility>1</visibility>
+                <open>0</open>
+                <description>&lt;p&gt;Probability: 0.329399853944778&lt;/p&gt;&lt;p&gt;Height: 2219.32299804688&lt;/p&gt;&lt;p&gt;Rank: 60.0&lt;/p&gt;</description>
+                <styleUrl>#hotspot-2</styleUrl>
+                <Point>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>9.295325,47.154846,2219.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <visibility>1</visibility>
+                <open>0</open>
+                <description>&lt;p&gt;Probability: 0.321182668209076&lt;/p&gt;&lt;p&gt;Height: 2383.31030273437&lt;/p&gt;&lt;p&gt;Rank: 40.0&lt;/p&gt;</description>
+                <styleUrl>#hotspot-2</styleUrl>
+                <Point>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>8.274558,46.514389,2383.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <visibility>1</visibility>
+                <open>0</open>
+                <description>&lt;p&gt;Probability: 0.315140187740326&lt;/p&gt;&lt;p&gt;Height: 1152.67541503906&lt;/p&gt;&lt;p&gt;Rank: 50.0&lt;/p&gt;</description>
+                <styleUrl>#hotspot-2</styleUrl>
+                <Point>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>8.722174,45.927876,1153.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <visibility>1</visibility>
+                <open>0</open>
+                <description>&lt;p&gt;Probability: 0.308869302272797&lt;/p&gt;&lt;p&gt;Height: 1104.28540039063&lt;/p&gt;&lt;p&gt;Rank: 64.2857131958008&lt;/p&gt;</description>
+                <styleUrl>#hotspot-2</styleUrl>
+                <Point>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>8.686668,45.921577,1104.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <visibility>1</visibility>
+                <open>0</open>
+                <description>&lt;p&gt;Probability: 0.303196787834167&lt;/p&gt;&lt;p&gt;Height: 2388.4453125&lt;/p&gt;&lt;p&gt;Rank: 36.6666679382324&lt;/p&gt;</description>
+                <styleUrl>#hotspot-2</styleUrl>
+                <Point>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>10.129692,47.283455,2388.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <visibility>1</visibility>
+                <open>0</open>
+                <description>&lt;p&gt;Probability: 0.298130005598068&lt;/p&gt;&lt;p&gt;Height: 962.774658203125&lt;/p&gt;&lt;p&gt;Rank: 42.8571434020996&lt;/p&gt;</description>
+                <styleUrl>#hotspot-2</styleUrl>
+                <Point>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>8.670184,45.91888,963.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <visibility>1</visibility>
+                <open>0</open>
+                <description>&lt;p&gt;Probability: 0.293964505195618&lt;/p&gt;&lt;p&gt;Height: 2141.17700195312&lt;/p&gt;&lt;p&gt;Rank: 71.4285736083984&lt;/p&gt;</description>
+                <styleUrl>#hotspot-2</styleUrl>
+                <Point>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>10.274247,46.811245,2141.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <visibility>1</visibility>
+                <open>0</open>
+                <description>&lt;p&gt;Probability: 0.288673371076584&lt;/p&gt;&lt;p&gt;Height: 943.34033203125&lt;/p&gt;&lt;p&gt;Rank: 35.7142868041992&lt;/p&gt;</description>
+                <styleUrl>#hotspot-2</styleUrl>
+                <Point>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>9.292789,45.828922,943.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <visibility>1</visibility>
+                <open>0</open>
+                <description>&lt;p&gt;Probability: 0.285161226987839&lt;/p&gt;&lt;p&gt;Height: 2364.65893554687&lt;/p&gt;&lt;p&gt;Rank: 26.6666660308838&lt;/p&gt;</description>
+                <styleUrl>#hotspot-2</styleUrl>
+                <Point>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>9.777178,47.054123,2365.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <visibility>1</visibility>
+                <open>0</open>
+                <description>&lt;p&gt;Probability: 0.283368438482285&lt;/p&gt;&lt;p&gt;Height: 1550.916015625&lt;/p&gt;&lt;p&gt;Rank: 13.3333330154419&lt;/p&gt;</description>
+                <styleUrl>#hotspot-2</styleUrl>
+                <Point>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>9.334634,47.291546,1551.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <visibility>1</visibility>
+                <open>0</open>
+                <description>&lt;p&gt;Probability: 0.282995730638504&lt;/p&gt;&lt;p&gt;Height: 1935.54736328125&lt;/p&gt;&lt;p&gt;Rank: 50.0&lt;/p&gt;</description>
+                <styleUrl>#hotspot-2</styleUrl>
+                <Point>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>8.169311,46.437027,1936.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <visibility>1</visibility>
+                <open>0</open>
+                <description>&lt;p&gt;Probability: 0.282910048961639&lt;/p&gt;&lt;p&gt;Height: 1669.73095703125&lt;/p&gt;&lt;p&gt;Rank: 21.4285717010498&lt;/p&gt;</description>
+                <styleUrl>#hotspot-2</styleUrl>
+                <Point>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>8.44067,46.155464,1670.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <visibility>1</visibility>
+                <open>0</open>
+                <description>&lt;p&gt;Probability: 0.281745553016663&lt;/p&gt;&lt;p&gt;Height: 986.008178710938&lt;/p&gt;&lt;p&gt;Rank: 14.2857141494751&lt;/p&gt;</description>
+                <styleUrl>#hotspot-2</styleUrl>
+                <Point>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>9.893837,45.824425,986.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <visibility>1</visibility>
+                <open>0</open>
+                <description>&lt;p&gt;Probability: 0.275412231683731&lt;/p&gt;&lt;p&gt;Height: 2704.71264648437&lt;/p&gt;&lt;p&gt;Rank: 30.0&lt;/p&gt;</description>
+                <styleUrl>#hotspot-2</styleUrl>
+                <Point>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>9.707437,47.047825,2705.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <visibility>1</visibility>
+                <open>0</open>
+                <description>&lt;p&gt;Probability: 0.273807168006897&lt;/p&gt;&lt;p&gt;Height: 2741.1240234375&lt;/p&gt;&lt;p&gt;Rank: 3.33333325386047&lt;/p&gt;</description>
+                <styleUrl>#hotspot-2</styleUrl>
+                <Point>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>9.69222,47.054123,2741.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <visibility>1</visibility>
+                <open>0</open>
+                <description>&lt;p&gt;Probability: 0.2705397605896&lt;/p&gt;&lt;p&gt;Height: 2019.94055175781&lt;/p&gt;&lt;p&gt;Rank: 30.0&lt;/p&gt;</description>
+                <styleUrl>#hotspot-2</styleUrl>
+                <Point>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>7.24745,46.087097,2020.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <visibility>1</visibility>
+                <open>0</open>
+                <description>&lt;p&gt;Probability: 0.262184321880341&lt;/p&gt;&lt;p&gt;Height: 1276.74206542969&lt;/p&gt;&lt;p&gt;Rank: 6.66666650772095&lt;/p&gt;</description>
+                <styleUrl>#hotspot-2</styleUrl>
+                <Point>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>9.731529,47.230392,1277.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <visibility>1</visibility>
+                <open>0</open>
+                <description>&lt;p&gt;Probability: 0.259689420461655&lt;/p&gt;&lt;p&gt;Height: 1668.45190429688&lt;/p&gt;&lt;p&gt;Rank: 7.14285707473755&lt;/p&gt;</description>
+                <styleUrl>#hotspot-2</styleUrl>
+                <Point>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>8.594102,46.170757,1668.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark>
+                <visibility>1</visibility>
+                <open>0</open>
+                <description>&lt;p&gt;Probability: 0.225925728678703&lt;/p&gt;&lt;p&gt;Height: 1917.009765625&lt;/p&gt;&lt;p&gt;Rank: 20.0&lt;/p&gt;</description>
+                <styleUrl>#hotspot-2</styleUrl>
+                <Point>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>6.475217,45.956661,1917.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>
+
