@@ -1,0 +1,142 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 https://developers.google.com/kml/schema/kml22gx.xsd">
+    <Document>
+        <name>Drawing</name>
+        <Placemark id="marker_1500012644834">
+            <ExtendedData>
+                <Data name="type">
+                    <value>marker</value>
+                </Data>
+            </ExtendedData>
+            <name>Landung 2</name>
+            <description></description>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://api3.geo.admin.ch/color/255,0,0/marker-24@2x.png</href>
+                        <gx:w>48</gx:w>
+                        <gx:h>48</gx:h>
+                    </Icon>
+                    <hotSpot x="24" y="24" xunits="pixels" yunits="pixels" />
+                </IconStyle>
+                <LabelStyle>
+                    <color>ff0000ff</color>
+                </LabelStyle>
+            </Style>
+            <Point>
+                <coordinates>7.62205830131815,46.69916610307921</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="marker_1500012661251">
+            <ExtendedData>
+                <Data name="type">
+                    <value>marker</value>
+                </Data>
+            </ExtendedData>
+            <name>Landung 1</name>
+            <description></description>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://api3.geo.admin.ch/color/255,0,0/marker-24@2x.png</href>
+                        <gx:w>48</gx:w>
+                        <gx:h>48</gx:h>
+                    </Icon>
+                    <hotSpot x="24" y="24" xunits="pixels" yunits="pixels" />
+                </IconStyle>
+                <LabelStyle>
+                    <color>ff0000ff</color>
+                </LabelStyle>
+            </Style>
+            <Point>
+                <coordinates>7.621765496032928,46.696732967010185</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="marker_1500012694386">
+            <ExtendedData>
+                <Data name="type">
+                    <value>marker</value>
+                </Data>
+            </ExtendedData>
+            <name>Landung 4</name>
+            <description></description>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://api3.geo.admin.ch/color/255,0,0/marker-24@2x.png</href>
+                        <gx:w>48</gx:w>
+                        <gx:h>48</gx:h>
+                    </Icon>
+                    <hotSpot x="24" y="24" xunits="pixels" yunits="pixels" />
+                </IconStyle>
+                <LabelStyle>
+                    <color>ff0000ff</color>
+                </LabelStyle>
+            </Style>
+            <Point>
+                <coordinates>7.6226034525311315,46.69884900013595</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="marker_1500012702336">
+            <ExtendedData>
+                <Data name="htmlpopup">
+                    <value>&lt;div id="KML||https://public.geo.admin.ch/xLYgxl8pQISo-dgLgnjfCg#marker_1500012702336" class="htmlpopup-container"&gt;&lt;div class="htmlpopup-header"&gt;&lt;span&gt;Drawing &amp;nbsp;&lt;/span&gt;(Landung 3)&lt;/div&gt;&lt;div class="htmlpopup-content"&gt;&lt;/div&gt;&lt;/div&gt;</value>
+                </Data>
+                <Data name="layerId">
+                    <value>KML||https://public.geo.admin.ch/xLYgxl8pQISo-dgLgnjfCg</value>
+                </Data>
+                <Data name="type">
+                    <value>marker</value>
+                </Data>
+            </ExtendedData>
+            <name>Landung 3</name>
+            <description></description>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://api3.geo.admin.ch/color/255,0,0/marker-24@2x.png</href>
+                        <gx:w>48</gx:w>
+                        <gx:h>48</gx:h>
+                    </Icon>
+                    <hotSpot x="24" y="24" xunits="pixels" yunits="pixels" />
+                </IconStyle>
+                <LabelStyle>
+                    <color>ff0000ff</color>
+                </LabelStyle>
+            </Style>
+            <Point>
+                <coordinates>7.621665910510502,46.698461975179946</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="marker_1500012998906">
+            <ExtendedData>
+                <Data name="htmlpopup">
+                    <value>&lt;div id="KML||https://public.geo.admin.ch/xLYgxl8pQISo-dgLgnjfCg#marker_1500012998906" class="htmlpopup-container"&gt;&lt;div class="htmlpopup-header"&gt;&lt;span&gt;Drawing &amp;nbsp;&lt;/span&gt;(Start Guenzene)&lt;/div&gt;&lt;div class="htmlpopup-content"&gt;&lt;/div&gt;&lt;/div&gt;</value>
+                </Data>
+                <Data name="layerId">
+                    <value>KML||https://public.geo.admin.ch/xLYgxl8pQISo-dgLgnjfCg</value>
+                </Data>
+                <Data name="type">
+                    <value>marker</value>
+                </Data>
+            </ExtendedData>
+            <name>Start Guenzene</name>
+            <description></description>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://api3.geo.admin.ch/color/255,0,0/marker-24@2x.png</href>
+                        <gx:w>48</gx:w>
+                        <gx:h>48</gx:h>
+                    </Icon>
+                    <hotSpot x="24" y="24" xunits="pixels" yunits="pixels" />
+                </IconStyle>
+                <LabelStyle>
+                    <color>ff0000ff</color>
+                </LabelStyle>
+            </Style>
+            <Point>
+                <coordinates>7.60263789392057,46.67990242758761</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
