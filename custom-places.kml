@@ -138,5 +138,83 @@
                 <coordinates>7.60263789392057,46.67990242758761</coordinates>
             </Point>
         </Placemark>
+        <Placemark id="marker_1507705494468">
+            <ExtendedData>
+                <Data name="type">
+                    <value>marker</value>
+                </Data>
+            </ExtendedData>
+            <name>Start 1</name>
+            <description></description>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://api3.geo.admin.ch/color/255,0,0/marker-24@2x.png</href>
+                        <gx:w>48</gx:w>
+                        <gx:h>48</gx:h>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle>
+                    <color>ff0000ff</color>
+                </LabelStyle>
+            </Style>
+            <Point>
+                <tessellate>1</tessellate>
+                <altitudeMode>clampToGround</altitudeMode>
+                <coordinates>7.594101982059824,46.67884415717613</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="marker_1507705539837">
+            <ExtendedData>
+                <Data name="type">
+                    <value>marker</value>
+                </Data>
+            </ExtendedData>
+            <name>Start 2</name>
+            <description></description>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://api3.geo.admin.ch/color/255,0,0/marker-24@2x.png</href>
+                        <gx:w>48</gx:w>
+                        <gx:h>48</gx:h>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle>
+                    <color>ff0000ff</color>
+                </LabelStyle>
+            </Style>
+            <Point>
+                <tessellate>1</tessellate>
+                <altitudeMode>clampToGround</altitudeMode>
+                <coordinates>7.602979302752197,46.67977240767314</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="marker_1507705588675">
+            <ExtendedData>
+                <Data name="type">
+                    <value>marker</value>
+                </Data>
+            </ExtendedData>
+            <name>Start 3</name>
+            <description>Richtung NNO</description>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>https://api3.geo.admin.ch/color/255,0,0/marker-24@2x.png</href>
+                        <gx:w>48</gx:w>
+                        <gx:h>48</gx:h>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle>
+                    <color>ff0000ff</color>
+                </LabelStyle>
+            </Style>
+            <Point>
+                <tessellate>1</tessellate>
+                <altitudeMode>clampToGround</altitudeMode>
+                <coordinates>7.598405401833402,46.67929555631619</coordinates>
+            </Point>
+        </Placemark>
     </Document>
 </kml>
