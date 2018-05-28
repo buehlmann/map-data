@@ -1,0 +1,1990 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 https://developers.google.com/kml/schema/kml22gx.xsd">
+  <Document id="root_doc">
+    <Schema name="Meteotest Stationen" id="meteotest-stations">
+      <SimpleField name="timestamp" type="string" />
+      <SimpleField name="begin" type="string" />
+      <SimpleField name="end" type="string" />
+      <SimpleField name="altitudeMode" type="string" />
+      <SimpleField name="tessellate" type="int" />
+      <SimpleField name="extrude" type="int" />
+      <SimpleField name="visibility" type="int" />
+      <SimpleField name="drawOrder" type="int" />
+      <SimpleField name="icon" type="string" />
+    </Schema>
+    <Style id="landing-site">
+      <IconStyle>
+        <scale>0.60</scale>
+        <Icon>
+          <href>https://api3.geo.admin.ch/color/0,0,128/circle-24@2x.png</href>
+          <gx:w>48</gx:w>
+          <gx:h>48</gx:h>
+        </Icon>
+        <hotSpot x="24" y="24" xunits="pixels" yunits="pixels" />
+      </IconStyle>
+      <LabelStyle>
+        <color>ff808080</color>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Meteotest</name>
+    <Placemark>
+        <name>Visp</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67270"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67270" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>7.84295,46.3029</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fahy</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66160"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66160" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>6.9411,47.4238</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aquarossa / Comprovasco</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67560"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67560" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>8.93565,46.4594</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Davos</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67840"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67840" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>9.84349,46.813</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sta. Maria, Val Müstair</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67960"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67960" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>10.4263,46.6022</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bad Ragaz</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66860"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66860" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>9.5025,47.0165</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chateau-d'Oex</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66270"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66270" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>7.13967,46.4797</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sion</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67200"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67200" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>7.33017,46.2186</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Luzern</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66500"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66500" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>8.30096,47.0364</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Robiei</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67510"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67510" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>8.51339,46.4431</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Meiringen</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66370"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66370" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>8.16916,46.7322</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bière</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67040"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67040" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>6.34222,46.525</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beznau</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66460"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66460" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>8.23325,47.5572</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quinten</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66870"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66870" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>9.21607,47.1288</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Steckborn</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66710"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66710" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>8.98148,47.6687</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Napf</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66390"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66390" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>7.94006,47.0047</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Basel / Binningen</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66010"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66010" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>7.58275,47.5412</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zürich / Affoltern</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66640"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66640" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>8.51789,47.4277</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marsens</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66400"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66400" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>7.06967,46.6565</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Andeer</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67870"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67870" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>9.43191,46.6101</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Egolzwil</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66480"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66480" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>8.00459,47.1795</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Schmerikon</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66830"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66830" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>8.94021,47.2246</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Col du Grand St-Bernard</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67170"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67170" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>7.1708,45.8688</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mühleberg</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66360"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66360" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>7.27815,46.9733</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hallau</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66240"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66240" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>8.4705,47.6973</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Giswil</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66570"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66570" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>8.19019,46.8495</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Locarno / Monti</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67600"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67600" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>8.78742,46.1726</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thun</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67310"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67310" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>7.58525,46.7498</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Monte Rosa-Plattje</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67470"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67470" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>7.81488,45.9563</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Säntis</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66800"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66800" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>9.34363,47.2494</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zürich / Kloten</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66700"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66700" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>8.53608,47.4796</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Poschiavo / Robbia</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67940"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67940" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>10.0611,46.3466</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bouveret</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67090"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67090" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>6.85696,46.3934</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Langnau i.E.</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66380"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66380" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>7.80729,46.94</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lugano</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67700"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67700" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>8.96032,46.0042</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Möhlin</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66410"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66410" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>7.87786,47.5722</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Buffalora</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67780"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67780" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>10.2673,46.6484</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chur</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67860"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67860" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>9.53057,46.8704</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bern / Zollikofen</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66310"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66310" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>7.464,46.9907</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Le Moléson</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66090"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66090" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>7.01803,46.5471</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St-Prex</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67060"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67060" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>6.44302,46.4837</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fribourg/Posieux</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66250"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66250" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>7.11367,46.7713</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Crap Masegn</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66880"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66880" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>9.17999,46.8423</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brienz</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66560"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66560" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>8.06007,46.743</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aadorf / Tänikon</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66790"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66790" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>8.90488,47.4799</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Piz Martegnas</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67950"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67950" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>9.52939,46.5772</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St. Gallen</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66810"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66810" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>9.39846,47.4255</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wädenswil</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66730"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66730" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>8.67668,47.2213</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Titlis</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67400"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67400" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>8.42581,46.7705</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oron</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67080"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67080" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>6.85817,46.5722</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Montana</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67240"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67240" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>7.48537,46.3138</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stabio</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67710"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67710" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>8.93225,45.8434</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eggishorn</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67390"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67390" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>8.09274,46.4266</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hörnli</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66890"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66890" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>8.94181,47.3708</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vaduz</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/69900"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="69900" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>9.51752,47.1275</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Delémont</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66020"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66020" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>7.33062,47.3643</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gornergrat</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67490"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67490" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>7.78446,45.9832</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bischofszell</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66780"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66780" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>9.23416,47.497</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Engelberg</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66550"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66550" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>8.41046,46.8219</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Disentis / Sedrun</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67820"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67820" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>8.85345,46.7065</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Plaffeien</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66280"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66280" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>7.266,46.7477</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Neuchatel</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66040"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66040" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>6.95412,47.0004</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Les Attelas</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67230"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67230" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>7.26859,46.0992</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Chaux-de-Fonds</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66120"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66120" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>6.79236,47.0832</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Monte Generoso</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67720"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67720" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>9.01457,45.9262</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Altdorf</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66720"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66720" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>8.63175,46.8702</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Elm</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66820"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66820" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>9.17533,46.9236</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Samedan</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67920"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67920" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>9.87894,46.5264</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Weissfluhjoch</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67800"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67800" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>9.80639,46.8333</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Genève-Cointrin</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67000"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67000" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>6.1236,46.2447</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Buchs / Aarau</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66330"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66330" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>8.07945,47.3843</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Naluns / Schlivera</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67990"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67990" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>10.2615,46.8175</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aigle</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67120"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67120" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>6.92443,46.3266</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zermatt</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67480"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67480" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>7.75311,46.0292</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ebnat-Kappel</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66930"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66930" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>9.10833,47.2735</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Scuol</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67980"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67980" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>10.2832,46.7933</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Interlaken</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67340"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67340" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>7.87014,46.6722</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chasseral</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66050"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66050" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>7.05432,47.1317</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>S. Bernardino</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67830"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67830" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>9.18464,46.4636</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Niesen</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/niesen"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="niesen" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>7.65,46.64</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Einsiedeln</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66750"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66750" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>8.7565,47.133</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Evolène / Villa</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67220"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67220" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>7.50868,46.1121</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Valbella</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67930"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67930" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>9.55399,46.7556</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grenchen</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66320"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66320" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>7.41423,47.1791</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Boltigen</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67330"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67330" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>7.38419,46.6235</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wynau</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66430"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66430" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>7.7874,47.255</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Salen-Reutenen</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66230"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66230" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>9.02117,47.6498</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Schaffhausen</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66200"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66200" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>8.62009,47.6898</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lägern</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66690"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66690" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>8.39721,47.4819</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cressier</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66060"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66060" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>7.05911,47.0476</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adelboden</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67350"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67350" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>7.56107,46.492</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grono</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67580"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67580" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>9.16372,46.255</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ulrichen</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67450"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67450" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>8.30814,46.5048</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Schüpfheim</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66510"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66510" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>8.01291,46.9471</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Magadino / Cadenazzo</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67620"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67620" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>8.9336,46.16</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pilatus</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66590"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66590" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>8.25233,46.9789</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Güttingen</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66210"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66210" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>9.27939,47.6017</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Dôle</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67020"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67020" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>6.09948,46.4247</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bullet / La Frétaz</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66190"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66190" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>6.57631,46.8406</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mosen</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66440"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66440" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>8.23445,47.2447</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Piotta</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67530"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67530" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>8.6757,46.5171</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jungfraujoch</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67300"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67300" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>7.98533,46.5474</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Koppigen</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66350"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66350" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>7.6055,47.1188</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zürich / Fluntern</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66600"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66600" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>8.56573,47.3779</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cimetta</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67590"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67590" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>8.79084,46.201</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grimsel Hospiz</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67440"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67440" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>8.33321,46.5716</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Leibstadt</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66660"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66660" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>8.18826,47.5973</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Piz Corvatsch</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67910"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67910" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>9.82136,46.418</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Glarus</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66850"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66850" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>9.0669,47.0346</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gösgen</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66260"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66260" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>7.97366,47.363</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pully</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67110"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67110" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>6.66741,46.5123</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Payerne</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66100"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66100" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>6.94242,46.8116</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rünenberg</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/66450"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="66450" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>7.87932,47.4346</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nyon / Changins</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67050"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67050" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>6.22775,46.4011</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gütsch ob Andermatt</name>
+        <styleUrl>#landing-site</styleUrl>
+        <description>
+          <![CDATA[
+            <div class="container">
+              <div class="wind_current" id="wind_current"></div>
+              <div id="wind_history"><img src="https://api.meteotest.ch/flugbasis/v1/windgraph/67500"/></div>
+            </div>
+            <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+            <script id="current-wind" station="67500" src="https://afterglowing.ch/meteotest-client.js"></script>
+          ]]>
+        </description>
+        <Point>
+          <coordinates>8.61624,46.6535</coordinates>
+        </Point>
+      </Placemark>
+  
+    </Folder>
+  </Document>
+</kml>
+
