@@ -22,6 +22,7 @@ xmlstarlet ed -N "ns=http://www.opengis.net/kml/2.2" -d "/ns:kml/ns:Folder/ns:Fo
 xmlstarlet ed -N "ns=http://www.opengis.net/kml/2.2" -d "/ns:kml/ns:Folder/ns:Folder/ns:name[not(text()='Gefahrengebiete')]/.." raw.kml > generated/gefahrengebiete.kml
 xmlstarlet ed -N "ns=http://www.opengis.net/kml/2.2" -d "/ns:kml/ns:Folder/ns:Folder/ns:name[not(text()='Wildschutzzonen')]/.." raw.kml > generated/wildschutzzonen.kml
 
+set_name "An- Abflug" "generated/anabflug.kml"
 set_name "Sonderregeln" "generated/sonderregelung.kml"
 set_name "Hindernisse" "generated/hindernisse.kml"
 set_name "CTR" "generated/ctr.kml"
