@@ -26,6 +26,6 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           push-branch: 'master'
-          commit-message: 'Publish most recent kml layers of flyland'
+          commit-message: 'Updated kml layers of flyland'
           force-add: 'true'
           files: generated/
