@@ -10,7 +10,7 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Setup env
-        run: sudo apt install libxml2-utils -y 
+        run: sudo apt install xmlstarlet -y 
 
       - name: Download
         run: |
@@ -21,9 +21,6 @@ jobs:
             -H 'Referer: http://www.flyland.ch/disclamer.php?case=1001' \
             --data 'cbAkzeptieren=on' \
             > raw.kml
-
-      - name: Format
-        run: xmllint --format raw.kml > raw-formatted.kml
 
       - name: Print
         run: head raw.kml; head raw-formatted.kml
