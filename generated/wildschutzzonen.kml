@@ -1,0 +1,3803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Flyland Daten 29.03.2020 - 18:44</name>
+    <description><![CDATA[<table cellpadding=0 cellspacing=0 width=450><tr bgcolor='#ff8787'><td colspan='2'>Jegliche Haftung wird abgelehnt!</td></tr><tr bgcolor='#ff8787'><td colspan='2'>Flyland.ch, Skyguide, der SHV-FSVL und die beteiligten Clubs legen Wert auf die Feststellung, dass diese Daten zur Information die offiziellen Luftfahrtpublikationen unterstuetzen aber keinesfalls ersetzen. Es sind ausschliesslich die offiziellen Luftfahrtpublikationen und fuer Schutzgebiete die jeweils getroffenen Abmachungen rechtsgueltig.</td></tr><tr><td width='25%'>Link:</td><td><div align='left'> <a href='http://www.flyland.ch'>Flyland</a></div></td></tr></table>]]></description>
+    <visibility>1</visibility>
+    <open>1</open>
+    <LookAt>
+      <longitude>8.026104</longitude>
+      <latitude>46.823348</latitude>
+      <range>350000</range>
+      <tilt>0</tilt>
+      <heading>0</heading>
+    </LookAt>
+    <Style id="SP">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/SP.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff0000ff</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff000000</color>
+        <width>2</width>
+      </LineStyle>
+    </Style>
+    <Style id="LP">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/LP.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffff0000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff000000</color>
+        <width>2</width>
+      </LineStyle>
+    </Style>
+    <Style id="INFO">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/Info.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="BB">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/BB.JPG</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="CAM">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/CAM.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff000000</color>
+        <width>2</width>
+      </LineStyle>
+    </Style>
+    <Style id="PP">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/PP.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff000000</color>
+        <width>2</width>
+      </LineStyle>
+    </Style>
+    <Style id="GG">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/GG.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="VZ">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/VZ.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="HI">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/HI.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="SZ">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/SZ.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="CTR">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/CTR.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="CTR_SR">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/CTR_SR.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="Airspace">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/Airspace.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="Airspace_SR">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/Airspace_SR.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="FLF">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/FLF.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="FLF_SR">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/FLF_SR.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="HPO">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/HPO.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="HPO_SR">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/HPO_SR.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="FLRTE">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/FLRTE.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Wildschutzzonen</name>
+      <visibility>1</visibility>
+      <Folder>
+        <name>Adlerhorst Brienzergrat</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Adlerhorst Brienzergrat</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>Ueberflugverbot, wenn Horst besetzt (Infos bei Fluggruppe Oberhasli Brienz)</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>1.3-31.5</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>https://www.shv-fsvl.ch/sicherheit/fluggebiete/</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>7.883256098915,46.716110810322,2000</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Adlerhorst Brienzergrat</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+7.883256098915,46.716110810322,2000
+7.8832369285355,46.716392974875,2000
+7.8831749797552,46.716672215432,2000
+7.8830709306567,46.716945472505,2000
+7.8829259206385,46.717209752121,2000
+7.8827415379564,46.717462158624,2000
+7.8825198023447,46.717699926413,2000
+7.8822631429053,46.717920450244,2000
+7.8819743715054,46.718121313788,2000
+7.8816566519774,46.718300316113,2000
+7.8813134654552,46.718455495806,2000
+7.8809485722283,46.718585152476,2000
+7.8805659705318,46.718687865389,2000
+7.8801698527242,46.718762509046,2000
+7.8797645593328,46.718808265517,2000
+7.8793545314733,46.718824633413,2000
+7.8789442621638,46.718811433376,2000
+7.8785382470694,46.71876881005,2000
+7.8781409352177,46.718697230495,2000
+7.8777566802256,46.718597479062,2000
+7.8773896925756,46.718470648801,2000
+7.8770439934619,46.718318129477,2000
+7.8767233707163,46.71814159233,2000
+7.8764313372957,46.717942971763,2000
+7.8761710927868,46.717724444135,2000
+7.8759454883507,46.717488403904,2000
+7.8757569954903,46.717237437388,2000
+7.8756076789842,46.716974294417,2000
+7.8754991742812,46.716701858194,2000
+7.8754326696037,46.716423113705,2000
+7.8754088929545,46.716141115007,2000
+7.8754281041685,46.715858951763,2000
+7.8754900920949,46.715579715391,2000
+7.8755941769401,46.715306465195,2000
+7.8757392177435,46.715042194848,2000
+7.8759236249037,46.7147897996,2000
+7.8761453776165,46.714552044562,2000
+7.8764020460329,46.714331534418,2000
+7.8766908178931,46.7141306849,2000
+7.8770085293447,46.713951696328,2000
+7.8773516996068,46.713796529513,2000
+7.8777165691005,46.713666884284,2000
+7.8780991406278,46.713564180873,2000
+7.878495223149,46.713489544366,2000
+7.8789004776789,46.713443792379,2000
+7.8793104648002,46.713427426106,2000
+7.8797206932752,46.713440624833,2000
+7.8801266692235,46.713483243974,2000
+7.8805239453285,46.713554816653,2000
+7.8809081695353,46.713654558817,2000
+7.8812751327073,46.713781377822,2000
+7.8816208147198,46.713933884397,2000
+7.8819414284884,46.714110407856,2000
+7.8822334614487,46.714309014396,2000
+7.8824937140339,46.714527528272,2000
+7.8827193347302,46.714763555625,2000
+7.8829078513239,46.7150145107,2000
+7.8830571979991,46.715277644169,2000
+7.8831657379885,46.715550073242,2000
+7.8832322815275,46.715828813246,2000
+7.883256098915,46.716110810322,2000
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Aescher Ebenalp</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Aescher Ebenalp</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>Minimale Ueberflughoehe: 1500 m AMSL</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>1.1 - 31.12</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>https://www.fga.ch/fliegen/wild/</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>9.4012559,47.2761233,1500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Aescher Ebenalp</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.4012559,47.2761233,1500
+9.3941719,47.2732925,1500
+9.3949879,47.2713892,1500
+9.3959635,47.2709588,1500
+9.3966971,47.2704155,1500
+9.3984984,47.2690712,1500
+9.3994667,47.2695226,1500
+9.3997765,47.2700392,1500
+9.4004813,47.2701532,1500
+9.4015774,47.2701255,1500
+9.4022366,47.2700783,1500
+9.4052267,47.2719438,1500
+9.4056433,47.2724855,1500
+9.4059185,47.2731376,1500
+9.4069311,47.2733543,1500
+9.4086388,47.2741349,1500
+9.4115397,47.275003,1500
+9.412582,47.2760199,1500
+9.4139606,47.2771929,1500
+9.4152108,47.2781072,1500
+9.4161322,47.2787122,1500
+9.4121329,47.2810391,1500
+9.4092185,47.2794514,1500
+9.4071168,47.2783897,1500
+9.4012559,47.2761233,1500
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Alp Siegel</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Alp Siegel</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>Minimale Ueberflughoehe: 2000 m AMSL</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>1.1 - 31.12</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>https://www.fga.ch/fliegen/wild/</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>9.4578264,47.2820654,2000</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Alp Siegel</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.4578264,47.2820654,2000
+9.4576282,47.2820688,2000
+9.435781,47.2734699,2000
+9.4352466,47.2729663,2000
+9.4352066,47.2718963,2000
+9.4348335,47.2711109,2000
+9.4344394,47.27047,2000
+9.4326725,47.2698797,2000
+9.4377423,47.2665348,2000
+9.4428287,47.2685789,2000
+9.4438752,47.2693434,2000
+9.4466097,47.2699976,2000
+9.4491089,47.2700171,2000
+9.4496003,47.2704314,2000
+9.451229,47.2705019,2000
+9.4572816,47.2722046,2000
+9.4576733,47.2727736,2000
+9.4584456,47.2746675,2000
+9.4607597,47.2764265,2000
+9.4624887,47.2777458,2000
+9.4653468,47.279549,2000
+9.4617035,47.2810976,2000
+9.4578518,47.2820379,2000
+9.4578264,47.2820654,2000
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Balzers Ueberflugverbot</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Balzers Ueberflugverbot</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>Ueberflugverbot</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>1.1 - 31.3</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>http://gleitschirmclubvaduz.li/</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>9.52574139,47.06248036,4550</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Balzers Ueberflugverbot</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.52574139,47.06248036,4550
+9.53967436,47.06519555,4550
+9.54329718,47.06355449,4550
+9.54489611,47.06235539,4550
+9.54885993,47.06102283,4550
+9.55319716,47.05747867,4550
+9.55365632,47.05243118,4550
+9.55468941,47.05025255,4550
+9.55699168,47.04854539,4550
+9.56607464,47.07672194,4550
+9.56554504,47.07997112,4550
+9.56740956,47.08214114,4550
+9.57069518,47.09022359,4550
+9.56943086,47.09321647,4550
+9.56698673,47.09636619,4550
+9.56661368,47.10024233,4550
+9.56550044,47.10539193,4550
+9.55441144,47.10825118,4550
+9.54736961,47.09928129,4550
+9.54731279,47.09867495,4550
+9.54512178,47.09741043,4550
+9.54393121,47.09477781,4550
+9.54331556,47.09168473,4550
+9.54154476,47.08769049,4550
+9.53977687,47.08376367,4550
+9.53526965,47.08051674,4550
+9.52574139,47.06248036,4550
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Boetzelchopf</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Boetzelchopf</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>Minimale Ueberflughoehe: 2000 m AMSL</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>1.1 - 31.12</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>https://www.fga.ch/fliegen/wild/</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>9.3869889,47.2525132,2000</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Boetzelchopf</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.3869889,47.2525132,2000
+9.3938578,47.2491938,2000
+9.3968874,47.250375,2000
+9.4009168,47.2514311,2000
+9.4017498,47.2514439,2000
+9.4023951,47.2564175,2000
+9.4004009,47.2568114,2000
+9.3996226,47.2568516,2000
+9.3980688,47.2573639,2000
+9.3963135,47.2574297,2000
+9.3956359,47.2576932,2000
+9.3942359,47.2577169,2000
+9.3928076,47.2573273,2000
+9.391499,47.2573225,2000
+9.390294,47.2565331,2000
+9.3869889,47.2525132,2000
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Bogarten</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Bogarten</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>Minimale Ueberflughoehe: 2000 m AMSL</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>1.1 - 31.12</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>https://www.fga.ch/fliegen/wild/</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>9.4288102,47.2666264,2000</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Bogarten</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.4288102,47.2666264,2000
+9.4233217,47.2647686,2000
+9.4222914,47.2647863,2000
+9.4201476,47.2640044,2000
+9.4220072,47.2610483,2000
+9.4241026,47.2608862,2000
+9.425547,47.2609873,2000
+9.4271292,47.2612389,2000
+9.4285156,47.2615569,2000
+9.4296726,47.2621037,2000
+9.4305411,47.2627096,2000
+9.4308094,47.2635237,2000
+9.4306239,47.2642197,2000
+9.4299597,47.2651939,2000
+9.4288102,47.2666264,2000
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Brienzergrat</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Brienzergrat</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>Sa-So keine Einschraenkung, Mo-Fr Ueberflugverbot</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>1.4-30.6</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>https://www.shv-fsvl.ch/sicherheit/fluggebiete/</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>7.8765571,46.7222537,3950</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Brienzergrat</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+7.8765571,46.7222537,3950
+7.8795263,46.7158374,3950
+7.8834082,46.7155255,3950
+7.8877279,46.7159584,3950
+7.9076499,46.7222831,3950
+7.9288708,46.7299302,3950
+7.942761,46.7365715,3950
+7.9445313,46.7411784,3950
+7.9499307,46.7420539,3950
+7.9551394,46.7448551,3950
+7.9571263,46.7487142,3950
+7.9649462,46.7534462,3950
+7.967836,46.7611781,3950
+7.9708935,46.7645912,3950
+7.9748243,46.7688907,3950
+7.9793983,46.7719906,3950
+7.9828591,46.772424,3950
+7.9859151,46.7755309,3950
+7.9945949,46.7792132,3950
+7.9965705,46.7815874,3950
+8.0047995,46.783337,3950
+8.0121726,46.7858281,3950
+8.0147672,46.7859679,3950
+8.0160812,46.7875985,3950
+8.0225781,46.7889058,3950
+8.0189977,46.7969572,3950
+8.0027604,46.7949605,3950
+7.9981157,46.8055532,3950
+7.9908097,46.8110941,3950
+7.9791198,46.8095127,3950
+7.9732456,46.8064189,3950
+7.9736631,46.8049237,3950
+7.9704186,46.8040482,3950
+7.9673984,46.8046559,3950
+7.9567875,46.8033642,3950
+7.9524503,46.8018905,3950
+7.9511366,46.8001153,3950
+7.9528301,46.7963835,3950
+7.9565047,46.7971135,3950
+7.9558357,46.794283,3950
+7.9530155,46.7938549,3950
+7.9536476,46.7914682,3950
+7.9529743,46.7895372,3950
+7.9495055,46.7883563,3950
+7.9473138,46.7850917,3950
+7.9477079,46.7810689,3950
+7.9483064,46.7751112,3950
+7.9417378,46.7657578,3950
+7.9349793,46.7596884,3950
+7.9332378,46.7582027,3950
+7.9325521,46.7547873,3950
+7.9306041,46.7535993,3950
+7.9282275,46.7542032,3950
+7.9206442,46.7521575,3950
+7.9163135,46.7508353,3950
+7.9149876,46.7474135,3950
+7.9119516,46.7459329,3950
+7.9097989,46.7466884,3950
+7.9026082,46.7398722,3950
+7.9012885,46.7370439,3950
+7.8982332,46.7331882,3950
+7.8934641,46.7308234,3950
+7.8919621,46.7311262,3950
+7.8852332,46.7274376,3950
+7.8765571,46.7222537,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Buerten</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Buerten</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'> Minimale Ueberflughoehe: 100mAGL</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>1.1 - 31.12</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>http://www.dpch.ch/de_CH/home.cfm</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>7.683086,47.377590,1200</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Buerten</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+7.683086,47.377590,1200
+7.677602,47.377242,1200
+7.674630,47.375809,1200
+7.673937,47.374839,1200
+7.674331,47.374101,1200
+7.677372,47.373141,1200
+7.682744,47.372357,1200
+7.690054,47.372701,1200
+7.693400,47.374690,1200
+7.694018,47.376578,1200
+7.692438,47.378290,1200
+7.688767,47.380528,1200
+7.687205,47.380676,1200
+7.685797,47.379671,1200
+7.686452,47.378159,1200
+7.683086,47.377590,1200
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Drei Kapuziner</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Drei Kapuziner</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>Minimale Ueberflughoehe: 300 m AGL</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>1.1 - 31.12</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>http://gleitschirmclubvaduz.li/</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>9.576503,47.118572,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Drei Kapuziner</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>clampedToGround</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.576503,47.118572,0
+9.585889,47.117587,0
+9.587363,47.116547,0
+9.588585,47.116614,0
+9.590487,47.115544,0
+9.592962,47.115633,0
+9.600829,47.113798,0
+9.614674,47.112276,0
+9.622707,47.108075,0
+9.621064,47.110603,0
+9.624622,47.114630,0
+9.624755,47.118699,0
+9.632544,47.124602,0
+9.635081,47.128103,0
+9.629983,47.130468,0
+9.625527,47.131777,0
+9.624441,47.135523,0
+9.622110,47.132688,0
+9.620160,47.132095,0
+9.618016,47.132549,0
+9.616346,47.135568,0
+9.613700,47.137292,0
+9.608464,47.142160,0
+9.605595,47.142322,0
+9.599144,47.137351,0
+9.594667,47.134915,0
+9.590324,47.135771,0
+9.584434,47.133901,0
+9.579202,47.129185,0
+9.576203,47.126743,0
+9.575010,47.123279,0
+9.576503,47.118572,0
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Fex</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Fex</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>Minimale Ueberflughoehe: 200 m AGL</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>10.12-30.4</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>https://www.shv-fsvl.ch/sicherheit/fluggebiete/</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>9.773665966591382,46.42531596472252,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Fex</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>clampedToGround</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.773665966591382,46.42531596472252,0
+9.767303449222602,46.42868665954651,0
+9.763532247947749,46.42572666303473,0
+9.760536794128882,46.42263817299492,0
+9.762363864951013,46.41972087259601,0
+9.766684089388754,46.41729235304785,0
+9.773665966591382,46.42531596472252,0
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Foppa</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Foppa</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>Ueberflugverbot</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>1.1 - 31.3</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>http://gleitschirmclubvaduz.li/</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>9.552156,47.142114,4550</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Foppa</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.552156,47.142114,4550
+9.549362,47.139826,4550
+9.548138,47.138881,4550
+9.548908,47.136662,4550
+9.554974,47.134166,4550
+9.556402,47.134432,4550
+9.557233,47.133765,4550
+9.557717,47.133998,4550
+9.553714,47.138149,4550
+9.552383,47.140355,4550
+9.552156,47.142114,4550
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Furggenspitz</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Furggenspitz</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>Min 200m AGL</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>1.1 - 31.12</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>https://www.shv-fsvl.ch/sicherheit/fluggebiete/</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>7.269724389289762,46.44568097862529,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Furggenspitz</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>clampedToGround</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+7.269724389289762,46.44568097862529,0
+7.2583952057337,46.447867379028516,0
+7.227987886450492,46.436120382298306,0
+7.221736692378493,46.43754785080862,0
+7.224838452812907,46.442861202526224,0
+7.204679015162024,46.44039241207671,0
+7.194124808154026,46.443518542621554,0
+7.187494857829664,46.44206469358357,0
+7.1877839480088035,46.43585832572083,0
+7.197839878855548,46.42751424064049,0
+7.19837705633505,46.4237372053573,0
+7.204263193142061,46.41628317443868,0
+7.20197917828164,46.40323469487222,0
+7.22187868406084,46.40219518851012,0
+7.226926628433454,46.408141907235745,0
+7.235752488959771,46.41274590675588,0
+7.2586331757375575,46.41557339219879,0
+7.265911550272493,46.41720399286741,0
+7.27058416785174,46.4203595304638,0
+7.267684586183236,46.432319377380836,0
+7.271698023342578,46.438712295889836,0
+7.269724389289762,46.44568097862529,0
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Geitenberg</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Geitenberg</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>Kein tiefer Ueberflug</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>1.1 - 31.12</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>http://www.dpch.ch/de_CH/home.cfm</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>7.655661,47.373840,1200</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Geitenberg</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+7.655661,47.373840,1200
+7.651786,47.371545,1200
+7.655620,47.370315,1200
+7.659165,47.369589,1200
+7.668757,47.370973,1200
+7.670085,47.371960,1200
+7.670062,47.372661,1200
+7.667047,47.373675,1200
+7.662283,47.374206,1200
+7.655661,47.373840,1200
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Gental</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Gental</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>Minimale Ueberflughoehe: 2000 m AMSL</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>1.1 - 31.12</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>https://www.shv-fsvl.ch/sicherheit/fluggebiete/</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>8.2453216,46.7312629,2000</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Gental</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+8.2453216,46.7312629,2000
+8.2692813,46.7238943,2000
+8.2803191,46.727052,2000
+8.288466,46.7293306,2000
+8.3058489,46.7363966,2000
+8.307192,46.7385455,2000
+8.3159002,46.7429769,2000
+8.3217723,46.7499485,2000
+8.327881,46.7552987,2000
+8.3327267,46.7633573,2000
+8.3068181,46.764097,2000
+8.2991657,46.7603766,2000
+8.29809,46.7585855,2000
+8.2885756,46.7528993,2000
+8.2875286,46.7529071,2000
+8.2835461,46.7493382,2000
+8.2788547,46.7506323,2000
+8.2756777,46.7483166,2000
+8.2737955,46.7450919,2000
+8.2661509,46.7415492,2000
+8.2608623,46.737989,2000
+8.2571143,46.7324384,2000
+8.2521269,46.7313946,2000
+8.2453216,46.7312629,2000
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Giferspitz</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Giferspitz</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>Min 200m AGL</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>1.1 - 31.12</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>https://www.shv-fsvl.ch/sicherheit/fluggebiete/</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>7.308244856901799,46.44564216797755,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Giferspitz</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>clampedToGround</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+7.308244856901799,46.44564216797755,0
+7.313726231810371,46.438901659203935,0
+7.32404729906017,46.419392122816554,0
+7.340298677019771,46.42363546590534,0
+7.357985791387632,46.42643821885655,0
+7.367345553109366,46.43148211844075,0
+7.3738343990434805,46.44488954529183,0
+7.371087370451376,46.45613244649471,0
+7.357918586036258,46.47105646061214,0
+7.346974500394468,46.47545591038422,0
+7.339294084769731,46.4744598650444,0
+7.3296656559152265,46.47112256790702,0
+7.332942543221186,46.45997112230233,0
+7.335811459784745,46.457275095381846,0
+7.3295791167201605,46.449622941258845,0
+7.308244856901799,46.44564216797755,0
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Grangettes</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Grangettes</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>Min 300 m AGL</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>01.01-01.12</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>https://www.shv-fsvl.ch/sicherheit/fluggebiete/</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>6.910694,46.383673,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Grangettes</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>clampedToGround</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+6.910694,46.383673,0
+6.918434,46.386430,0
+6.918053,46.388879,0
+6.920614,46.389633,0
+6.921070,46.392941,0
+6.918198,46.394098,0
+6.918624,46.397113,0
+6.907560,46.398411,0
+6.904443,46.398037,0
+6.899584,46.396304,0
+6.910694,46.383673,0
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Guscha</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Guscha</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>1.5. bis Beginn Bahnbetrieb minimale Ueberflughoehe: 300mAGL</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>1.5-15.6</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>https://www.shv-fsvl.ch/sicherheit/fluggebiete/</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>9.328225817732614,47.05312534550604,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Guscha</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>clampedToGround</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.328225817732614,47.05312534550604,0
+9.328276535999741,47.054564126943255,0
+9.315552906172668,47.055897616415734,0
+9.309786639547585,47.05288761803182,0
+9.306577190968646,47.05334479177492,0
+9.300105467723231,47.04895118102175,0
+9.29963897874077,47.04688931390951,0
+9.297726990650563,47.04489586138329,0
+9.30014555109593,47.04062780316026,0
+9.30246006595978,47.040950130476325,0
+9.301877341675441,47.0431190078291,0
+9.307421315369231,47.0473476765931,0
+9.311327453931971,47.04800380095636,0
+9.314604194633468,47.04947986667626,0
+9.317118490038796,47.05173311857497,0
+9.322118713281437,47.05354065446772,0
+9.328225817732614,47.05312534550604,0
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Hoch-Ybrig</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Hoch-Ybrig</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>Minimale Ueberflughoehe: 2000 mAMSL, 300mAGL</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>1.1 - 31.12</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>https://www.shv-fsvl.ch/sicherheit/fluggebiete/</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>8.8107441,47.0272094,2000</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Hoch-Ybrig</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+8.8107441,47.0272094,2000
+8.8337788,47.0276064,2000
+8.8341297,47.0410969,2000
+8.8070506,47.0371496,2000
+8.8107441,47.0272094,2000
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Laubbaergli</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Laubbaergli</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>Soaringverbot unterhalb 100m AGL</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>1.1 - 31.12</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>https://www.shv-fsvl.ch/sicherheit/fluggebiete/</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>7.462041491971517,46.46561878244646,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Laubbaergli</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>clampedToGround</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+7.462041491971517,46.46561878244646,0
+7.473500194247459,46.46961898359466,0
+7.471483331814026,46.471553625694945,0
+7.45833194736683,46.46764346960349,0
+7.462041491971517,46.46561878244646,0
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Lehmental</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Lehmental</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>Minimale Ueberflughoehe: 1800 m AMSL</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>1.1 - 31.12</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>https://www.fga.ch/fliegen/wild/</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>9.3505518,47.2793236,1800</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Lehmental</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.3505518,47.2793236,1800
+9.3429507,47.2719368,1800
+9.3406673,47.2709218,1800
+9.3376017,47.2698387,1800
+9.3348719,47.2689029,1800
+9.3331316,47.2682837,1800
+9.3334387,47.2661373,1800
+9.3334741,47.265273,1800
+9.334171,47.2633092,1800
+9.3346686,47.2620594,1800
+9.3357364,47.2604943,1800
+9.336382,47.259323,1800
+9.3372827,47.2582645,1800
+9.3382122,47.2576464,1800
+9.3419581,47.259294,1800
+9.3432565,47.2604962,1800
+9.3433505,47.2605396,1800
+9.3458578,47.2615419,1800
+9.3474228,47.2624337,1800
+9.3498612,47.2637248,1800
+9.3519421,47.264626,1800
+9.3536778,47.2658478,1800
+9.3550011,47.2669955,1800
+9.3580842,47.267457,1800
+9.3605897,47.2676582,1800
+9.3639338,47.2676564,1800
+9.3660927,47.268511,1800
+9.3673631,47.2681839,1800
+9.3688618,47.2686896,1800
+9.3702267,47.2687837,1800
+9.3709072,47.2685924,1800
+9.3717118,47.2696406,1800
+9.3736818,47.2696525,1800
+9.375125,47.270447,1800
+9.3761892,47.2717247,1800
+9.3784582,47.2726853,1800
+9.3787482,47.2733912,1800
+9.3797759,47.2736618,1800
+9.3799619,47.2744145,1800
+9.3793017,47.2751633,1800
+9.3701129,47.2864653,1800
+9.3637177,47.2843949,1800
+9.3616701,47.2840782,1800
+9.3599772,47.2833327,1800
+9.358132,47.2823917,1800
+9.3554341,47.2820047,1800
+9.3532683,47.2813389,1800
+9.3505518,47.2793236,1800
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Loveresse</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Loveresse</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>Minimale Ueberflughoehe: 1300 m AMSL</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>01.06-30.06</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>https://vollibrejura.ch/</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>7.242441,47.248672,1300</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Loveresse</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+7.242441,47.248672,1300
+7.252336,47.250370,1300
+7.251336,47.252887,1300
+7.241217,47.251134,1300
+7.242441,47.248672,1300
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Margelchopf</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Margelchopf</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>Ueberflugverbot</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>1.1 - 31.12</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>https://www.shv-fsvl.ch/sicherheit/fluggebiete/</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>9.37918009,47.15873964,4550</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Margelchopf</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.37918009,47.15873964,4550
+9.37211688,47.15310021,4550
+9.38555796,47.13100926,4550
+9.39602304,47.13236109,4550
+9.39914253,47.14193539,4550
+9.39871748,47.14473190,4550
+9.39588704,47.14666963,4550
+9.38847598,47.14958481,4550
+9.39076592,47.15089559,4550
+9.39242317,47.15293688,4550
+9.39153931,47.15763064,4550
+9.37918009,47.15873964,4550
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Marwees</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Marwees</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>Minimale Ueberflughoehe 2000 m AMSL</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>1.1 - 31.12</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>https://www.fga.ch/fliegen/wild/</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>9.4014896,47.2612646,2000</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Marwees</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.4014896,47.2612646,2000
+9.4029558,47.2623193,2000
+9.4070856,47.2632025,2000
+9.4144309,47.2648943,2000
+9.4178755,47.2654651,2000
+9.4196896,47.2659108,2000
+9.420595,47.266444,2000
+9.4219609,47.2672753,2000
+9.423283,47.2683502,2000
+9.4217951,47.2688617,2000
+9.3981002,47.2661449,2000
+9.4014896,47.2612646,2000
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Metschhore</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Metschhore</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>Soaringverbot unterhalt 300 m AGL</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>1.1 - 31.12</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>https://www.shv-fsvl.ch/sicherheit/fluggebiete/</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>7.471297154537985,46.43154566490425,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Metschhore</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>clampedToGround</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+7.471297154537985,46.43154566490425,0
+7.49503999923793,46.43074941959845,0
+7.494137151853869,46.43855356084379,0
+7.489059676684672,46.435452400353576,0
+7.4691561868494185,46.44202614251246,0
+7.462648343659738,46.438564339353434,0
+7.46498924250786,46.435910130689585,0
+7.471297154537985,46.43154566490425,0
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Metschwald</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Metschwald</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>Soaringverbot unterhalb 300m AGL</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>1.1 - 31.12</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>https://www.shv-fsvl.ch/sicherheit/fluggebiete/</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>7.458161156074815,46.44416493707041,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Metschwald</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>clampedToGround</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+7.458161156074815,46.44416493707041,0
+7.464537669781002,46.44420869097166,0
+7.461937801324805,46.450955947679326,0
+7.456470597206006,46.447898383474055,0
+7.458161156074815,46.44416493707041,0
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Plasteikopf</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Plasteikopf</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>Minimale Ueberflughoehe: 300 m AGL</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>1.1 - 31.12</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>http://gleitschirmclubvaduz.li/</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>9.55699168,47.04854539,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Plasteikopf</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>clampedToGround</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.55699168,47.04854539,0
+9.56776968,47.05142782,0
+9.57887801,47.05266090,0
+9.58189672,47.05242459,0
+9.59221109,47.05682066,0
+9.59609178,47.05836747,0
+9.60073678,47.05926988,0
+9.60411701,47.06145575,0
+9.60806082,47.06129128,0
+9.61215229,47.06476825,0
+9.61165311,47.06707230,0
+9.61399233,47.07116726,0
+9.61098509,47.07495855,0
+9.60426586,47.07328583,0
+9.59603836,47.07339576,0
+9.59241287,47.07494856,0
+9.57538128,47.08714456,0
+9.57069518,47.09022359,0
+9.56740956,47.08214114,0
+9.56554504,47.07997112,0
+9.56607464,47.07672194,0
+9.55699168,47.04854539,0
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Raimeux</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Raimeux</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>Startverbot, Minimale Ueberflughoehe 1500m AMSL</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>01.09-30.09</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>https://vollibrejura.ch/</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>7.418760,47.298000,1500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Raimeux</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+7.418760,47.298000,1500
+7.420050,47.295122,1500
+7.428313,47.296405,1500
+7.427023,47.299441,1500
+7.418760,47.298000,1500
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Saentis Falalp</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Saentis Falalp</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>Minimale Ueberflughoehe: 3000 mAMSL</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>1.1 - 31.12</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>https://www.fga.ch/fliegen/wild/</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>9.3524209,47.2602814,3000</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Saentis Falalp</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.3524209,47.2602814,3000
+9.346872,47.2577462,3000
+9.3446427,47.2556418,3000
+9.3443047,47.2543157,3000
+9.3414197,47.2516013,3000
+9.3437025,47.2489183,3000
+9.3439987,47.2475908,3000
+9.3533957,47.2465533,3000
+9.3570621,47.2463664,3000
+9.3604294,47.2466791,3000
+9.3651018,47.2483736,3000
+9.3813941,47.2560087,3000
+9.3832316,47.2571114,3000
+9.3837876,47.2582267,3000
+9.3838609,47.2595121,3000
+9.3827889,47.2609248,3000
+9.3749384,47.26749,3000
+9.3722556,47.2660415,3000
+9.368196,47.2648949,3000
+9.3661318,47.2637328,3000
+9.3582885,47.2617403,3000
+9.3585077,47.2604861,3000
+9.3568508,47.2599828,3000
+9.3548058,47.2600798,3000
+9.3524209,47.2602814,3000
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Saminatal</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Saminatal</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>Minimale Ueberflughoehe: 300 m AGL</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>1.1 - 31.12</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>http://gleitschirmclubvaduz.li/</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>9.558495,47.133190,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Saminatal</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>clampedToGround</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.558495,47.133190,0
+9.565066,47.134284,0
+9.571892,47.133527,0
+9.574068,47.138481,0
+9.581049,47.143210,0
+9.581899,47.146343,0
+9.583030,47.153161,0
+9.586472,47.158406,0
+9.591206,47.164571,0
+9.579391,47.171000,0
+9.574253,47.169566,0
+9.564716,47.170282,0
+9.561042,47.167471,0
+9.560842,47.165765,0
+9.558617,47.162882,0
+9.554628,47.158771,0
+9.552285,47.152875,0
+9.553772,47.148799,0
+9.559654,47.144945,0
+9.559848,47.144019,0
+9.559784,47.141591,0
+9.552156,47.142114,0
+9.552383,47.140355,0
+9.553714,47.138149,0
+9.558495,47.133190,0
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Sass Nair</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Sass Nair</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>Minimale Ueberflughoehe: 200mAGL, Start/Landeverbot</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>10.12-30.4.</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>https://www.shv-fsvl.ch/sicherheit/fluggebiete/</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>9.813516756961734,46.45859756589667,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Sass Nair</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>clampedToGround</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.813516756961734,46.45859756589667,0
+9.812438612512301,46.45479522196151,0
+9.812255790053893,46.4446743000272,0
+9.817372163204603,46.44704207422645,0
+9.826112631839344,46.44447351393946,0
+9.827124197343387,46.45561200543705,0
+9.825889145532242,46.46009290835982,0
+9.828081387334603,46.46846160432563,0
+9.82471237135627,46.4718174169689,0
+9.813516756961734,46.45859756589667,0
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Schafberg</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Schafberg</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>Ueberflugverbot vom 10.12 - 30.4</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>10.12 - 30.4</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>https://www.shv-fsvl.ch/sicherheit/fluggebiete/</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>9.905946314155424,46.51649850441402,4550</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Schafberg</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.905946314155424,46.51649850441402,4550
+9.900182924557326,46.51590354018175,4550
+9.897097538373631,46.51399034867365,4550
+9.89634392468086,46.50887662789626,4550
+9.898711461540815,46.50360533414469,4550
+9.902364164575596,46.49794609960892,4550
+9.907205115215541,46.49550093634677,4550
+9.908479354644392,46.49486571933399,4550
+9.916537331071838,46.49154010740297,4550
+9.926265924785731,46.48772729915793,4550
+9.928405498897046,46.4875003932471,4550
+9.930992045622203,46.49981889426603,4550
+9.922761372379076,46.50080926108192,4550
+9.913818284057484,46.50617961277959,4550
+9.912207610845918,46.50801472775029,4550
+9.903629704852261,46.51000124368448,4550
+9.903220979602343,46.51104512254825,4550
+9.904006845755328,46.51255808059476,4550
+9.905651586020762,46.51432238550168,4550
+9.905946314155424,46.51649850441402,4550
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Schilstal 1</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Schilstal 1</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>1.5. bis Beginn Bahnbetrieb minimale Ueberflughoehe: 300mAGL</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>1.5-15.6</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>https://www.shv-fsvl.ch/sicherheit/fluggebiete/</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>9.304777717888122,47.07350601922817,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Schilstal 1</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>clampedToGround</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.304777717888122,47.07350601922817,0
+9.295695627022063,47.073653286374096,0
+9.292709646380407,47.07109228080542,0
+9.289465763088264,47.0724942439098,0
+9.28183645973518,47.068928034180814,0
+9.280269454324106,47.06931308125479,0
+9.277333816203138,47.06819047154263,0
+9.24573208340901,47.056545843510484,0
+9.24580728641404,47.05096628325156,0
+9.251777428593009,47.04844281441031,0
+9.249422371666084,47.044971013144576,0
+9.257218122320708,47.04196854783118,0
+9.28047373331655,47.048435688607086,0
+9.283380394253228,47.05639675901179,0
+9.299049683419153,47.06784058952836,0
+9.303054304102837,47.06939516969612,0
+9.304777717888122,47.07350601922817,0
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Schilstal 2</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Schilstal 2</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>1.5. bis Beginn Bahnbetrieb minimale Ueberflughoehe: 300mAGL</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>1.5-15.6</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>https://www.shv-fsvl.ch/sicherheit/fluggebiete/</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>9.252125717600741,47.06263070021888,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Schilstal 2</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>clampedToGround</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.252125717600741,47.06263070021888,0
+9.251247097523517,47.06390421098128,0
+9.24889191576556,47.064346259021775,0
+9.248079522694729,47.063684265286575,0
+9.249381873143797,47.06325884665202,0
+9.24988244670813,47.062486172242956,0
+9.252125717600741,47.06263070021888,0
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Schilstal 3</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Schilstal 3</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>1.5. bis Beginn Bahnbetrieb minimale Ueberflughoehe: 300mAGL</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>1.5-15.6</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>https://www.shv-fsvl.ch/sicherheit/fluggebiete/</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>9.260012306469868,47.066104787972755,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Schilstal 3</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>clampedToGround</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.260012306469868,47.066104787972755,0
+9.258792714841181,47.06508943226456,0
+9.260589332688667,47.063711320319584,0
+9.262297095820028,47.06359422710705,0
+9.26336674602066,47.064072085607904,0
+9.260012306469868,47.066104787972755,0
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Schilstal 4</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Schilstal 4</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>1.5. bis Beginn Bahnbetrieb minimale Ueberflughoehe: 300mAGL</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>1.5-15.6</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>https://www.shv-fsvl.ch/sicherheit/fluggebiete/</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>9.279823477687,47.06974761336662,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Schilstal 4</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>clampedToGround</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.279823477687,47.06974761336662,0
+9.283617869584724,47.070946337830414,0
+9.282722841659044,47.07172550125381,0
+9.278343851973366,47.07076105250895,0
+9.279823477687,47.06974761336662,0
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Schindelberg</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Schindelberg</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>15.5.-15.6 sowie im Winter ab 16 Uhr: minimale Ueberflughoehe 2000 m AMSL</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>15.5.-15.6.</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>http://gleitschirmclub.ch/</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>9.256925582886,47.215895374711,2000</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Schindelberg</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.256925582886,47.215895374711,2000
+9.253106117249,47.218533358810,2000
+9.251196384430,47.218708248145,2000
+9.249629974365,47.215254076979,2000
+9.247291088104,47.211901712603,2000
+9.245939254761,47.209380011924,2000
+9.241948127747,47.207499590608,2000
+9.241433143616,47.206624953328,2000
+9.238686561584,47.205648257988,2000
+9.232850074768,47.195749092081,2000
+9.238557815552,47.196711389543,2000
+9.244909286499,47.200822827578,2000
+9.247312545776,47.204321672831,2000
+9.253578186035,47.207645362086,2000
+9.252333641052,47.211143757372,2000
+9.253835678101,47.213679949664,2000
+9.256925582886,47.215895374711,2000
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Schwarze Hoerner</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Schwarze Hoerner</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>1.5. bis Beginn Bahnbetrieb: Hoch ueberfliegen</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>1.5 - 1.6</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>http://www.fluggruppepizol.ch/</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>9.40230614282311,46.986467083418376,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Schwarze Hoerner</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>clampedToGround</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.40230614282311,46.986467083418376,0
+9.402052845757737,46.97954300990793,0
+9.39471693477645,46.97305498256134,0
+9.397940570860955,46.97133528667872,0
+9.405240008351027,46.97323477832591,0
+9.405392995875582,46.97561661273959,0
+9.40787300339904,46.97692371564232,0
+9.406683286759595,46.983917570635,0
+9.40787965217991,46.98785611877076,0
+9.40968374995479,46.99043451371169,0
+9.408923893724007,47.003764520450844,0
+9.407415799916517,47.00567998973967,0
+9.402657132005194,47.00504177132356,0
+9.399865377870139,47.00063560042126,0
+9.396595933855226,46.99754222087582,0
+9.397578529922049,46.99383629369028,0
+9.40230614282311,46.986467083418376,0
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Stockberg</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Stockberg</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>15.5.-15.6 und im Winter ab 16 Uhr: minimale Ueberflughoehe 2000 m AMSL</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>15.5 - 15.6</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>http://gleitschirmclub.ch/</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>9.241797924042,47.228180558550,2000</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Stockberg</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.241797924042,47.228180558550,2000
+9.242763519287,47.228777985999,2000
+9.245939254761,47.228544844381,2000
+9.248600006104,47.229127696503,2000
+9.250488281250,47.230992780223,2000
+9.253063201904,47.232041860973,2000
+9.254779815674,47.231692169697,2000
+9.259071350098,47.232391549942,2000
+9.263534545898,47.234139960175,2000
+9.263963699341,47.237636607590,2000
+9.249458312988,47.238627282409,2000
+9.231176376343,47.236179699207,2000
+9.241797924042,47.228180558550,2000
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Studen</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Studen</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>Soaringverbot</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>1.12-30.4</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>https://www.shv-fsvl.ch/sicherheit/fluggebiete/</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>8.833330817035579,47.082494267514456,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Studen</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>clampedToGround</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+8.833330817035579,47.082494267514456,0
+8.852454990429301,47.07353392132818,0
+8.856155181976703,47.07402808939989,0
+8.856862988174855,47.078382614307344,0
+8.857396035994666,47.08359395000126,0
+8.853976483930357,47.08876408655813,0
+8.849310214924444,47.08913636271649,0
+8.841597586383523,47.088870969563004,0
+8.838735954198407,47.087736359264824,0
+8.833330817035579,47.082494267514456,0
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Studnerberg</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Studnerberg</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>Ueberflugverbot</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>1.1 - 31.12</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>https://www.shv-fsvl.ch/sicherheit/fluggebiete/</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>9.40361239,47.17029151,4550</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Studnerberg</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.40361239,47.17029151,4550
+9.37918009,47.15873964,4550
+9.39153931,47.15763064,4550
+9.39242317,47.15293688,4550
+9.39076592,47.15089559,4550
+9.39454209,47.15317079,4550
+9.40583614,47.15900650,4550
+9.40761613,47.16077556,4550
+9.41398734,47.16183598,4550
+9.41752487,47.16474437,4550
+9.42262832,47.16717578,4550
+9.41749948,47.16762405,4550
+9.41510954,47.16721527,4550
+9.41011911,47.16784078,4550
+9.40462098,47.16901461,4550
+9.40361239,47.17029151,4550
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Surlej</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Surlej</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>Minimale Ueberflughoehe: 200 m AGL</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>10.12-30.4.</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>https://www.shv-fsvl.ch/sicherheit/fluggebiete/</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>9.8088521212501,46.45392522457484,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Surlej</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>clampedToGround</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.8088521212501,46.45392522457484,0
+9.806079324378377,46.45006822223304,0
+9.804510989094474,46.44695102620315,0
+9.801517540540747,46.44548345804401,0
+9.797587828739873,46.44493525981753,0
+9.792399058365083,46.44387307548591,0
+9.789026352130911,46.44115309937743,0
+9.787128687520621,46.44092241269811,0
+9.785320236688383,46.4397448822547,0
+9.784066020572443,46.43783589143431,0
+9.780817400613229,46.43646307174899,0
+9.779849741882128,46.43666304263309,0
+9.776410095146026,46.43538403982655,0
+9.776013245089285,46.43372728287922,0
+9.76994129494333,46.43025239911925,0
+9.775299518190485,46.42622728041823,0
+9.784231980651517,46.42662785597598,0
+9.788327771493393,46.43104291510075,0
+9.794629832765015,46.43379208395004,0
+9.801080978383389,46.43397288504995,0
+9.806373967533917,46.43147757611547,0
+9.809634442500293,46.43608934062763,0
+9.808951740985243,46.44429339658223,0
+9.810661906872536,46.45064748685385,0
+9.8088521212501,46.45392522457484,0
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Tschuggewald</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Tschuggewald</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>Soaringverbot unterhalb 300m AGL</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>1.1 - 31.12</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>https://www.shv-fsvl.ch/sicherheit/fluggebiete/</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>7.42767506561143,46.45577018311534,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Tschuggewald</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>clampedToGround</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+7.42767506561143,46.45577018311534,0
+7.414988408292364,46.446997414958,0
+7.41408217267698,46.43692212028652,0
+7.422149252500237,46.437103559312796,0
+7.424556041383339,46.43836329051321,0
+7.428588906106475,46.44236680387535,0
+7.429824403753984,46.44636996744011,0
+7.42943330007502,46.450058136762486,0
+7.42767506561143,46.45577018311534,0
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Turbach</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Turbach</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>Min 200m AGL</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>1.1 - 31.12</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>https://www.shv-fsvl.ch/sicherheit/fluggebiete/</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>7.309146725094785,46.476453234540145,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Turbach</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>clampedToGround</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+7.309146725094785,46.476453234540145,0
+7.322683900283355,46.47862693492647,0
+7.339085342112792,46.4817011533375,0
+7.349633524015114,46.48162004665073,0
+7.3551065143238015,46.47928539187957,0
+7.357976705801827,46.47568924536852,0
+7.3709938814903735,46.47857645561393,0
+7.36772752426665,46.48685039923156,0
+7.353264268912636,46.491338129179425,0
+7.337632743510576,46.49240464105547,0
+7.315244290241622,46.48617535012237,0
+7.309262217747892,46.4825703910008,0
+7.309146725094785,46.476453234540145,0
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Val Bernina</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Val Bernina</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>Ueberflughoehe 300m AGL </td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>1.7- 30.9</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>https://www.shv-fsvl.ch/sicherheit/fluggebiete/</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>9.915903033394407,46.48194630650332,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Val Bernina</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>clampedToGround</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.915903033394407,46.48194630650332,0
+9.921989886717217,46.478303248511764,0
+9.932051921219665,46.46764243474784,0
+9.936419723368406,46.46349628770267,0
+9.94073563067496,46.46106114592426,0
+9.946214868776565,46.455630043702364,0
+9.94989593386635,46.45356856950524,0
+9.953131468210058,46.453136895774854,0
+9.958436292063526,46.44959908590924,0
+9.967189353501224,46.44742425729662,0
+9.976138712424918,46.44389429121529,0
+9.981644281212619,46.44746115897791,0
+9.986812019935908,46.45490553940545,0
+9.987753265068426,46.45830455159361,0
+9.982822937952252,46.46147534294678,0
+9.97781619417199,46.46302754996815,0
+9.976532368460141,46.46620639829309,0
+9.974211594439303,46.46949840430536,0
+9.968280359038221,46.47080080874736,0
+9.965085661106693,46.47492211522826,0
+9.959030899165331,46.481986956331234,0
+9.95280264690129,46.4881552524506,0
+9.94624182749426,46.492800477831125,0
+9.9444043339804,46.49815118407397,0
+9.915903033394407,46.48194630650332,0
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Val Roseg</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Val Roseg</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>Ueberflughoehe 300m AGL</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>1.1 - 31.12</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>https://www.shv-fsvl.ch/sicherheit/fluggebiete/</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>relativeToGround</altitudeMode>
+            <coordinates>9.894610222793084,46.487899011527176,0</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Val Roseg</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>clampedToGround</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.894610222793084,46.487899011527176,0
+9.891839764067612,46.484268891482444,0
+9.882777154032945,46.482664367718584,0
+9.869496110416074,46.47268957374373,0
+9.868573585045064,46.470999334328624,0
+9.86299656520956,46.470083607202845,0
+9.861068168675859,46.46773979914553,0
+9.861451246024762,46.46611163178762,0
+9.857771649275266,46.465380134593886,0
+9.853763658578885,46.46020055030718,0
+9.853362259623351,46.4584991085856,0
+9.84825014249469,46.457752793041315,0
+9.847439759512092,46.454170040618344,0
+9.843165765954366,46.45322571181266,0
+9.845290683012767,46.44976069995609,0
+9.844807622861754,46.44767847173902,0
+9.846280720016612,46.44566724117148,0
+9.866965480592725,46.43802637293054,0
+9.870645362184606,46.438802529120366,0
+9.87397435586347,46.4448060999798,0
+9.873894777201468,46.445932807695776,0
+9.87641404154827,46.44983870005815,0
+9.875757202513126,46.45115781206826,0
+9.876502342073795,46.454696803825875,0
+9.87807533484459,46.456372996154535,0
+9.879780801822886,46.45665131678524,0
+9.881128190608711,46.459097324964,0
+9.883059336634473,46.46004574221266,0
+9.885374391533018,46.46661086992089,0
+9.884668739900308,46.46829108650233,0
+9.886140599864138,46.47203936704629,0
+9.89286968818437,46.48111911252092,0
+9.89722084864454,46.48800000747315,0
+9.894610222793084,46.487899011527176,0
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Werdenberg</name>
+        <description>Wildschutz</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Werdenberg</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='center'>Vereinbarung</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Beschreibung</td>
+<td align='left'>Minimale Ueberflughoehe: 1750 m AMSL</td>
+</tr>
+<tr>
+<td align='left'>Schutzzeit</td>
+<td align='left'>1.1 - 31.12</td>
+</tr>
+<tr>
+<td align='left'>Quelle</td>
+<td align='left'>https://www.shv-fsvl.ch/sicherheit/fluggebiete/</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#SZ</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>9.43808796,47.15368142,1750</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Werdenberg</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>501478FF</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.43808796,47.15368142,1750
+9.42722407,47.15593930,1750
+9.41887267,47.15482377,1750
+9.41375398,47.15194259,1750
+9.40889549,47.14536770,1750
+9.41728178,47.14747308,1750
+9.42107071,47.14650803,1750
+9.43123928,47.14687209,1750
+9.43808796,47.15368142,1750
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+    </Folder>
+  </Folder>
+</kml>

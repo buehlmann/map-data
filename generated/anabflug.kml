@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Flyland Daten 29.03.2020 - 18:44</name>
+    <description><![CDATA[<table cellpadding=0 cellspacing=0 width=450><tr bgcolor='#ff8787'><td colspan='2'>Jegliche Haftung wird abgelehnt!</td></tr><tr bgcolor='#ff8787'><td colspan='2'>Flyland.ch, Skyguide, der SHV-FSVL und die beteiligten Clubs legen Wert auf die Feststellung, dass diese Daten zur Information die offiziellen Luftfahrtpublikationen unterstuetzen aber keinesfalls ersetzen. Es sind ausschliesslich die offiziellen Luftfahrtpublikationen und fuer Schutzgebiete die jeweils getroffenen Abmachungen rechtsgueltig.</td></tr><tr><td width='25%'>Link:</td><td><div align='left'> <a href='http://www.flyland.ch'>Flyland</a></div></td></tr></table>]]></description>
+    <visibility>1</visibility>
+    <open>1</open>
+    <LookAt>
+      <longitude>8.026104</longitude>
+      <latitude>46.823348</latitude>
+      <range>350000</range>
+      <tilt>0</tilt>
+      <heading>0</heading>
+    </LookAt>
+    <Style id="SP">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/SP.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff0000ff</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff000000</color>
+        <width>2</width>
+      </LineStyle>
+    </Style>
+    <Style id="LP">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/LP.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffff0000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff000000</color>
+        <width>2</width>
+      </LineStyle>
+    </Style>
+    <Style id="INFO">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/Info.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="BB">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/BB.JPG</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="CAM">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/CAM.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff000000</color>
+        <width>2</width>
+      </LineStyle>
+    </Style>
+    <Style id="PP">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/PP.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff000000</color>
+        <width>2</width>
+      </LineStyle>
+    </Style>
+    <Style id="GG">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/GG.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="VZ">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/VZ.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="HI">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/HI.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="SZ">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/SZ.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="CTR">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/CTR.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="CTR_SR">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/CTR_SR.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="Airspace">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/Airspace.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="Airspace_SR">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/Airspace_SR.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="FLF">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/FLF.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="FLF_SR">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/FLF_SR.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="HPO">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/HPO.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="HPO_SR">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/HPO_SR.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="FLRTE">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/FLRTE.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Anflug</name>
+      <visibility>1</visibility>
+      <Folder>
+        <name>Wilderswil Nordanflug der Rega</name>
+        <description>ANRTE</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Wilderswil Nordanflug der Rega</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr bgcolor='#D7E1EE'>
+<td colspan='2' align='left'>Unbedingt die Flugverbotszone beachten</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#FLRTE</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>7.883248329162598,46.68948649268507,1000</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Wilderswil Nordanflug der Rega</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr bgcolor='#D7E1EE'>
+<td colspan='2' align='left'>Landung</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#FLRTE</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>7.876167297363281,46.6701791655699,584</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Wilderswil Nordanflug der Rega</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f0000ff</color>
+              <width>2</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7fcc66ff</color>
+            </PolyStyle>
+          </Style>
+          <LineString>
+            <extrude>0</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>
+7.883248329162598,46.68948649268507,1000
+7.879568338394165,46.67452998894194,700
+7.875233888626099,46.67062825153594,600
+7.876167297363281,46.6701791655699,584
+</coordinates>
+          </LineString>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Wilderswil Ostanflug der Rega</name>
+        <description>ANRTE</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Wilderswil Ostanflug der Rega</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr bgcolor='#D7E1EE'>
+<td colspan='2' align='left'>Unbedingt die Flugverbotszone beachten</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#FLRTE</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>7.9080963134765625,46.684658467678446,1200</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Wilderswil Ostanflug der Rega</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr bgcolor='#D7E1EE'>
+<td colspan='2' align='left'>Landung</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#FLRTE</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>
+7.876167297363281,46.6701791655699,584</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Wilderswil Ostanflug der Rega</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f0000ff</color>
+              <width>2</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7fcc66ff</color>
+            </PolyStyle>
+          </Style>
+          <LineString>
+            <extrude>0</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>
+7.9080963134765625,46.684658467678446,1200
+
+7.879568338394165,46.67452998894194,700
+
+7.875233888626099,46.67062825153594,600
+
+7.876167297363281,46.6701791655699,584
+</coordinates>
+          </LineString>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Wilderswil Suedanflug der Rega</name>
+        <description>ANRTE</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Wilderswil Suedanflug der Rega</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr bgcolor='#D7E1EE'>
+<td colspan='2' align='left'>Unbedingt die Flugverbotszone beachten</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#FLRTE</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>7.885007858276367,46.64949508268255,1200</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Wilderswil Suedanflug der Rega</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr bgcolor='#D7E1EE'>
+<td colspan='2' align='left'>Landung</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#FLRTE</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>
+7.876167297363281,46.6701791655699,584</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Wilderswil Suedanflug der Rega</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f0000ff</color>
+              <width>2</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7fcc66ff</color>
+            </PolyStyle>
+          </Style>
+          <LineString>
+            <extrude>0</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>
+7.885007858276367,46.64949508268255,1200
+
+7.883162498474121,46.65747805866551,1200
+
+7.883462905883789,46.66213179607663,1200
+
+7.887711524963379,46.666637881580584,1100
+
+7.890415191650391,46.67137917383139,900
+
+7.888054847717285,46.674264974185924,800
+
+7.8847503662109375,46.67541336207592,750
+
+7.879568338394165,46.67452998894194,700
+
+7.875233888626099,46.67062825153594,600
+
+7.876167297363281,46.6701791655699,584
+</coordinates>
+          </LineString>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Wilderswil Westanflug der Rega</name>
+        <description>ANRTE</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Wilderswil Westanflug der Rega</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr bgcolor='#D7E1EE'>
+<td colspan='2' align='left'>Unbedingt die Flugverbotszone beachten</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#FLRTE</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>7.839689254760742,46.67093745609758,1100</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Wilderswil Westanflug der Rega</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr bgcolor='#D7E1EE'>
+<td colspan='2' align='left'>Landung</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#FLRTE</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>
+7.8761887550354,46.67016444137668,584</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Wilderswil Westanflug der Rega</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f0000ff</color>
+              <width>2</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7fcc66ff</color>
+            </PolyStyle>
+          </Style>
+          <LineString>
+            <extrude>0</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>
+7.839689254760742,46.67093745609758,1100
+
+7.87520170211792,46.67031168312829,600
+
+7.8761887550354,46.67016444137668,584
+</coordinates>
+          </LineString>
+        </Placemark>
+      </Folder>
+    </Folder>
+    <Folder>
+      <name>Abflug</name>
+      <visibility>1</visibility>
+      <Folder>
+        <name>Wilderswil Nordabflug der Rega</name>
+        <description>ANRTE</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Wilderswil Nordabflug der Rega</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr bgcolor='#D7E1EE'>
+<td colspan='2' align='left'>Unbedingt die Flugverbozszone beachten</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#FLRTE</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>7.876167297363281,46.6701791655699,584</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Wilderswil Nordabflug der Rega</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr bgcolor='#D7E1EE'>
+<td colspan='2' align='left'>Abflug</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#FLRTE</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>7.883248329162598,46.68948649268507,1000</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Wilderswil Nordabflug der Rega</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f0000ff</color>
+              <width>2</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7fcc66ff</color>
+            </PolyStyle>
+          </Style>
+          <LineString>
+            <extrude>0</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>
+7.876167297363281,46.6701791655699,584
+7.875233888626099,46.67062825153594,600
+7.879568338394165,46.67452998894194,700
+7.883248329162598,46.68948649268507,1000
+</coordinates>
+          </LineString>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Wilderswil Ostabflug der Rega</name>
+        <description>ANRTE</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Wilderswil Ostabflug der Rega</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr bgcolor='#D7E1EE'>
+<td colspan='2' align='left'>Unbedingt die Flugverbotszone beachten</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#FLRTE</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>7.876167297363281,46.6701791655699,584</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Wilderswil Ostabflug der Rega</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr bgcolor='#D7E1EE'>
+<td colspan='2' align='left'>Abflug</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#FLRTE</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>
+7.9080963134765625,46.684658467678446,1200
+</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Wilderswil Ostabflug der Rega</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f0000ff</color>
+              <width>2</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7fcc66ff</color>
+            </PolyStyle>
+          </Style>
+          <LineString>
+            <extrude>0</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>
+7.876167297363281,46.6701791655699,584
+
+7.875233888626099,46.67062825153594,600
+
+7.879568338394165,46.67452998894194,700
+
+7.9080963134765625,46.684658467678446,1200
+
+</coordinates>
+          </LineString>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Wilderswil Suedabflug der Rega</name>
+        <description>ANRTE</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Wilderswil Suedabflug der Rega</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr bgcolor='#D7E1EE'>
+<td colspan='2' align='left'>Unbedingt die Flugverbotszone beachten</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#FLRTE</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>7.876167297363281,46.6701791655699,584</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Wilderswil Suedabflug der Rega</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr bgcolor='#D7E1EE'>
+<td colspan='2' align='left'>Abflug</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#FLRTE</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>
+7.885007858276367,46.64949508268255,1200</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Wilderswil Suedabflug der Rega</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f0000ff</color>
+              <width>2</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7fcc66ff</color>
+            </PolyStyle>
+          </Style>
+          <LineString>
+            <extrude>0</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>
+7.876167297363281,46.6701791655699,584
+
+7.875233888626099,46.67062825153594,600
+
+7.879568338394165,46.67452998894194,700
+
+7.8847503662109375,46.67541336207592,750
+
+7.888054847717285,46.674264974185924,800
+
+7.890415191650391,46.67137917383139,900
+
+7.887711524963379,46.666637881580584,1100
+
+7.883462905883789,46.66213179607663,1200
+
+7.883162498474121,46.65747805866551,1200
+
+7.885007858276367,46.64949508268255,1200
+</coordinates>
+          </LineString>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Wilderswil Westabflug der Rega</name>
+        <description>ANRTE</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Wilderswil Westabflug der Rega</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr bgcolor='#D7E1EE'>
+<td colspan='2' align='left'>Unbedingt die Flugverbotszone beachten</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#FLRTE</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>7.8761887550354,46.67016444137668,584</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Wilderswil Westabflug der Rega</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr bgcolor='#D7E1EE'>
+<td colspan='2' align='left'>Abflug</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#FLRTE</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>
+7.839689254760742,46.67093745609758,1100</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Wilderswil Westabflug der Rega</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f0000ff</color>
+              <width>2</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7fcc66ff</color>
+            </PolyStyle>
+          </Style>
+          <LineString>
+            <extrude>0</extrude>
+            <tessellate>1</tessellate>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>
+7.8761887550354,46.67016444137668,584
+
+7.87520170211792,46.67031168312829,600
+
+7.839689254760742,46.67093745609758,1100
+</coordinates>
+          </LineString>
+        </Placemark>
+      </Folder>
+    </Folder>
+  </Folder>
+</kml>

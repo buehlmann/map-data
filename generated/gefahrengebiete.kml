@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Flyland Daten 29.03.2020 - 18:44</name>
+    <description><![CDATA[<table cellpadding=0 cellspacing=0 width=450><tr bgcolor='#ff8787'><td colspan='2'>Jegliche Haftung wird abgelehnt!</td></tr><tr bgcolor='#ff8787'><td colspan='2'>Flyland.ch, Skyguide, der SHV-FSVL und die beteiligten Clubs legen Wert auf die Feststellung, dass diese Daten zur Information die offiziellen Luftfahrtpublikationen unterstuetzen aber keinesfalls ersetzen. Es sind ausschliesslich die offiziellen Luftfahrtpublikationen und fuer Schutzgebiete die jeweils getroffenen Abmachungen rechtsgueltig.</td></tr><tr><td width='25%'>Link:</td><td><div align='left'> <a href='http://www.flyland.ch'>Flyland</a></div></td></tr></table>]]></description>
+    <visibility>1</visibility>
+    <open>1</open>
+    <LookAt>
+      <longitude>8.026104</longitude>
+      <latitude>46.823348</latitude>
+      <range>350000</range>
+      <tilt>0</tilt>
+      <heading>0</heading>
+    </LookAt>
+    <Style id="SP">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/SP.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff0000ff</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff000000</color>
+        <width>2</width>
+      </LineStyle>
+    </Style>
+    <Style id="LP">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/LP.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffff0000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff000000</color>
+        <width>2</width>
+      </LineStyle>
+    </Style>
+    <Style id="INFO">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/Info.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="BB">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/BB.JPG</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="CAM">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/CAM.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff000000</color>
+        <width>2</width>
+      </LineStyle>
+    </Style>
+    <Style id="PP">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/PP.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff000000</color>
+        <width>2</width>
+      </LineStyle>
+    </Style>
+    <Style id="GG">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/GG.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="VZ">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/VZ.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="HI">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/HI.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="SZ">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/SZ.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="CTR">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/CTR.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="CTR_SR">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/CTR_SR.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="Airspace">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/Airspace.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="Airspace_SR">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/Airspace_SR.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="FLF">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/FLF.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="FLF_SR">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/FLF_SR.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="HPO">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/HPO.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="HPO_SR">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/HPO_SR.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="FLRTE">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/FLRTE.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Gefahrengebiete</name>
+      <visibility>1</visibility>
+      <Folder>
+        <name>Schibenguetsch</name>
+        <description>Gefahrengebiet</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Schibenguetsch</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='left'>Gefahrengebiet</td>
+</tr>
+<tr>
+<td colspan='2' align='left'>Talverrengung zwischen Schibenguetsch und Hohgant. Vorsicht durch die Verrengung entsteht eine sehr starke Duesenwirkung. Beim aufdrehen am Schibeguetsch aufpassen und sich nicht zuweit nach hinten treiben lassen.</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#GG</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>7.9498505,46.8136774,2000</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Schibenguetsch</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>0</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+7.9498505,46.8136774,2000
+7.9469336,46.8114415,2000
+7.9460871,46.8092054,2000
+7.9460105,46.8010647,2000
+7.9517789,46.79879,2000
+7.9575581,46.7990428,2000
+7.9580612,46.8077483,2000
+7.9531094,46.809174,2000
+7.9498505,46.8136774,2000
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>Schibenguetsch</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+7.9498505,46.8136774,2000
+7.9469336,46.8114415,2000
+7.9460871,46.8092054,2000
+7.9460105,46.8010647,2000
+7.9517789,46.79879,2000
+7.9575581,46.7990428,2000
+7.9580612,46.8077483,2000
+7.9531094,46.809174,2000
+7.9498505,46.8136774,2000
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>Schiessstand Blumenstein</name>
+        <description>Gefahrengebiet</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>Schiessstand Blumenstein</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr>
+<td bgcolor='#D7E1EE' colspan='2' align='left'>Gefahrengebiet</td>
+</tr>
+<tr>
+<td colspan='2' align='left'>Gesperrter Bereich bei Schiessbetrieb auf der Tankbahn Blumenstein
+Bitte beachtet die offiziellen Schiesspublikationen unter:<br>
+http://www.thuneramtsanzeiger.ch/schiesspublikationen<br>
+http://45degrees.ch<br>
+Mi APP Thun / News / Schiesszeiten / Tankbahn Blumenstein<br>
+<br>
+Die Publikation vor Ort auf dem Schiessplatz oder den Landeplaetzen<br>
+Hinweis: Beim Blinken der Warnlampe wird geschossen. Ein Nichtblinken dieser Warnlampe schliesst jedoch den Schiessbetrieb nicht aus (Funktionsstoerung).</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#GG</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>7.510439873440,46.747859633717,1500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>Schiessstand Blumenstein</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>0</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+7.510439873440,46.747859633717,1500
+7.477652550442,46.734272335058,1500
+7.482330322964,46.724153161388,1500
+7.489153862698,46.725418161918,1500
+7.506706238491,46.724153161388,1500
+7.513358116848,46.726094777932,1500
+7.514345169766,46.741095822137,1500
+7.510439873440,46.747859633717,1500
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>Schiessstand Blumenstein</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+7.510439873440,46.747859633717,1500
+7.477652550442,46.734272335058,1500
+7.482330322964,46.724153161388,1500
+7.489153862698,46.725418161918,1500
+7.506706238491,46.724153161388,1500
+7.513358116848,46.726094777932,1500
+7.514345169766,46.741095822137,1500
+7.510439873440,46.747859633717,1500
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+    </Folder>
+  </Folder>
+</kml>

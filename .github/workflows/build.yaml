@@ -1,19 +1,32 @@
-name: Build
+name: Flyland data
 
-on: [push]
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron:  "* 3 * * *"
 
 jobs:
-  getdata:
-    name: Get latest airspace data
+  update:
+    name: Update layers
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
 
-      - name: Setup env
+      - name: Setup environment
         run: sudo apt install xmlstarlet -y 
 
-      - name: Download
+      - name: Download and generate
         run: generators/flyland-kml.sh
 
-      - name: Print
-        run: find .
+      - name: Publish
+        uses: github-actions-x/commit@v2.5
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          push-branch: 'master'
+          commit-message: 'Publish most recent kml layers of flyland'
+          force-add: 'true'
+          files: generated/
+          name: Benjamin Buehlmann
+          email: benjamin.buehlmann@gmail.com

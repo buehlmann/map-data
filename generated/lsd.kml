@@ -1,0 +1,4506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Folder>
+    <name>Flyland Daten 29.03.2020 - 18:44</name>
+    <description><![CDATA[<table cellpadding=0 cellspacing=0 width=450><tr bgcolor='#ff8787'><td colspan='2'>Jegliche Haftung wird abgelehnt!</td></tr><tr bgcolor='#ff8787'><td colspan='2'>Flyland.ch, Skyguide, der SHV-FSVL und die beteiligten Clubs legen Wert auf die Feststellung, dass diese Daten zur Information die offiziellen Luftfahrtpublikationen unterstuetzen aber keinesfalls ersetzen. Es sind ausschliesslich die offiziellen Luftfahrtpublikationen und fuer Schutzgebiete die jeweils getroffenen Abmachungen rechtsgueltig.</td></tr><tr><td width='25%'>Link:</td><td><div align='left'> <a href='http://www.flyland.ch'>Flyland</a></div></td></tr></table>]]></description>
+    <visibility>1</visibility>
+    <open>1</open>
+    <LookAt>
+      <longitude>8.026104</longitude>
+      <latitude>46.823348</latitude>
+      <range>350000</range>
+      <tilt>0</tilt>
+      <heading>0</heading>
+    </LookAt>
+    <Style id="SP">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/SP.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff0000ff</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff000000</color>
+        <width>2</width>
+      </LineStyle>
+    </Style>
+    <Style id="LP">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/LP.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ffff0000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff000000</color>
+        <width>2</width>
+      </LineStyle>
+    </Style>
+    <Style id="INFO">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/Info.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="BB">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/BB.JPG</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Style id="CAM">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/CAM.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff000000</color>
+        <width>2</width>
+      </LineStyle>
+    </Style>
+    <Style id="PP">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/PP.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+      <LineStyle>
+        <color>ff000000</color>
+        <width>2</width>
+      </LineStyle>
+    </Style>
+    <Style id="GG">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/GG.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="VZ">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/VZ.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="HI">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/HI.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="SZ">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/SZ.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="CTR">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/CTR.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="CTR_SR">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/CTR_SR.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="Airspace">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/Airspace.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="Airspace_SR">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/Airspace_SR.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="FLF">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/FLF.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="FLF_SR">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/FLF_SR.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="HPO">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/HPO.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="HPO_SR">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/HPO_SR.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="FLRTE">
+      <IconStyle>
+        <scale>0.5</scale>
+        <Icon>
+          <href>http://www.flyland.ch/fl_images/FLRTE.JPG</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff000000</color>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Folder>
+      <name>Luftraum DANGER</name>
+      <visibility>1</visibility>
+      <Folder>
+        <name>BIERE</name>
+        <description>Air_D</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>BIERE</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr bgcolor='#D7E1EE'>
+<td width='25%' align='left'>Airspace Type</td>
+<td width='25%' align='left'>Danger</td>
+<td width='25%' align='left'>Designator</td>
+<td width='25%' align='left'>LS-D19A</td>
+</tr>
+<tr>
+<td width='25%' align='left'>ICAO Class</td>
+<td colspan='3' align='left'></td>
+</tr>
+<tr>
+<td width='25%' align='left'>Radio [MHz]</td>
+<td colspan='3' align='left'></td>
+</tr>
+<tr>
+<td width='25%' align='left'>Lower Alt Type</td>
+<td width='25%' align='left'>AGL</td>
+<td width='25%' align='left'>Upper Alt Type</td>
+<td width='25%' align='left'>AMSL</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Lower Alt Value</td>
+<td width='25%' align='left'>0</td>
+<td width='25%' align='left'>Upper Alt Value</td>
+<td width='25%' align='left'>6600</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Lower Alt [m]</td>
+<td width='25%' align='left'>0</td>
+<td width='25%' align='left'>Upper Alt [m]</td>
+<td width='25%' align='left'>2000</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#Airspace</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>6.3817109949,46.5953903253,2000</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>BIERE</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>0</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+6.3817109949,46.5953903253,2000
+6.3558468192,46.5796104275,2000
+6.3763159015,46.5690706146,2000
+6.3986511007,46.5892758691,2000
+6.3817109949,46.5953903253,2000
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BIERE</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+6.3817109949,46.5953903253,2000
+6.3558468192,46.5796104275,2000
+6.3763159015,46.5690706146,2000
+6.3986511007,46.5892758691,2000
+6.3817109949,46.5953903253,2000
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>BIERE</name>
+        <description>Air_D</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>BIERE</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr bgcolor='#D7E1EE'>
+<td width='25%' align='left'>Airspace Type</td>
+<td width='25%' align='left'>Danger</td>
+<td width='25%' align='left'>Designator</td>
+<td width='25%' align='left'>LS-D19</td>
+</tr>
+<tr>
+<td width='25%' align='left'>ICAO Class</td>
+<td colspan='3' align='left'></td>
+</tr>
+<tr>
+<td width='25%' align='left'>Radio [MHz]</td>
+<td colspan='3' align='left'></td>
+</tr>
+<tr>
+<td width='25%' align='left'>Lower Alt Type</td>
+<td width='25%' align='left'>AGL</td>
+<td width='25%' align='left'>Upper Alt Type</td>
+<td width='25%' align='left'>AMSL</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Lower Alt Value</td>
+<td width='25%' align='left'>0</td>
+<td width='25%' align='left'>Upper Alt Value</td>
+<td width='25%' align='left'>6600</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Lower Alt [m]</td>
+<td width='25%' align='left'>0</td>
+<td width='25%' align='left'>Upper Alt [m]</td>
+<td width='25%' align='left'>2000</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#Airspace</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>6.3558468192,46.5796104275,2000</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>BIERE</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>0</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+6.3558468192,46.5796104275,2000
+6.2797846847,46.5331767632,2000
+6.3572737348,46.5023444973,2000
+6.3672687150,46.5259558603,2000
+6.3403345390,46.5365126401,2000
+6.3763159015,46.5690706146,2000
+6.3558468192,46.5796104275,2000
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BIERE</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+6.3558468192,46.5796104275,2000
+6.2797846847,46.5331767632,2000
+6.3572737348,46.5023444973,2000
+6.3672687150,46.5259558603,2000
+6.3403345390,46.5365126401,2000
+6.3763159015,46.5690706146,2000
+6.3558468192,46.5796104275,2000
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>BREIL/BRIGELS</name>
+        <description>Air_D</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr bgcolor='#D7E1EE'>
+<td width='25%' align='left'>Airspace Type</td>
+<td width='25%' align='left'>Danger</td>
+<td width='25%' align='left'>Designator</td>
+<td width='25%' align='left'>LS-D10</td>
+</tr>
+<tr>
+<td width='25%' align='left'>ICAO Class</td>
+<td colspan='3' align='left'></td>
+</tr>
+<tr>
+<td width='25%' align='left'>Radio [MHz]</td>
+<td colspan='3' align='left'>AD:135.475</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Lower Alt Type</td>
+<td width='25%' align='left'>AMSL</td>
+<td width='25%' align='left'>Upper Alt Type</td>
+<td width='25%' align='left'>AMSL</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Lower Alt Value</td>
+<td width='25%' align='left'>4000</td>
+<td width='25%' align='left'>Upper Alt Value</td>
+<td width='25%' align='left'>13000</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Lower Alt [m]</td>
+<td width='25%' align='left'>1200</td>
+<td width='25%' align='left'>Upper Alt [m]</td>
+<td width='25%' align='left'>3950</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#Airspace</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>9.2188896030,46.7572980935,3950</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.2188896030,46.7572980935,1200
+9.2187697805,46.7635804030,1200
+9.2180204906,46.7698365277,1200
+9.2166406245,46.7760394756,1200
+9.2146293755,46.7821712378,1200
+9.2120109455,46.7881774156,1200
+9.2087720552,46.7940581704,1200
+9.2049500418,46.7997588834,1200
+9.2005575615,46.8052703013,1200
+9.1956192154,46.8105469901,1200
+9.1901477147,46.8155796857,1200
+9.1841814126,46.8203407320,1200
+9.1777456008,46.8248026740,1200
+9.1708658973,46.8289470494,1200
+9.1635807691,46.8327462059,1200
+9.1559292986,46.8361904828,1200
+9.1479503126,46.8392612329,1200
+9.1396695659,46.8419400117,1200
+9.1311390567,46.8442079916,1200
+9.1223985526,46.8460735315,1200
+9.1134998197,46.8475088359,1200
+9.1044561670,46.8485136771,1200
+9.0953464534,46.8490868817,1200
+9.0861968373,46.8492190630,1200
+9.0770599768,46.8489094604,1200
+9.0679625853,46.8481666967,1200
+9.0589835283,46.8469896670,1200
+9.0501361230,46.8453782142,1200
+9.0414738035,46.8433586140,1200
+9.0330357993,46.8409213666,1200
+9.0248752296,46.8380837809,1200
+9.0170189701,46.8348635410,1200
+9.0095069713,46.8312781561,1200
+9.0023788884,46.8273361494,1200
+8.9956748655,46.8230640376,1200
+8.9894216454,46.8184795263,1200
+8.9836461957,46.8136093159,1200
+8.9783885463,46.8084799296,1200
+8.9736619789,46.8031002562,1200
+8.9694938704,46.7975149786,1200
+8.9658974443,46.7917329762,1200
+8.9629133624,46.7858077408,1200
+8.9605283545,46.7797394946,1200
+8.9587699400,46.7735818889,1200
+8.9576384195,46.7673529400,1200
+8.9571343401,46.7610796477,1200
+8.9572846691,46.7547976472,1200
+8.9580640225,46.7485432595,1200
+8.9594729437,46.7423434531,1200
+8.9615117275,46.7362161925,1200
+8.9641555340,46.7302157563,1200
+8.9674172583,46.7243419278,1200
+8.9712590236,46.7186491436,1200
+8.9756678652,46.7131465156,1200
+8.9806187928,46.7078793005,1200
+8.9860988971,46.7028565992,1200
+8.9920696656,46.6981058511,1200
+8.9985056971,46.6936543183,1200
+9.0053813660,46.6895202687,1200
+9.0126582729,46.6857311456,1200
+9.0202975321,46.6822964099,1200
+9.0282605530,46.6792345229,1200
+9.0365218448,46.6765637706,1200
+9.0450298142,46.6743028122,1200
+9.0537451583,46.6724431542,1200
+9.0626166014,46.6710124746,1200
+9.0716312777,46.6700109241,1200
+9.0807110063,46.6694395983,1200
+9.0898301482,46.6693078535,1200
+9.0989366674,46.6696164417,1200
+9.1080043790,46.6703567549,1200
+9.1169551087,46.6715299567,1200
+9.1257759991,46.6731362680,1200
+9.1344141401,46.6751495159,1200
+9.1428307913,46.6775793215,1200
+9.1509732790,46.6804085319,1200
+9.1588150320,46.6836196134,1200
+9.1663163815,46.6871952352,1200
+9.1734379140,46.6911270677,1200
+9.1801396050,46.6953888007,1200
+9.1863947520,46.6999629220,1200
+9.1921763275,46.7048229273,1200
+9.1974441934,46.7099425132,1200
+9.2021849102,46.7153129596,1200
+9.2063707593,46.7208897712,1200
+9.2099882429,46.7266642185,1200
+9.2129962041,46.7325830065,1200
+9.2154075471,46.7386459794,1200
+9.2171941446,46.7447996236,1200
+9.2183551977,46.7510259818,1200
+9.2187074357,46.7541607122,1200
+9.2188896030,46.7572980935,1200
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.2188896030,46.7572980935,3950
+9.2187697805,46.7635804030,3950
+9.2180204906,46.7698365277,3950
+9.2166406245,46.7760394756,3950
+9.2146293755,46.7821712378,3950
+9.2120109455,46.7881774156,3950
+9.2087720552,46.7940581704,3950
+9.2049500418,46.7997588834,3950
+9.2005575615,46.8052703013,3950
+9.1956192154,46.8105469901,3950
+9.1901477147,46.8155796857,3950
+9.1841814126,46.8203407320,3950
+9.1777456008,46.8248026740,3950
+9.1708658973,46.8289470494,3950
+9.1635807691,46.8327462059,3950
+9.1559292986,46.8361904828,3950
+9.1479503126,46.8392612329,3950
+9.1396695659,46.8419400117,3950
+9.1311390567,46.8442079916,3950
+9.1223985526,46.8460735315,3950
+9.1134998197,46.8475088359,3950
+9.1044561670,46.8485136771,3950
+9.0953464534,46.8490868817,3950
+9.0861968373,46.8492190630,3950
+9.0770599768,46.8489094604,3950
+9.0679625853,46.8481666967,3950
+9.0589835283,46.8469896670,3950
+9.0501361230,46.8453782142,3950
+9.0414738035,46.8433586140,3950
+9.0330357993,46.8409213666,3950
+9.0248752296,46.8380837809,3950
+9.0170189701,46.8348635410,3950
+9.0095069713,46.8312781561,3950
+9.0023788884,46.8273361494,3950
+8.9956748655,46.8230640376,3950
+8.9894216454,46.8184795263,3950
+8.9836461957,46.8136093159,3950
+8.9783885463,46.8084799296,3950
+8.9736619789,46.8031002562,3950
+8.9694938704,46.7975149786,3950
+8.9658974443,46.7917329762,3950
+8.9629133624,46.7858077408,3950
+8.9605283545,46.7797394946,3950
+8.9587699400,46.7735818889,3950
+8.9576384195,46.7673529400,3950
+8.9571343401,46.7610796477,3950
+8.9572846691,46.7547976472,3950
+8.9580640225,46.7485432595,3950
+8.9594729437,46.7423434531,3950
+8.9615117275,46.7362161925,3950
+8.9641555340,46.7302157563,3950
+8.9674172583,46.7243419278,3950
+8.9712590236,46.7186491436,3950
+8.9756678652,46.7131465156,3950
+8.9806187928,46.7078793005,3950
+8.9860988971,46.7028565992,3950
+8.9920696656,46.6981058511,3950
+8.9985056971,46.6936543183,3950
+9.0053813660,46.6895202687,3950
+9.0126582729,46.6857311456,3950
+9.0202975321,46.6822964099,3950
+9.0282605530,46.6792345229,3950
+9.0365218448,46.6765637706,3950
+9.0450298142,46.6743028122,3950
+9.0537451583,46.6724431542,3950
+9.0626166014,46.6710124746,3950
+9.0716312777,46.6700109241,3950
+9.0807110063,46.6694395983,3950
+9.0898301482,46.6693078535,3950
+9.0989366674,46.6696164417,3950
+9.1080043790,46.6703567549,3950
+9.1169551087,46.6715299567,3950
+9.1257759991,46.6731362680,3950
+9.1344141401,46.6751495159,3950
+9.1428307913,46.6775793215,3950
+9.1509732790,46.6804085319,3950
+9.1588150320,46.6836196134,3950
+9.1663163815,46.6871952352,3950
+9.1734379140,46.6911270677,3950
+9.1801396050,46.6953888007,3950
+9.1863947520,46.6999629220,3950
+9.1921763275,46.7048229273,3950
+9.1974441934,46.7099425132,3950
+9.2021849102,46.7153129596,3950
+9.2063707593,46.7208897712,3950
+9.2099882429,46.7266642185,3950
+9.2129962041,46.7325830065,3950
+9.2154075471,46.7386459794,3950
+9.2171941446,46.7447996236,3950
+9.2183551977,46.7510259818,3950
+9.2187074357,46.7541607122,3950
+9.2188896030,46.7572980935,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.2188896030,46.7572980935,1200
+9.2187697805,46.7635804030,1200
+9.2187697805,46.7635804030,3950
+9.2188896030,46.7572980935,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.2187697805,46.7635804030,1200
+9.2180204906,46.7698365277,1200
+9.2180204906,46.7698365277,3950
+9.2187697805,46.7635804030,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.2180204906,46.7698365277,1200
+9.2166406245,46.7760394756,1200
+9.2166406245,46.7760394756,3950
+9.2180204906,46.7698365277,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.2166406245,46.7760394756,1200
+9.2146293755,46.7821712378,1200
+9.2146293755,46.7821712378,3950
+9.2166406245,46.7760394756,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.2146293755,46.7821712378,1200
+9.2120109455,46.7881774156,1200
+9.2120109455,46.7881774156,3950
+9.2146293755,46.7821712378,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.2120109455,46.7881774156,1200
+9.2087720552,46.7940581704,1200
+9.2087720552,46.7940581704,3950
+9.2120109455,46.7881774156,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.2087720552,46.7940581704,1200
+9.2049500418,46.7997588834,1200
+9.2049500418,46.7997588834,3950
+9.2087720552,46.7940581704,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.2049500418,46.7997588834,1200
+9.2005575615,46.8052703013,1200
+9.2005575615,46.8052703013,3950
+9.2049500418,46.7997588834,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.2005575615,46.8052703013,1200
+9.1956192154,46.8105469901,1200
+9.1956192154,46.8105469901,3950
+9.2005575615,46.8052703013,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.1956192154,46.8105469901,1200
+9.1901477147,46.8155796857,1200
+9.1901477147,46.8155796857,3950
+9.1956192154,46.8105469901,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.1901477147,46.8155796857,1200
+9.1841814126,46.8203407320,1200
+9.1841814126,46.8203407320,3950
+9.1901477147,46.8155796857,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.1841814126,46.8203407320,1200
+9.1777456008,46.8248026740,1200
+9.1777456008,46.8248026740,3950
+9.1841814126,46.8203407320,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.1777456008,46.8248026740,1200
+9.1708658973,46.8289470494,1200
+9.1708658973,46.8289470494,3950
+9.1777456008,46.8248026740,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.1708658973,46.8289470494,1200
+9.1635807691,46.8327462059,1200
+9.1635807691,46.8327462059,3950
+9.1708658973,46.8289470494,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.1635807691,46.8327462059,1200
+9.1559292986,46.8361904828,1200
+9.1559292986,46.8361904828,3950
+9.1635807691,46.8327462059,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.1559292986,46.8361904828,1200
+9.1479503126,46.8392612329,1200
+9.1479503126,46.8392612329,3950
+9.1559292986,46.8361904828,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.1479503126,46.8392612329,1200
+9.1396695659,46.8419400117,1200
+9.1396695659,46.8419400117,3950
+9.1479503126,46.8392612329,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.1396695659,46.8419400117,1200
+9.1311390567,46.8442079916,1200
+9.1311390567,46.8442079916,3950
+9.1396695659,46.8419400117,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.1311390567,46.8442079916,1200
+9.1223985526,46.8460735315,1200
+9.1223985526,46.8460735315,3950
+9.1311390567,46.8442079916,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.1223985526,46.8460735315,1200
+9.1134998197,46.8475088359,1200
+9.1134998197,46.8475088359,3950
+9.1223985526,46.8460735315,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.1134998197,46.8475088359,1200
+9.1044561670,46.8485136771,1200
+9.1044561670,46.8485136771,3950
+9.1134998197,46.8475088359,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.1044561670,46.8485136771,1200
+9.0953464534,46.8490868817,1200
+9.0953464534,46.8490868817,3950
+9.1044561670,46.8485136771,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.0953464534,46.8490868817,1200
+9.0861968373,46.8492190630,1200
+9.0861968373,46.8492190630,3950
+9.0953464534,46.8490868817,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.0861968373,46.8492190630,1200
+9.0770599768,46.8489094604,1200
+9.0770599768,46.8489094604,3950
+9.0861968373,46.8492190630,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.0770599768,46.8489094604,1200
+9.0679625853,46.8481666967,1200
+9.0679625853,46.8481666967,3950
+9.0770599768,46.8489094604,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.0679625853,46.8481666967,1200
+9.0589835283,46.8469896670,1200
+9.0589835283,46.8469896670,3950
+9.0679625853,46.8481666967,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.0589835283,46.8469896670,1200
+9.0501361230,46.8453782142,1200
+9.0501361230,46.8453782142,3950
+9.0589835283,46.8469896670,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.0501361230,46.8453782142,1200
+9.0414738035,46.8433586140,1200
+9.0414738035,46.8433586140,3950
+9.0501361230,46.8453782142,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.0414738035,46.8433586140,1200
+9.0330357993,46.8409213666,1200
+9.0330357993,46.8409213666,3950
+9.0414738035,46.8433586140,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.0330357993,46.8409213666,1200
+9.0248752296,46.8380837809,1200
+9.0248752296,46.8380837809,3950
+9.0330357993,46.8409213666,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.0248752296,46.8380837809,1200
+9.0170189701,46.8348635410,1200
+9.0170189701,46.8348635410,3950
+9.0248752296,46.8380837809,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.0170189701,46.8348635410,1200
+9.0095069713,46.8312781561,1200
+9.0095069713,46.8312781561,3950
+9.0170189701,46.8348635410,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.0095069713,46.8312781561,1200
+9.0023788884,46.8273361494,1200
+9.0023788884,46.8273361494,3950
+9.0095069713,46.8312781561,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.0023788884,46.8273361494,1200
+8.9956748655,46.8230640376,1200
+8.9956748655,46.8230640376,3950
+9.0023788884,46.8273361494,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+8.9956748655,46.8230640376,1200
+8.9894216454,46.8184795263,1200
+8.9894216454,46.8184795263,3950
+8.9956748655,46.8230640376,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+8.9894216454,46.8184795263,1200
+8.9836461957,46.8136093159,1200
+8.9836461957,46.8136093159,3950
+8.9894216454,46.8184795263,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+8.9836461957,46.8136093159,1200
+8.9783885463,46.8084799296,1200
+8.9783885463,46.8084799296,3950
+8.9836461957,46.8136093159,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+8.9783885463,46.8084799296,1200
+8.9736619789,46.8031002562,1200
+8.9736619789,46.8031002562,3950
+8.9783885463,46.8084799296,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+8.9736619789,46.8031002562,1200
+8.9694938704,46.7975149786,1200
+8.9694938704,46.7975149786,3950
+8.9736619789,46.8031002562,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+8.9694938704,46.7975149786,1200
+8.9658974443,46.7917329762,1200
+8.9658974443,46.7917329762,3950
+8.9694938704,46.7975149786,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+8.9658974443,46.7917329762,1200
+8.9629133624,46.7858077408,1200
+8.9629133624,46.7858077408,3950
+8.9658974443,46.7917329762,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+8.9629133624,46.7858077408,1200
+8.9605283545,46.7797394946,1200
+8.9605283545,46.7797394946,3950
+8.9629133624,46.7858077408,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+8.9605283545,46.7797394946,1200
+8.9587699400,46.7735818889,1200
+8.9587699400,46.7735818889,3950
+8.9605283545,46.7797394946,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+8.9587699400,46.7735818889,1200
+8.9576384195,46.7673529400,1200
+8.9576384195,46.7673529400,3950
+8.9587699400,46.7735818889,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+8.9576384195,46.7673529400,1200
+8.9571343401,46.7610796477,1200
+8.9571343401,46.7610796477,3950
+8.9576384195,46.7673529400,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+8.9571343401,46.7610796477,1200
+8.9572846691,46.7547976472,1200
+8.9572846691,46.7547976472,3950
+8.9571343401,46.7610796477,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+8.9572846691,46.7547976472,1200
+8.9580640225,46.7485432595,1200
+8.9580640225,46.7485432595,3950
+8.9572846691,46.7547976472,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+8.9580640225,46.7485432595,1200
+8.9594729437,46.7423434531,1200
+8.9594729437,46.7423434531,3950
+8.9580640225,46.7485432595,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+8.9594729437,46.7423434531,1200
+8.9615117275,46.7362161925,1200
+8.9615117275,46.7362161925,3950
+8.9594729437,46.7423434531,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+8.9615117275,46.7362161925,1200
+8.9641555340,46.7302157563,1200
+8.9641555340,46.7302157563,3950
+8.9615117275,46.7362161925,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+8.9641555340,46.7302157563,1200
+8.9674172583,46.7243419278,1200
+8.9674172583,46.7243419278,3950
+8.9641555340,46.7302157563,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+8.9674172583,46.7243419278,1200
+8.9712590236,46.7186491436,1200
+8.9712590236,46.7186491436,3950
+8.9674172583,46.7243419278,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+8.9712590236,46.7186491436,1200
+8.9756678652,46.7131465156,1200
+8.9756678652,46.7131465156,3950
+8.9712590236,46.7186491436,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+8.9756678652,46.7131465156,1200
+8.9806187928,46.7078793005,1200
+8.9806187928,46.7078793005,3950
+8.9756678652,46.7131465156,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+8.9806187928,46.7078793005,1200
+8.9860988971,46.7028565992,1200
+8.9860988971,46.7028565992,3950
+8.9806187928,46.7078793005,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+8.9860988971,46.7028565992,1200
+8.9920696656,46.6981058511,1200
+8.9920696656,46.6981058511,3950
+8.9860988971,46.7028565992,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+8.9920696656,46.6981058511,1200
+8.9985056971,46.6936543183,1200
+8.9985056971,46.6936543183,3950
+8.9920696656,46.6981058511,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+8.9985056971,46.6936543183,1200
+9.0053813660,46.6895202687,1200
+9.0053813660,46.6895202687,3950
+8.9985056971,46.6936543183,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.0053813660,46.6895202687,1200
+9.0126582729,46.6857311456,1200
+9.0126582729,46.6857311456,3950
+9.0053813660,46.6895202687,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.0126582729,46.6857311456,1200
+9.0202975321,46.6822964099,1200
+9.0202975321,46.6822964099,3950
+9.0126582729,46.6857311456,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.0202975321,46.6822964099,1200
+9.0282605530,46.6792345229,1200
+9.0282605530,46.6792345229,3950
+9.0202975321,46.6822964099,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.0282605530,46.6792345229,1200
+9.0365218448,46.6765637706,1200
+9.0365218448,46.6765637706,3950
+9.0282605530,46.6792345229,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.0365218448,46.6765637706,1200
+9.0450298142,46.6743028122,1200
+9.0450298142,46.6743028122,3950
+9.0365218448,46.6765637706,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.0450298142,46.6743028122,1200
+9.0537451583,46.6724431542,1200
+9.0537451583,46.6724431542,3950
+9.0450298142,46.6743028122,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.0537451583,46.6724431542,1200
+9.0626166014,46.6710124746,1200
+9.0626166014,46.6710124746,3950
+9.0537451583,46.6724431542,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.0626166014,46.6710124746,1200
+9.0716312777,46.6700109241,1200
+9.0716312777,46.6700109241,3950
+9.0626166014,46.6710124746,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.0716312777,46.6700109241,1200
+9.0807110063,46.6694395983,1200
+9.0807110063,46.6694395983,3950
+9.0716312777,46.6700109241,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.0807110063,46.6694395983,1200
+9.0898301482,46.6693078535,1200
+9.0898301482,46.6693078535,3950
+9.0807110063,46.6694395983,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.0898301482,46.6693078535,1200
+9.0989366674,46.6696164417,1200
+9.0989366674,46.6696164417,3950
+9.0898301482,46.6693078535,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.0989366674,46.6696164417,1200
+9.1080043790,46.6703567549,1200
+9.1080043790,46.6703567549,3950
+9.0989366674,46.6696164417,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.1080043790,46.6703567549,1200
+9.1169551087,46.6715299567,1200
+9.1169551087,46.6715299567,3950
+9.1080043790,46.6703567549,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.1169551087,46.6715299567,1200
+9.1257759991,46.6731362680,1200
+9.1257759991,46.6731362680,3950
+9.1169551087,46.6715299567,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.1257759991,46.6731362680,1200
+9.1344141401,46.6751495159,1200
+9.1344141401,46.6751495159,3950
+9.1257759991,46.6731362680,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.1344141401,46.6751495159,1200
+9.1428307913,46.6775793215,1200
+9.1428307913,46.6775793215,3950
+9.1344141401,46.6751495159,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.1428307913,46.6775793215,1200
+9.1509732790,46.6804085319,1200
+9.1509732790,46.6804085319,3950
+9.1428307913,46.6775793215,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.1509732790,46.6804085319,1200
+9.1588150320,46.6836196134,1200
+9.1588150320,46.6836196134,3950
+9.1509732790,46.6804085319,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.1588150320,46.6836196134,1200
+9.1663163815,46.6871952352,1200
+9.1663163815,46.6871952352,3950
+9.1588150320,46.6836196134,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.1663163815,46.6871952352,1200
+9.1734379140,46.6911270677,1200
+9.1734379140,46.6911270677,3950
+9.1663163815,46.6871952352,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.1734379140,46.6911270677,1200
+9.1801396050,46.6953888007,1200
+9.1801396050,46.6953888007,3950
+9.1734379140,46.6911270677,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.1801396050,46.6953888007,1200
+9.1863947520,46.6999629220,1200
+9.1863947520,46.6999629220,3950
+9.1801396050,46.6953888007,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.1863947520,46.6999629220,1200
+9.1921763275,46.7048229273,1200
+9.1921763275,46.7048229273,3950
+9.1863947520,46.6999629220,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.1921763275,46.7048229273,1200
+9.1974441934,46.7099425132,1200
+9.1974441934,46.7099425132,3950
+9.1921763275,46.7048229273,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.1974441934,46.7099425132,1200
+9.2021849102,46.7153129596,1200
+9.2021849102,46.7153129596,3950
+9.1974441934,46.7099425132,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.2021849102,46.7153129596,1200
+9.2063707593,46.7208897712,1200
+9.2063707593,46.7208897712,3950
+9.2021849102,46.7153129596,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.2063707593,46.7208897712,1200
+9.2099882429,46.7266642185,1200
+9.2099882429,46.7266642185,3950
+9.2063707593,46.7208897712,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.2099882429,46.7266642185,1200
+9.2129962041,46.7325830065,1200
+9.2129962041,46.7325830065,3950
+9.2099882429,46.7266642185,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.2129962041,46.7325830065,1200
+9.2154075471,46.7386459794,1200
+9.2154075471,46.7386459794,3950
+9.2129962041,46.7325830065,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.2154075471,46.7386459794,1200
+9.2171941446,46.7447996236,1200
+9.2171941446,46.7447996236,3950
+9.2154075471,46.7386459794,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.2171941446,46.7447996236,1200
+9.2183551977,46.7510259818,1200
+9.2183551977,46.7510259818,3950
+9.2171941446,46.7447996236,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.2183551977,46.7510259818,1200
+9.2187074357,46.7541607122,1200
+9.2187074357,46.7541607122,3950
+9.2183551977,46.7510259818,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>BREIL/BRIGELS</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.2187074357,46.7541607122,1200
+9.2188896030,46.7572980935,1200
+9.2188896030,46.7572980935,3950
+9.2187074357,46.7541607122,3950
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>ERISWIL</name>
+        <description>Air_D</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>ERISWIL</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr bgcolor='#D7E1EE'>
+<td width='25%' align='left'>Airspace Type</td>
+<td width='25%' align='left'>Danger</td>
+<td width='25%' align='left'>Designator</td>
+<td width='25%' align='left'>LS-D5</td>
+</tr>
+<tr>
+<td width='25%' align='left'>ICAO Class</td>
+<td colspan='3' align='left'></td>
+</tr>
+<tr>
+<td width='25%' align='left'>Radio [MHz]</td>
+<td colspan='3' align='left'></td>
+</tr>
+<tr>
+<td width='25%' align='left'>Lower Alt Type</td>
+<td width='25%' align='left'>AMSL</td>
+<td width='25%' align='left'>Upper Alt Type</td>
+<td width='25%' align='left'>AMSL</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Lower Alt Value</td>
+<td width='25%' align='left'>3000</td>
+<td width='25%' align='left'>Upper Alt Value</td>
+<td width='25%' align='left'>5000</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Lower Alt [m]</td>
+<td width='25%' align='left'>900</td>
+<td width='25%' align='left'>Upper Alt [m]</td>
+<td width='25%' align='left'>1500</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#Airspace</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>8.0796968696,47.0908937219,1500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>ERISWIL</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+8.0796968696,47.0908937219,900
+7.9880345008,47.1133076593,900
+7.8962955624,47.1356483383,900
+7.7921247614,47.1260672186,900
+7.6879914255,47.1163917509,900
+7.6403421923,47.0597268346,900
+7.7114014212,46.9989439371,900
+7.7822998930,46.9381164252,900
+7.9019362239,46.9450443996,900
+8.0216031503,46.9518474442,900
+8.0506123981,47.0213747301,900
+8.0796968696,47.0908937219,900
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>ERISWIL</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+8.0796968696,47.0908937219,1500
+7.9880345008,47.1133076593,1500
+7.8962955624,47.1356483383,1500
+7.7921247614,47.1260672186,1500
+7.6879914255,47.1163917509,1500
+7.6403421923,47.0597268346,1500
+7.7114014212,46.9989439371,1500
+7.7822998930,46.9381164252,1500
+7.9019362239,46.9450443996,1500
+8.0216031503,46.9518474442,1500
+8.0506123981,47.0213747301,1500
+8.0796968696,47.0908937219,1500
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>ERISWIL</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+8.0796968696,47.0908937219,900
+7.9880345008,47.1133076593,900
+7.9880345008,47.1133076593,1500
+8.0796968696,47.0908937219,1500
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>ERISWIL</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+7.9880345008,47.1133076593,900
+7.8962955624,47.1356483383,900
+7.8962955624,47.1356483383,1500
+7.9880345008,47.1133076593,1500
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>ERISWIL</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+7.8962955624,47.1356483383,900
+7.7921247614,47.1260672186,900
+7.7921247614,47.1260672186,1500
+7.8962955624,47.1356483383,1500
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>ERISWIL</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+7.7921247614,47.1260672186,900
+7.6879914255,47.1163917509,900
+7.6879914255,47.1163917509,1500
+7.7921247614,47.1260672186,1500
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>ERISWIL</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+7.6879914255,47.1163917509,900
+7.6403421923,47.0597268346,900
+7.6403421923,47.0597268346,1500
+7.6879914255,47.1163917509,1500
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>ERISWIL</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+7.6403421923,47.0597268346,900
+7.7114014212,46.9989439371,900
+7.7114014212,46.9989439371,1500
+7.6403421923,47.0597268346,1500
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>ERISWIL</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+7.7114014212,46.9989439371,900
+7.7822998930,46.9381164252,900
+7.7822998930,46.9381164252,1500
+7.7114014212,46.9989439371,1500
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>ERISWIL</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+7.7822998930,46.9381164252,900
+7.9019362239,46.9450443996,900
+7.9019362239,46.9450443996,1500
+7.7822998930,46.9381164252,1500
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>ERISWIL</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+7.9019362239,46.9450443996,900
+8.0216031503,46.9518474442,900
+8.0216031503,46.9518474442,1500
+7.9019362239,46.9450443996,1500
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>ERISWIL</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+8.0216031503,46.9518474442,900
+8.0506123981,47.0213747301,900
+8.0506123981,47.0213747301,1500
+8.0216031503,46.9518474442,1500
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>ERISWIL</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+8.0506123981,47.0213747301,900
+8.0796968696,47.0908937219,900
+8.0796968696,47.0908937219,1500
+8.0506123981,47.0213747301,1500
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>GASTERNTAL</name>
+        <description>Air_D</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>GASTERNTAL</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr bgcolor='#D7E1EE'>
+<td width='25%' align='left'>Airspace Type</td>
+<td width='25%' align='left'>Danger</td>
+<td width='25%' align='left'>Designator</td>
+<td width='25%' align='left'>LS-D14</td>
+</tr>
+<tr>
+<td width='25%' align='left'>ICAO Class</td>
+<td colspan='3' align='left'></td>
+</tr>
+<tr>
+<td width='25%' align='left'>Radio [MHz]</td>
+<td colspan='3' align='left'></td>
+</tr>
+<tr>
+<td width='25%' align='left'>Lower Alt Type</td>
+<td width='25%' align='left'>AGL</td>
+<td width='25%' align='left'>Upper Alt Type</td>
+<td width='25%' align='left'>AMSL</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Lower Alt Value</td>
+<td width='25%' align='left'>0</td>
+<td width='25%' align='left'>Upper Alt Value</td>
+<td width='25%' align='left'>7200</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Lower Alt [m]</td>
+<td width='25%' align='left'>0</td>
+<td width='25%' align='left'>Upper Alt [m]</td>
+<td width='25%' align='left'>2200</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#Airspace</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>7.7267908905,46.4709515833,2200</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>GASTERNTAL</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>0</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+7.7267908905,46.4709515833,2200
+7.6490258268,46.4681806437,2200
+7.6323569786,46.4487347184,2200
+7.6906888070,46.4237382070,2200
+7.7267908905,46.4709515833,2200
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>GASTERNTAL</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+7.7267908905,46.4709515833,2200
+7.6490258268,46.4681806437,2200
+7.6323569786,46.4487347184,2200
+7.6906888070,46.4237382070,2200
+7.7267908905,46.4709515833,2200
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>GRANDVILLARD</name>
+        <description>Air_D</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>GRANDVILLARD</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr bgcolor='#D7E1EE'>
+<td width='25%' align='left'>Airspace Type</td>
+<td width='25%' align='left'>Danger</td>
+<td width='25%' align='left'>Designator</td>
+<td width='25%' align='left'>LS-D7</td>
+</tr>
+<tr>
+<td width='25%' align='left'>ICAO Class</td>
+<td colspan='3' align='left'></td>
+</tr>
+<tr>
+<td width='25%' align='left'>Radio [MHz]</td>
+<td colspan='3' align='left'>AD:135.475</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Lower Alt Type</td>
+<td width='25%' align='left'>AGL</td>
+<td width='25%' align='left'>Upper Alt Type</td>
+<td width='25%' align='left'>AMSL</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Lower Alt Value</td>
+<td width='25%' align='left'>0</td>
+<td width='25%' align='left'>Upper Alt Value</td>
+<td width='25%' align='left'>9000</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Lower Alt [m]</td>
+<td width='25%' align='left'>0</td>
+<td width='25%' align='left'>Upper Alt [m]</td>
+<td width='25%' align='left'>2750</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#Airspace</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>7.1775774025,46.6089563056,2750</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>GRANDVILLARD</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>0</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+7.1775774025,46.6089563056,2750
+7.0864418523,46.5727282764,2750
+6.9819379538,46.5903483707,2750
+6.9824309887,46.5318780323,2750
+6.9829229506,46.4734075590,2750
+7.1001048917,46.4738171875,2750
+7.1780108761,46.5190009300,2750
+7.1777943207,46.5639786680,2750
+7.1775774025,46.6089563056,2750
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>GRANDVILLARD</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+7.1775774025,46.6089563056,2750
+7.0864418523,46.5727282764,2750
+6.9819379538,46.5903483707,2750
+6.9824309887,46.5318780323,2750
+6.9829229506,46.4734075590,2750
+7.1001048917,46.4738171875,2750
+7.1780108761,46.5190009300,2750
+7.1777943207,46.5639786680,2750
+7.1775774025,46.6089563056,2750
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>ROSSBODEN-CHUR</name>
+        <description>Air_D</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>ROSSBODEN-CHUR</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr bgcolor='#D7E1EE'>
+<td width='25%' align='left'>Airspace Type</td>
+<td width='25%' align='left'>Danger</td>
+<td width='25%' align='left'>Designator</td>
+<td width='25%' align='left'>LS-D15</td>
+</tr>
+<tr>
+<td width='25%' align='left'>ICAO Class</td>
+<td colspan='3' align='left'></td>
+</tr>
+<tr>
+<td width='25%' align='left'>Radio [MHz]</td>
+<td colspan='3' align='left'></td>
+</tr>
+<tr>
+<td width='25%' align='left'>Lower Alt Type</td>
+<td width='25%' align='left'>AGL</td>
+<td width='25%' align='left'>Upper Alt Type</td>
+<td width='25%' align='left'>AMSL</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Lower Alt Value</td>
+<td width='25%' align='left'>0</td>
+<td width='25%' align='left'>Upper Alt Value</td>
+<td width='25%' align='left'>6000</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Lower Alt [m]</td>
+<td width='25%' align='left'>0</td>
+<td width='25%' align='left'>Upper Alt [m]</td>
+<td width='25%' align='left'>1850</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#Airspace</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>9.4903989958,46.8667603125,1850</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>ROSSBODEN-CHUR</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>0</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.4903989958,46.8667603125,1850
+9.4792982851,46.8598141881,1850
+9.4945750132,46.8459259264,1850
+9.5070624762,46.8487061851,1850
+9.4903989958,46.8667603125,1850
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>ROSSBODEN-CHUR</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+9.4903989958,46.8667603125,1850
+9.4792982851,46.8598141881,1850
+9.4945750132,46.8459259264,1850
+9.5070624762,46.8487061851,1850
+9.4903989958,46.8667603125,1850
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>SIHLTAL</name>
+        <description>Air_D</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>SIHLTAL</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr bgcolor='#D7E1EE'>
+<td width='25%' align='left'>Airspace Type</td>
+<td width='25%' align='left'>Danger</td>
+<td width='25%' align='left'>Designator</td>
+<td width='25%' align='left'>LS-D12</td>
+</tr>
+<tr>
+<td width='25%' align='left'>ICAO Class</td>
+<td colspan='3' align='left'></td>
+</tr>
+<tr>
+<td width='25%' align='left'>Radio [MHz]</td>
+<td colspan='3' align='left'></td>
+</tr>
+<tr>
+<td width='25%' align='left'>Lower Alt Type</td>
+<td width='25%' align='left'>AGL</td>
+<td width='25%' align='left'>Upper Alt Type</td>
+<td width='25%' align='left'>AMSL</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Lower Alt Value</td>
+<td width='25%' align='left'>0</td>
+<td width='25%' align='left'>Upper Alt Value</td>
+<td width='25%' align='left'>9850</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Lower Alt [m]</td>
+<td width='25%' align='left'>0</td>
+<td width='25%' align='left'>Upper Alt [m]</td>
+<td width='25%' align='left'>3000</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#Airspace</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>8.8766035966,47.0570093457,3000</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>SIHLTAL</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>0</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+8.8766035966,47.0570093457,3000
+8.8516045562,47.0570048204,3000
+8.8377229911,47.0542329596,3000
+8.8377214703,46.9986795070,3000
+8.8571702643,46.9986835248,3000
+8.8877127922,47.0486738051,3000
+8.8766035966,47.0570093457,3000
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>SIHLTAL</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+8.8766035966,47.0570093457,3000
+8.8516045562,47.0570048204,3000
+8.8377229911,47.0542329596,3000
+8.8377214703,46.9986795070,3000
+8.8571702643,46.9986835248,3000
+8.8877127922,47.0486738051,3000
+8.8766035966,47.0570093457,3000
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+      <Folder>
+        <name>THUN</name>
+        <description>Air_D</description>
+        <visibility>1</visibility>
+        <Placemark>
+          <name>THUN</name>
+          <description><![CDATA[
+<table cellpadding=0 cellspacing=0 width=500>
+<tr bgcolor='#D7E1EE'>
+<td width='25%' align='left'>Airspace Type</td>
+<td width='25%' align='left'>Danger</td>
+<td width='25%' align='left'>Designator</td>
+<td width='25%' align='left'>LS-D18</td>
+</tr>
+<tr>
+<td width='25%' align='left'>ICAO Class</td>
+<td colspan='3' align='left'></td>
+</tr>
+<tr>
+<td width='25%' align='left'>Radio [MHz]</td>
+<td colspan='3' align='left'></td>
+</tr>
+<tr>
+<td width='25%' align='left'>Lower Alt Type</td>
+<td width='25%' align='left'>AGL</td>
+<td width='25%' align='left'>Upper Alt Type</td>
+<td width='25%' align='left'>AMSL</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Lower Alt Value</td>
+<td width='25%' align='left'>0</td>
+<td width='25%' align='left'>Upper Alt Value</td>
+<td width='25%' align='left'>5000</td>
+</tr>
+<tr>
+<td width='25%' align='left'>Lower Alt [m]</td>
+<td width='25%' align='left'>0</td>
+<td width='25%' align='left'>Upper Alt [m]</td>
+<td width='25%' align='left'>1500</td>
+</tr>
+</table>
+]]></description>
+          <styleUrl>#Airspace</styleUrl>
+          <Point>
+            <extrude>0</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <coordinates>7.6070866799,46.7600849502,1500</coordinates>
+          </Point>
+        </Placemark>
+        <Placemark>
+          <name>THUN</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>0</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+7.6070866799,46.7600849502,1500
+7.5432004235,46.7350909439,1500
+7.5693106075,46.7170370789,1500
+7.6070866799,46.7600849502,1500
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+        <Placemark>
+          <name>THUN</name>
+          <visibility>1</visibility>
+          <open>0</open>
+          <Style>
+            <LineStyle>
+              <color>7f000000</color>
+              <width>0.5</width>
+            </LineStyle>
+            <PolyStyle>
+              <color>7f0000ff</color>
+              <fill>1</fill>
+              <outline>1</outline>
+            </PolyStyle>
+          </Style>
+          <Polygon>
+            <extrude>1</extrude>
+            <altitudeMode>absolute</altitudeMode>
+            <outerBoundaryIs>
+              <LinearRing>
+                <coordinates>
+7.6070866799,46.7600849502,1500
+7.5432004235,46.7350909439,1500
+7.5693106075,46.7170370789,1500
+7.6070866799,46.7600849502,1500
+</coordinates>
+              </LinearRing>
+            </outerBoundaryIs>
+          </Polygon>
+        </Placemark>
+      </Folder>
+    </Folder>
+    <Folder>
+      <name>Luftraum Sonderregelung DANGER</name>
+      <visibility>1</visibility>
+    </Folder>
+  </Folder>
+</kml>
