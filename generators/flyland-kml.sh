@@ -1,4 +1,7 @@
 #!/bin/bash
+
+set_name() { xmlstarlet ed -L -N "ns=http://www.opengis.net/kml/2.2" -u "/ns:kml/ns:Folder/ns:name" -x "concat('$1', substring-after(/ns:kml/ns:Folder/ns:name/text(), 'Flyland Daten'))" $2; }
+
 curl 'http://www.flyland.ch/fl_php/fl_php_Downloader.php?case=1001' --compressed -s \
     -H 'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0' \
     -H 'Content-Type: application/x-www-form-urlencoded' \
@@ -18,3 +21,14 @@ xmlstarlet ed -N "ns=http://www.opengis.net/kml/2.2" -d "/ns:kml/ns:Folder/ns:Fo
 xmlstarlet ed -N "ns=http://www.opengis.net/kml/2.2" -d "/ns:kml/ns:Folder/ns:Folder/ns:name[not(text()='Landeplaetze')]/.." raw.kml > generated/landeplaetze.kml
 xmlstarlet ed -N "ns=http://www.opengis.net/kml/2.2" -d "/ns:kml/ns:Folder/ns:Folder/ns:name[not(text()='Gefahrengebiete')]/.." raw.kml > generated/gefahrengebiete.kml
 xmlstarlet ed -N "ns=http://www.opengis.net/kml/2.2" -d "/ns:kml/ns:Folder/ns:Folder/ns:name[not(text()='Wildschutzzonen')]/.." raw.kml > generated/wildschutzzonen.kml
+
+set_name "Sonderregeln" "generated/sonderregelung.kml"
+set_name "Hindernisse" "generated/hindernisse.kml"
+set_name "CTR" "generated/ctr.kml"
+set_name "TMA" "generated/tma.kml"
+set_name "LS-D" "generated/lsd.kml"
+set_name "LS-R" "generated/lsr.kml"
+set_name "Startplaetze" "generated/startplaetze.kml"
+set_name "Landeplaetze" "generated/landeplaetze.kml"
+set_name "Gefahren" "generated/gefahrengebiete.kml"
+set_name "Wildschutz" "generated/wildschutzzonen.kml"
