@@ -29,5 +29,3 @@ jobs:
           commit-message: 'Publish most recent kml layers of flyland'
           force-add: 'true'
           files: generated/
-          name: Benjamin Buehlmann
-          email: benjamin.buehlmann@gmail.com
