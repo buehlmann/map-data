@@ -2,8 +2,9 @@ name: Flyland data
 
 on:
   push:
-    branches:
-      - master
+    paths:
+    - ".github/**"
+    - "generators/**.sh"
   schedule:
     - cron:  "* 3 * * *"
 
