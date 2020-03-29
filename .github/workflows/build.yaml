@@ -1,0 +1,26 @@
+name: Build
+
+on: [push]
+
+jobs:
+  getdata:
+    name: Get latest airspace data
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Download
+        run: |
+           curl 'http://www.flyland.ch/fl_php/fl_php_Downloader.php?case=1001' --compressed -s \
+            -H 'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0' \
+            -H 'Content-Type: application/x-www-form-urlencoded' \
+            -H 'Origin: http://www.flyland.ch'  \
+            -H 'Referer: http://www.flyland.ch/disclamer.php?case=1001' \
+            --data 'cbAkzeptieren=on' \
+            > raw.kml
+
+      - name: Format
+        run: xmllint --format raw.kml > raw-formatted.kml
+
+      - name: Print
+        run: head raw.kml; head raw-formatted.kml
