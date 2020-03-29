@@ -9,6 +9,9 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
+      - name: Setup env
+        run: sudo apt install libxml2-utils -y 
+
       - name: Download
         run: |
            curl 'http://www.flyland.ch/fl_php/fl_php_Downloader.php?case=1001' --compressed -s \
