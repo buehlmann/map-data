@@ -2,6 +2,18 @@
 
 set_name() { xmlstarlet ed -L -N "ns=http://www.opengis.net/kml/2.2" -u "/ns:kml/ns:Folder/ns:name" -x "concat('$1', substring-after(/ns:kml/ns:Folder/ns:name/text(), 'Flyland Daten'))" $2; }
 
+dismiss_unchanged_layers() {
+    git diff --stat generated > diff
+    set -x
+    while read line
+    do
+        if [[ "$line" =~ ^(generated\/.*kml)( *\| *)([0-9]+).* ]]; then
+            [[ "${BASH_REMATCH[3]}" == 2 ]] && git checkout "${BASH_REMATCH[1]}"
+        fi
+    done < diff
+    set +x
+}
+
 curl 'http://www.flyland.ch/fl_php/fl_php_Downloader.php?case=1001' --compressed -s \
     -H 'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0' \
     -H 'Content-Type: application/x-www-form-urlencoded' \
@@ -33,3 +45,7 @@ set_name "Startplaetze" "generated/startplaetze.kml"
 set_name "Landeplaetze" "generated/landeplaetze.kml"
 set_name "Gefahren" "generated/gefahrengebiete.kml"
 set_name "Wildschutz" "generated/wildschutzzonen.kml"
+
+dismiss_unchanged_layers
+
+rm -rf raw.kml diff
