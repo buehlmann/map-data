@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Folder>
-    <name>Startplaetze 30.03.2020 - 07:11</name>
+    <name>Startplaetze 03.08.2020 - 03:05</name>
     <description><![CDATA[<table cellpadding=0 cellspacing=0 width=450><tr bgcolor='#ff8787'><td colspan='2'>Jegliche Haftung wird abgelehnt!</td></tr><tr bgcolor='#ff8787'><td colspan='2'>Flyland.ch, Skyguide, der SHV-FSVL und die beteiligten Clubs legen Wert auf die Feststellung, dass diese Daten zur Information die offiziellen Luftfahrtpublikationen unterstuetzen aber keinesfalls ersetzen. Es sind ausschliesslich die offiziellen Luftfahrtpublikationen und fuer Schutzgebiete die jeweils getroffenen Abmachungen rechtsgueltig.</td></tr><tr><td width='25%'>Link:</td><td><div align='left'> <a href='http://www.flyland.ch'>Flyland</a></div></td></tr></table>]]></description>
     <visibility>1</visibility>
     <open>1</open>
@@ -9231,54 +9231,6 @@ Normale Startzeit 11:00 -18:00 Uhr.Thermik ab 12:00 Uhr. Fuer Gebirgsstarts sind
           <extrude>1</extrude>
           <altitudeMode>relativeToGround</altitudeMode>
           <coordinates>9.85109118,46.85503123,150.0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Gottertli</name>
-        <description><![CDATA[
-<table cellpadding=0 cellspacing=0 width=500>
-<tr bgcolor='#D7E1EE'>
-<td colspan='4' align='left'>Startplatz</td>
-</tr>
-<tr>
-<td width='20%' align='left'>Startfenster:</td><td colspan='3' align='left'></td>
-</tr>
-<td width='20%' align='left'>Ausrichtung:</td><td width='30%' align='left'>NW</td>
-<td width='20%' align='left'>Schwierigkeit:</td><td width='30%' align='left'>Einfach</td>
-</tr>
-<tr>
-<td align='left'>Hoehe:</td><td align='left'>1360 m</td>
-<td align='left'>Bergbahn:</td><td align='left'>Ja</td>
-</tr>
-<tr>
-<td align='left'>Koordinaten:</td><td colspan='3' align='left'>8.57757119,47.01289267</td>
-</tr>
-<tr>
-<td align='left'>Marschzeit:</td><td colspan='3' align='left'>20 min</td>
-</tr>
-<tr>
-<td colspan='4' align='left'>Von Brunnen mit der Bahn nach Urmiberg, danach 20 min zu Fuss, oder mit dem Fahrzeug von Lauerz Richtung Gaetterli bis Rohrboden, von dort zu Fuss. Der Startplatz ist eine mittelsteile Wiese.
-Ideales Soaringgelaende bei Bise. Flug nach Brunnen ist bei starker Bise nicht empfehlenswert! Vom Bauernhof rechts vom Startplatz fuehrt ein Transportseil Richtung Norden, das beim Soaren in unmittelbarer Hangnaehe beachtet werden muss.</td>
-</tr>
-</table>
-<br>
-<table cellpadding=0 cellspacing=0 width=500>
-<tr>
-<td width='25%'><img alt="W0" title="Hier sollte doch ihr Banner sein!" height="54" width="79" src="http://www.flyland.ch/fl_banner/BD1.jpg"></td>
-<td width='25%'><a href='http://www.flyland.ch/fl_store/SP/62_1.jpg' target='_blank'><img alt='Pic1' src='http://www.flyland.ch/fl_store/SP/62_1.jpg' height=54 width=79 />
-</td>
-<td width='25%'><a href='http://www.flyland.ch/fl_store/SP/62_2.jpg' target='_blank'><img alt='Pic2' src='http://www.flyland.ch/fl_store/SP/62_2.jpg' height=54 width=79 />
-</td>
-<td><a href='http://www.flyland.ch/fl_store/SP/Empty.jpg' target='_blank'><img alt='Pic3' src='http://www.flyland.ch/fl_store/SP/Empty.jpg' height=54 width=79 />
-</td>
-</tr>
-</table>
-]]></description>
-        <styleUrl>#SP</styleUrl>
-        <Point>
-          <extrude>1</extrude>
-          <altitudeMode>relativeToGround</altitudeMode>
-          <coordinates>8.57757119,47.01289267,150.0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
