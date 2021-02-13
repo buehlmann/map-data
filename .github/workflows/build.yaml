@@ -23,7 +23,7 @@ jobs:
 
       - name: Publish
         uses: github-actions-x/commit@v2.7
-        if: github.ref == 'ref/head/master'
+        if: endsWith(github.ref, 'master')
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           push-branch: 'master'
