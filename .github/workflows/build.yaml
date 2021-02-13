@@ -3,7 +3,7 @@ name: Flyland data
 on:
   push:
     paths:
-    - ".github/**"
+    - ".github/workflows/**"
     - "generators/**.sh"
   schedule:
     - cron:  "0 1 * * *"
@@ -23,6 +23,7 @@ jobs:
 
       - name: Publish
         uses: github-actions-x/commit@v2.5
+        if: github.ref == 'ref/head/master'
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           push-branch: 'master'
