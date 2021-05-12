@@ -22,7 +22,7 @@ jobs:
         run: generators/flyland-kml.sh
 
       - name: Publish
-        uses: github-actions-x/commit@v2.7
+        uses: github-actions-x/commit@v2.8
         if: endsWith(github.ref, 'master')
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
